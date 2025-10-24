@@ -1,0 +1,28 @@
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: #fafafa;
+}
+
+.site-header {
+  background: #fff;
+  border-bottom: 1px solid #eee;
+}
+
+.site-nav a {
+  padding: 0.5rem 1rem;
+  color: #333 !important;
+  font-weight: 500;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+img {
+  display: block;
+  margin: 1rem auto;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}

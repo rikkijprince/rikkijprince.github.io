@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Experimental"
+layout: home
+title: "Experimental Works"
 ---
 
 Here are some of my experimental and philosophical works:

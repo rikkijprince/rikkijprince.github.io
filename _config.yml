@@ -42,19 +42,39 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   
+# Navigation menu
 header_pages:
+  - index.md
   - about.md
-  - books.md
+  - novels.md
+  - stories.md
+  - experimental.md
+  - zanzibar.md
+  - readers.md
   - contact.md
 
-# Navigation menu
+# Optional navigation bar (for layout customization)
 nav:
   - title: "Home"
     url: /
   - title: "About"
     url: /about/
-  - title: "Books"
-    url: /books/
+  - title: "Novels"
+    url: /novels/
+  - title: "Short Stories"
+    url: /stories/
+  - title: "Experimental Works"
+    url: /experimental/
+  - title: "Zanzibar"
+    url: /zanzibar/
+  - title: "RJP Readers"
+    url: /readers/
+  - title: "Contact Info"
+    url: /contact/
+
+sass:
+  style: compressed
+
     
 # Exclude from processing.
 # The following items will not be processed, by default.

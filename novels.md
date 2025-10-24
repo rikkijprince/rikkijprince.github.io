@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Novels"
 ---
 
@@ -31,10 +31,5 @@ Coming Soon:
 
 - *Sarah Mackay in San Francisco*
 - *Sarah Mackay's Return to Gaza 2025*
-- *Sarah Mackay in Los Angeles*
-- *Sarah Mackay in Iran and North Korea*
-- *Sarah Mackay in India and Pakistan*
-- *Sarah Mackay in Two Great Coups*
-- *Sarah Mackay and Two Great Firewalls*
-- *Sarah Mackay and the True Nature of Time*
+
 

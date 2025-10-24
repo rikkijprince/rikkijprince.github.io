@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Anwar Zanzibar"
 ---
 
@@ -7,7 +7,7 @@ These are some works of collaboration together with the author Anwar Zanzibar:
 
 - *The Moonfire Pact*
 - *Between Shadow and Flames*
-- *A Forbidden Perfume"
+- *A Forbidden Perfume*
 - *Fundamentals of Witchcraft*
 - *Witchcraft and Magick*
 - *Advanced Witchcraft Training*
