@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The art & science of pleasure
   The art & science of risk
 baseurl: "" # leave empty for the root site of rikkijprince.github.io
-url: "https://rikkijprince.github.io" # the base hostname & protocol for your site
+url: "https://rikkijprince.com" # the base hostname & protocol for your site
 twitter_username: rikkijprince
 github_username:  rikkijprince
 
