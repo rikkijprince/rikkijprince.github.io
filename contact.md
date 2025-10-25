@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Contact"
+permalink: /contact/
 ---
 
 You can reach me via email at [me@rikkijprince.com](mailto:me@rikkijprince.com).  

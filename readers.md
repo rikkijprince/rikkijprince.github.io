@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "RJP Readers"
+permalink: /readers/
 ---
 
 Graded English Readers:

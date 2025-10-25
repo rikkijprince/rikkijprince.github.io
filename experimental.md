@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Experimental Works"
+permalink: /experimental/
 ---
 
 Here are some of my experimental and philosophical works:

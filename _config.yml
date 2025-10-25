@@ -23,12 +23,12 @@ email: me@rikkijprince.com
 description: >-
   Books by Rikki J Prince
   The Sarah Mackay saga
-  RJP readers for English learners (A1, A2, B1, B2, C1, C2)
-  Philosophical essays
-  Speculative fiction
-  The occult - a scientific perspective
-  The art & science of pleasure
-  The art & science of risk
+  RJP Readers for English learners (A1, A2, B1, B2, C1, C2)
+  Philosophical Essays
+  Speculative Fiction
+  The Occult - A Scientific Perspective
+  The Art & Science of Pleasure
+  The Art & Science of Risk
 baseurl: ""
 url: "https://rikkijprince.com"
 
@@ -48,6 +48,26 @@ header_pages:
   - zanzibar.md
   - readers.md
   - contact.md
+
+# Example navigation links
+nav:
+  - title: "Rikki J Prince"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Novels"
+    url: /novels/
+  - title: "Short Stories"
+    url: /stories/
+  - title: "Experimental Works"
+    url: /experimental/
+  - title: "Anwar Zanzibar"
+    url: /zanzibar/
+  - title: "RJP Readers"
+    url: /readers/
+  - title: "Contact"
+    url: /contact/
+
     
 # Exclude from processing.
 # The following items will not be processed, by default.

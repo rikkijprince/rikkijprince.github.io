@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Novels"
+permalink: /novels/
 ---
 
 Here are some of my favorite hard sci-fi novels:

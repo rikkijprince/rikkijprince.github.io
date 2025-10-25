@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Anwar Zanzibar"
+permalink: /zanzibar/
 ---
 
 These are some works of collaboration together with the author Anwar Zanzibar:

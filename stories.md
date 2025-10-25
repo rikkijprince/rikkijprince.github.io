@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Short Stories"
+permalink: /stories/
 ---
 
 Here are some short stories extracted from Sarah Mackay's Student Days:
