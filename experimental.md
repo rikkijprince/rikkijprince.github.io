@@ -3,7 +3,7 @@ layout: home
 title: "Experimental Works"
 permalink: /experimental/
 ---
-
+{% include navbar.html %}
 Here are some of my experimental and philosophical works:
 
 - *What is Existence*

@@ -3,6 +3,7 @@ layout: home
 title: About
 permalink: /about/
 ---
+{% include navbar.html %}
 ![Rikki J Prince](/assets/images/rjpxpr.jpg){:style="max-width:200px;border-radius:50%;"}
 
 ## Rikki J Prince

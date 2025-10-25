@@ -3,7 +3,7 @@ layout: home
 title: "RJP Readers"
 permalink: /readers/
 ---
-
+{% include navbar.html %}
 Graded English Readers:
 
 <style>

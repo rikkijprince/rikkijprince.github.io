@@ -3,7 +3,7 @@ layout: home
 title: "Anwar Zanzibar"
 permalink: /zanzibar/
 ---
-
+{% include navbar.html %}
 These are some works of collaboration together with the author Anwar Zanzibar:
 
 - *The Moonfire Pact*

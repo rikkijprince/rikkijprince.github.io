@@ -3,7 +3,7 @@ layout: home
 title: "Short Stories"
 permalink: /stories/
 ---
-
+{% include navbar.html %}
 Here are some short stories extracted from Sarah Mackay's Student Days:
 
 - *Particle Physics in Geneva* 

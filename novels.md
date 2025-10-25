@@ -3,7 +3,7 @@ layout: home
 title: "Novels"
 permalink: /novels/
 ---
-
+{% include navbar.html %}
 <style>
 .books-grid {
   display: flex;
