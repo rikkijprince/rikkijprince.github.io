@@ -5,13 +5,16 @@ permalink: /stories/
 ---
 {% include navbar.html %}
 
-**Here are some short stories extracted from Sarah Mackay's Student Days:**
+**Here are some short stories in ebook format, extracted from Sarah Mackay's Student Days:**
 
 ---
 
 ### *0 Particle Physics in Geneva*  
-[**🍎 Buy on Apple**](https://books.apple.com/be/audiobook/nine-days-immersed-in-particle-physics-in-geneva/id1800797777){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/ww/en/ebook/nine-days-immersed-in-particle-physics-in-geneva){: .btn .btn-kobo }
+The first story is free when you <b>sign up to my monthly newsletter</b> which gives free samples of my latest books.
 
+If you have trouble signing up, send me an email, and I'll send you the story free of charge.
+<!--[**🍎 Buy on Apple**](https://books.apple.com/be/audiobook/nine-days-immersed-in-particle-physics-in-geneva/id1800797777){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/ww/en/ebook/nine-days-immersed-in-particle-physics-in-geneva){: .btn .btn-kobo }
+!-->
 ---
 
 ### *1 Quantum Gravity in Istanbul*  
