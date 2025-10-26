@@ -194,7 +194,7 @@ permalink: /novels/
 <div class="books-grid">
 
 <div class="book-card">
-  <h3>Sarah Mackay in Beijing</h3>
+  <h3>1 Sarah Mackay in Beijing</h3>
   <a href="https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DTKMB7QQ/?tag=rjpamazon-21" target="_blank">
     <img src="/assets/images/novels/Sarah Mackay in Beijing.jpg" alt="Sarah Mackay in Beijing">
   </a>
@@ -203,7 +203,7 @@ permalink: /novels/
 </div>
 
 <div class="book-card">
-  <h3>Sarah Mackay and the Vatican–Moony Conspiracies</h3>
+  <h3>2 Sarah Mackay and the Vatican–Moony Conspiracies</h3>
   <a href="https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DLJG1K2J/?tag=rjpamazon-21" target="_blank">
     <img src="/assets/images/novels/Sarah Mackay and the Vatican-Moony Conspiracies.jpg" alt="Sarah Mackay and the Vatican–Moony Conspiracies">
   </a>
@@ -212,7 +212,7 @@ permalink: /novels/
 </div>
 
 <div class="book-card">
-  <h3>Sarah Mackay and the Race for Quantum Supremacy</h3>
+  <h3>3 Sarah Mackay and the Race for Quantum Supremacy</h3>
   <a href="https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0DYYZHSV3/?tag=rjpamazon-21" target="_blank">
     <img src="/assets/images/novels/Sarah Mackay and the Race for Quantum Supremacy.jpg" alt="Sarah Mackay and the Race for Quantum Supremacy">
   </a>
@@ -221,7 +221,7 @@ permalink: /novels/
 </div>
 
 <div class="book-card">
-  <h3>Sarah Mackay in Gaza and Sudan</h3>
+  <h3>4 Sarah Mackay in Gaza and Sudan</h3>
   <a href="https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0F16CJ7FS/?tag=rjpamazon-21" target="_blank">
     <img src="/assets/images/novels/Sarah Mackay in Gaza and Sudan.jpg" alt="Sarah Mackay in Gaza and Sudan">
   </a>
@@ -230,7 +230,7 @@ permalink: /novels/
 </div>
 
 <div class="book-card">
-  <h3>Sarah Mackay in the Frozen Lands</h3>
+  <h3>5 Sarah Mackay in the Frozen Lands</h3>
   <a href="https://www.amazon.com/-/es/Sarah-Mackay-Frozen-Lands-Prince/dp/B0F26G8CKM/?tag=rjpamazon-21" target="_blank">
     <img src="/assets/images/novels/Sarah Mackay in the Frozen Lands.jpg" alt="Sarah Mackay in the Frozen Lands">
   </a>
