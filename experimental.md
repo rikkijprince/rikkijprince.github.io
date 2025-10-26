@@ -8,7 +8,7 @@ permalink: /experimental/
 
 >*As an Amazon Associate I earn from qualifying purchases.*
 
-**These are some of Rikki J. Prince’s experimental works:**
+**These are some of my experimental works:**
 
 ---
 
