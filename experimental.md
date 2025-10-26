@@ -6,7 +6,9 @@ permalink: /experimental/
 
 {% include navbar.html %}
 
->*As an Amazon Associate I earn from qualifying purchases.*
+>*As an Amazon Associate I earn from qualifying purchases.*  
+
+<br>
 
 **These are some of my experimental works:**
 
@@ -35,11 +37,17 @@ Can a crime be solved before it is committed? And if time moves backward, is gui
 
 ---
 
-## Coming Soon
+### *Eudaimonic Flow or the Art of Flourishing*
+A life philosophy that will help you reach your potential.  
+
+<a href="https://www.amazon.com/-/es/Eudaimonic-Flow-Art-Flourishing-Philosophical/dp/B0FB82JQV1" class="btn btn-primary" target="_blank">Buy on Amazon</a>
+
+---
+
+### Coming Soon
 
 - **Eternal Return** — Part 2 of *Murder Undone*  
 - **Night Hunger** — Life seen through the eyes of a stray dog and a stray cat.  
 - **What is Existence** — An essay on the meaning of existence.  
 - **Authentic Rebel** — It’s time to turn the tables on life’s impositions.  
-- **Eudaimonic Flow or the Art of Flourishing** — A life philosophy that will help you reach your potential.  
 - **The Never-Ending Question** — A short story for young teens.
