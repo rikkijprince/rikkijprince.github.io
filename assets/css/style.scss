@@ -1,0 +1,76 @@
+/* General Button Style */
+.btn {
+  display: inline-block;
+  margin: 4px 6px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: white !important;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.btn:hover {
+  opacity: 0.85;
+}
+
+/* Color Themes */
+.btn-apple { background-color: #b91c1c; }   /* Apple red */
+.btn-kobo { background-color: #2563eb; }    /* Kobo blue */
+.btn-bn { background-color: #15803d; }      /* Barnes & Noble green */
+.btn-indigo { background-color: #7e22ce; }  /* Indigo purple */
+.btn-soon { background-color: #6b7280; }    /* Neutral grey for Coming Soon */
+
+/* Responsive Navbar (Hamburger menu) */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #111;
+  padding: 10px 16px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 14px;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.menu-toggle {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.menu-toggle div {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 4px 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    background-color: #111;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    padding: 10px 0;
+  }
+  .nav-links.active {
+    display: flex;
+  }
+  .menu-toggle {
+    display: flex;
+  }
+}

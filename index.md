@@ -1,7 +1,9 @@
 ---
 layout: home
 title: "Rikki J Prince"
+permalink: /index/
 ---
+{% include navbar.html %}
 
 Welcome to my Homepage
 Here you’ll find my novels, stories, and essays, some collaboration works,
