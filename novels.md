@@ -99,7 +99,7 @@ permalink: /novels/
 
 > **As an Amazon Associate I earn from qualifying purchases.**
 
-*Here are some of my favorite hard sci-fi novels:*
+**Here are some of my favorite hard sci-fi novels:**
 
 <div class="books-grid">
 
@@ -187,9 +187,9 @@ permalink: /novels/
 
 ---
 
-*And here is my saga of Sarah Mackay:*
+**And here is my saga of Sarah Mackay:**
 
-> **As an Amazon Associate I earn from qualifying purchases.**
+> *As an Amazon Associate I earn from qualifying purchases.*
 
 <div class="books-grid">
 
@@ -198,7 +198,7 @@ permalink: /novels/
   <a href="https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DTKMB7QQ/?tag=rjpamazon-21" target="_blank">
     <img src="/assets/images/novels/Sarah Mackay in Beijing.jpg" alt="Sarah Mackay in Beijing">
   </a>
-  <p>Physicist Sarah Mackay uncovers a geopolitical conspiracy in Beijing where quantum research collides with espionage and betrayal.</p>
+  <p>Physicist Sarah Mackay uncovers a geopolitical conspiracy in Beijing where research into cutting-edge AI collides with espionage and betrayal.</p>
   <a href="https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DTKMB7QQ/?tag=rjpamazon-21" class="buy-button orange" target="_blank">Buy on Amazon</a>
 </div>
 
