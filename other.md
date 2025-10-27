@@ -3,8 +3,9 @@ layout: home
 title: "Other Language Editions"
 permalink: /other/
 ---
-
 {% include navbar.html %}
+
+>*As an Amazon Associate I earn from qualifying purchases.*
 
 <style>
 .other-languages {

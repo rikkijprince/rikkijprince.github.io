@@ -8,8 +8,6 @@ permalink: /experimental/
 
 >*As an Amazon Associate I earn from qualifying purchases.*  
 
-<br>
-
 **These are some of my experimental works:**
 
 ---
@@ -51,3 +49,4 @@ A life philosophy that will help you reach your potential.
 - **What is Existence** — An essay on the meaning of existence.  
 - **Authentic Rebel** — It’s time to turn the tables on life’s impositions.  
 - **The Never-Ending Question** — A short story for young teens.
+- **A Codex of Observations on Humanity** - Humanity seen from an alien perspective.

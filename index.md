@@ -1,11 +1,13 @@
 ---
 layout: home
 title: "Rikki J Prince"
-permalink: /index/
+permalink: /
 ---
 {% include navbar.html %}
+<link rel="stylesheet" href="/assets/css/style.css">
 
-Welcome to my Homepage
+
+Welcome to my Homepage.
 Here you’ll find my novels, stories, and essays, some collaboration works,
 and my graded readers series for English learners.
 
