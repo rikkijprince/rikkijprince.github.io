@@ -5,25 +5,28 @@ permalink: /stories/
 ---
 {% include navbar.html %}
 
+>*As an Amazon Associate I earn from qualifying purchases.*
+
 **Here are some short stories in ebook format, extracted from Sarah Mackay's Student Days:**
 
 ---
 
 ### *0 Particle Physics in Geneva*  
-The first story is free when you <b>sign up to my monthly newsletter</b> which gives free samples of my latest books.
+The first story, which describes Sarah's first trip abroad and the dead cat incident, is free when you <b>sign up to my newsletter.</b>
 
-If you have trouble signing up, send me an email, and I'll send you the story free of charge.
-<!--[**🍎 Buy on Apple**](https://books.apple.com/be/audiobook/nine-days-immersed-in-particle-physics-in-geneva/id1800797777){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/ww/en/ebook/nine-days-immersed-in-particle-physics-in-geneva){: .btn .btn-kobo }
+
+
+<!--[**🍎 Buy on Apple**](https://books.apple.com/be/book/nine-days-immersed-in-particle-physics-in-geneva/id1800797777){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/ww/en/ebook/nine-days-immersed-in-particle-physics-in-geneva){: .btn .btn-kobo }
 !-->
 ---
 
 ### *1 Quantum Gravity in Istanbul*  
-[**🍎 Buy on Apple**](https://books.apple.com/es/audiobook/nine-days-immersed-in-quantum-gravity-in-istanbul/id1800797644){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/ie/en/ebook/nine-days-immersed-in-quantum-gravity-in-istanbul){: .btn .btn-kobo }
+[**🍎 Buy on Apple**](https://books.apple.com/es/book/nine-days-immersed-in-quantum-gravity-in-istanbul/id1800797644){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/ie/en/ebook/nine-days-immersed-in-quantum-gravity-in-istanbul){: .btn .btn-kobo }
 
 ---
 
 ### *2 More Quantum Gravity in Prague*  
-[**🍎 Buy on Apple**](https://books.apple.com/es/audiobook/nine-more-days-immersed-in-quantum-gravity-in-prague/id1800797472){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/ww/en/ebook/nine-more-days-immersed-in-quantum-gravity-in-prague){: .btn .btn-kobo }
+[**🍎 Buy on Apple**](https://books.apple.com/es/book/nine-more-days-immersed-in-quantum-gravity-in-prague/id1800797472){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/ww/en/ebook/nine-more-days-immersed-in-quantum-gravity-in-prague){: .btn .btn-kobo }
 
 ---
 
@@ -33,12 +36,12 @@ If you have trouble signing up, send me an email, and I'll send you the story fr
 ---
 
 ### *4 More Chaos Theory in Florence*  
-[**🍎 Buy on Apple**](https://books.apple.com/de/audiobook/nine-more-days-immersed-in-chaos-theory-in-florence/id1800797688){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/us/en/ebook/nine-more-days-immersed-in-chaos-theory-in-florence){: .btn .btn-kobo }
+[**🍎 Buy on Apple**](https://books.apple.com/de/book/nine-more-days-immersed-in-chaos-theory-in-florence/id1800797688){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/us/en/ebook/nine-more-days-immersed-in-chaos-theory-in-florence){: .btn .btn-kobo }
 
 ---
 
 ### *5 Quantum Mechanics in Copenhagen*  
-[**🍎 Buy on Apple**](https://books.apple.com/es/audiobook/nine-days-immersed-in-quantum-mechanics-in-copenhagen/id1800764370){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/ww/en/ebook/nine-days-immersed-in-quantum-mechanics-in-copenhagen){: .btn .btn-kobo }
+[**🍎 Buy on Apple**](https://books.apple.com/es/book/nine-days-immersed-in-quantum-mechanics-in-copenhagen/id1800764370){: .btn .btn-apple } [**📘 Buy on Kobo**](https://www.kobo.com/ww/en/ebook/nine-days-immersed-in-quantum-mechanics-in-copenhagen){: .btn .btn-kobo }
 
 ---
 
@@ -91,3 +94,4 @@ If you have trouble signing up, send me an email, and I'll send you the story fr
 [**⏳ Coming Soon**](#){: .btn .btn-soon }
 
 ---
+

@@ -98,86 +98,96 @@ permalink: /readers/
 
 <div class="book-card">
 <h3>A1.1 Max the Brave</h3>
-<img src="/assets/images/readers/A1.1 Max the Brave and others.jpg" alt="A1.1 Max the Brave">
+<img src="/assets/images/readers/A1.1 Max the Brave and others.jpg" alt="A1.1 Max the Brave" loading="lazy">
 <p>Two short stories in beginner-level English. In <b>Max the Brave</b>, a timid cat finds unexpected courage; in <b>The Runaway Robot</b>, a friendly machine escapes the lab to discover what freedom means.</p>
 <a href="https://www.amazon.es/A1-1-Brave-Runaway-Robot-Readers/dp/B0F6T4CS9R/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>A1.2 The Dead Cat on My Doorstep</h3>
-<img src="/assets/images/readers/A1.2 Dead Cat and others.jpg" alt="A1.2 The Dead Cat on My Doorstep">
+<img src="/assets/images/readers/A1.2 Dead Cat and others.jpg" alt="A1.2 The Dead Cat on My Doorstep" loading="lazy">
 <p>Two basic English level mysteries: one about a missing birthday cake: short, fun, and full of clues; the other about the strange appearance of a dead cat in a box.</p>
 <a href="https://www.amazon.com/-/es/A1-2-Doorstep-Mystery-Missing-Readers/dp/B0F6TNX7YV/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>A2.1 The Lighthouse Code</h3>
-<img src="/assets/images/readers/A2.1 Lighthouse Code and others.jpg" alt="A2.1 The Lighthouse Code">
+<img src="/assets/images/readers/A2.1 Lighthouse Code and others.jpg" alt="A2.1 The Lighthouse Code" loading="lazy">
 <p>At elementary level, these quietly suspenseful stories follow characters who notice what others miss — a strange call, a hurt animal, a flicker of light — revealing courage and unseen connections.</p>
 <a href="https://www.amazon.es/A2-1-Lighthouse-Other-Stories-Readers/dp/B0FD7HBPZY/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>A2.2 The Alley Cat</h3>
-<img src="/assets/images/readers/A2.2 Alley Cat and others.jpg" alt="A2.2 The Alley Cat">
+<img src="/assets/images/readers/A2.2 Alley Cat and others.jpg" alt="A2.2 The Alley Cat" loading="lazy">
 <p>Three upper-elementary stories full of suspense and empathy: a streetwise cat’s urban odyssey, a haunted house mystery, and a late-night phone call that changes everything.</p>
 <a href="https://www.amazon.es/A2-2-ALLEY-OTHER-STORIES-Readers/dp/B0FD7MGR8M/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>B1.1 Shadows at School</h3>
-<img src="/assets/images/readers/B1.1 Shadows at School and others.jpg" alt="B1.1 Shadows at School">
+<img src="/assets/images/readers/B1.1 Shadows at School and others.jpg" alt="B1.1 Shadows at School" loading="lazy">
 <p>Lower-intermediate level tales of secrets, friendship, and fear in the classroom — where strange shadows move, stories whisper, and every rumor hides a deeper truth.</p>
 <a href="https://www.amazon.es/Shadows-School-Other-Stories-Readers/dp/B0FD8QL5JN/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>B1.2 Second Skin</h3>
-<img src="/assets/images/readers/B1.2 Second Skin and others.jpg" alt="B1.2 Second Skin">
+<img src="/assets/images/readers/B1.2 Second Skin and others.jpg" alt="B1.2 Second Skin" loading="lazy">
 <p>Three intermediate-level modern thrillers about identity, technology, and desire. A digital twin takes control, a deadly VR game turns real, and a mysterious package grants three dangerous wishes.</p>
 <a href="https://www.amazon.es/B1-2-Second-Skin-Other-Stories/dp/B0FDGMQN4Y/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>B2.1 The Disappearing Hour</h3>
-<img src="/assets/images/readers/B2.1 Disappearing Hour and others.jpg" alt="B2.1 The Disappearing Hour">
+<img src="/assets/images/readers/B2.1 Disappearing Hour and others.jpg" alt="B2.1 The Disappearing Hour" loading="lazy">
 <p>Three upper-intermediate stories of memory, time, and control: a woman losing an hour each day, an influencer erased by his own image, and eerie voices rising from the deep.</p>
 <a href="https://www.amazon.es/B2-1-Disappearing-Other-Stories-Readers/dp/B0FDJPGGCG/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>B2.2 The Hacker Code</h3>
-<img src="/assets/images/readers/B2.2 Hacker Code and others.jpg" alt="B2.2 The Hacker Code">
+<img src="/assets/images/readers/B2.2 Hacker Code and others.jpg" alt="B2.2 The Hacker Code" loading="lazy">
 <p>Aimed at Cambridge First Certificate level: three thrillers about power and secrets: a teen hacker decodes a global conspiracy, heirs race an AI for a fortune, and students uncover an island’s hidden history.</p>
 <a href="https://www.amazon.es/Eternal-Echoes-Weight-Silence-Readers/dp/B0FFMZV2VX/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>C1.1 Eternal Echoes</h3>
-<img src="/assets/images/readers/C1.1 Eternal Echoes and others.jpg" alt="C1.1 Eternal Echoes">
+<img src="/assets/images/readers/C1.1 Eternal Echoes and others.jpg" alt="C1.1 Eternal Echoes" loading="lazy">
 <p>Advanced-level stories exploring silence, memory, and the unseen ties between people — lyrical, mysterious, and emotionally charged.</p>
 <a href="https://www.amazon.es/C1-1-Eternal-Echoes-Weight-Silence/dp/B0FFMZV2VX/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>C1.2 The Collapse</h3>
-<img src="/assets/images/readers/C1.2 The Collapse and others.jpg" alt="C1.2 The Collapse">
+<img src="/assets/images/readers/C1.2 The Collapse and others.jpg" alt="C1.2 The Collapse" loading="lazy">
 <p>Two intense novellas at Cambridge Advanced level: a family faces political decay in *The Collapse*, and a scientist questions reality itself in *The Memory Index*. Deep, philosophical, and haunting.</p>
 <a href="https://www.amazon.es/C1-2-Collapse-Memory-Index-Readers/dp/B0FFN7GFK2/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>C2.1 Archive of Vanishing Things</h3>
-<img src="/assets/images/readers/C2.1 Archive of Vanishing Things.jpg" alt="C2.1 The Archive of Vanishing Things">
+<img src="/assets/images/readers/C2.1 Archive of Vanishing Things.jpg" alt="C2.1 The Archive of Vanishing Things" loading="lazy">
 <p>Two dark, thought-provoking novellas about erasure and resistance: an archivist uncovers a city that forgets its people, and a student falls into a labyrinth of control and identity.</p>
 <a href="https://www.amazon.es/Archive-Vanishing-Things-Under-Readers/dp/B0FFMZW73V/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
 <h3>C2.2 Clean Slate</h3>
-<img src="/assets/images/readers/C2.2 Clean Slate and others.jpg" alt="C2.2 Clean Slate">
+<img src="/assets/images/readers/C2.2 Clean Slate and others.jpg" alt="C2.2 Clean Slate" loading="lazy">
 <p>At Cambridge Proficiency level, two haunting novellas: *Clean Slate*, where erased memories return to rewrite a woman’s life, and *Underneath Her Smile*, a chilling study of truth and love.</p>
 <a href="https://www.amazon.com/-/es/Archive-Vanishing-Things-Under-Readers/dp/B0FFMZW73V/?tag=rjpamazon-21" class="amazon-button" target="_blank">Buy on Amazon</a>
 </div>
 
 </div>
+
+<!-- MailerLite Universal -->
+<script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '1843705');
+</script>
+<!-- End MailerLite Universal -->
