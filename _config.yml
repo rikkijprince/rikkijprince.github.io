@@ -47,7 +47,7 @@ header_pages:
   - experimental.md
   - zanzibar.md
   - readers.md
-  - contact.md
+  - other.md
 
 # Example navigation links
 nav:
@@ -65,8 +65,8 @@ nav:
     url: /zanzibar/
   - title: "RJP Readers"
     url: /readers/
-  - title: "Contact"
-    url: /contact/
+  - title: "Other Language Editions"
+    url: /other/
 
 repository: rikkijprince/rikkijprince.github.io
 

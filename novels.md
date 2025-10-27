@@ -4,6 +4,8 @@ title: "Novels"
 permalink: /novels/
 ---
 {% include navbar.html %}
+
+>*As an Amazon Associate I earn from qualifying purchases.*
 <style>
 .books-grid {
   display: flex;
