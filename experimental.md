@@ -1,10 +1,10 @@
 ---
-layout: home
+layout: default
 title: "Experimental Works"
+decription: ""
+keywords: "Rikki J Prince, Philosophical essays and xperimental writing, time distortion, time running backwords"
 permalink: /experimental/
 ---
-
-{% include navbar.html %}
 
 >*As an Amazon Associate I earn from qualifying purchases.*  
 
@@ -42,11 +42,11 @@ A life philosophy that will help you reach your potential.
 
 ---
 
-### Coming Soon
+### Coming in 2026
 
 - **Eternal Return** — Part 2 of *Murder Undone*  
-- **Night Hunger** — Life seen through the eyes of a stray dog and a stray cat.  
+- **A Café called Zuflucht**
+- **Hungry Cat, Hungry Dog** — The city seen through the eyes of two strays.  
 - **What is Existence** — An essay on the meaning of existence.  
-- **Authentic Rebel** — It’s time to turn the tables on life’s impositions.  
-- **The Never-Ending Question** — A short story for young teens.
+- **The Blackout** — How a nationwide blackout affects a community in Valencia, Spain.  
 - **A Codex of Observations on Humanity** - Humanity seen from an alien perspective.

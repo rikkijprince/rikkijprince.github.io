@@ -1,29 +1,41 @@
 ---
-layout: home
+layout: default
 title: About
+decription: ""
+keywords: ""
 permalink: /about/
 ---
-{% include navbar.html %}
+
+<link rel="stylesheet" href="/assets/css/style.css">
+
+
 ![Rikki J Prince](/assets/images/rjpxpr.jpg){:style="max-width:200px;border-radius:50%;"}
 
 ## Rikki J Prince
 ---
 
-I was born in the East Midlands of the UK, spent my early childhood in Pakistan, and grew up with stories that crossed borders before I even knew what borders were. My father, a Pakistani born in New Delhi, before the India/Pakistan partition, emigrated to the USA and became a Silicon Valley engineer; my mother, an Englishwoman, a poliglot with a restless nature and a trace of 
-Italian ancestry, gave me the gift of unrestrained curiosity — my father, his calm, methodical nature.
-	
-My adopted home, after spending some time in France, Germany and the Netherlands, became Spain, where I was twice married and rewarded with two bilingual sons. That mixture of worlds became the lens 
-through which I’ve always seen everything.
+Engineer, educator, novelist and AI ghostwriter. Born and bred in the UK with influences from India, Pakistan, the USA, France, Italy, Germany and the Netherlands, I ended up settling in Spain. That mixture of people, cultures, aromas and ways of thinking became the lens 
+through which I observed the world.
 				
-At school I was fascinated by physics, a subject that seemed to give intelligible answers to fundamental questions. Aspiring to understand the phenomena of electromagnetic waves and quantum tunnelling, I trained as a telecoms engineer, but an intuitive understanding of these mysteries
-always eluded me, and somewhere along the line, I left my engineering career and became a patent examiner, translator, teacher, and writer — always reading about theoretical physics, always
-searching for meaning in the noise.
+At school I was frustrated and confused by the way things were explained in different countries, but I was fascinated by mathematics and physics which were largely independent of who told the story.
+
+Aspiring to understand the phenomena of electromagnetic waves and and the quantum nature of light, I took up physics, electronics and telecoms engineering, but an intuitive understanding of these mysteries
+always eluded me, and somewhere along the line, I left my engineering career and became a patent examiner, translator, teacher, and writer — always searching for meaning behind the noise.
 
 My books explore what lies behind our words, our desires, our connections — whether they’re between humans, animals, or machines. I write because I want to understand 
-how we came to be — and where we might be going next.
+how we came to be — and where we might be going next. 
 
 Welcome to my world. I hope you’ll find echoes of your own journey here too.
 				
 				
 Email: [me@rikkijprince.com](mailto:me@rikkijprince.com)
 
+<!-- MailerLite Universal -->
+<script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '1843705');
+</script>
+<!-- End MailerLite Universal -->

@@ -1,11 +1,12 @@
 ---
-layout: home
+layout: default
 title: "Novels"
+decription: ""
+keywords: ""
 permalink: /novels/
 ---
 {% include navbar.html %}
 
->*As an Amazon Associate I earn from qualifying purchases.*
 <style>
 .books-grid {
   display: flex;
@@ -99,8 +100,7 @@ permalink: /novels/
 }
 </style>
 
-> **As an Amazon Associate I earn from qualifying purchases.**
-
+>*As an Amazon Associate I earn from qualifying purchases.*
 **Here are some of my favorite hard sci-fi novels:**
 
 <div class="books-grid">
@@ -263,7 +263,7 @@ permalink: /novels/
 
 ---
 
-<h3>Coming Soon:</h3>
+<h3>Coming in 2026:</h3>
 <ul>
   <li><em>Sarah Mackay in San Francisco</em></li>
   <li><em>Sarah Mackay and the Viral Singularity</em></li>

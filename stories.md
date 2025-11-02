@@ -1,18 +1,19 @@
 ---
-layout: home
+layout: default
 title: "Short Stories"
+decription: "Episodes from 'The Student Days of Sarah Mackay'."
+keywords: "Rikki J PrinceSarah Mackay, short stories, particle physics, quantum gravity chaos theory, quantum mechanics, relativity, geometry, information, time travel"
 permalink: /stories/
 ---
-{% include navbar.html %}
 
 >*As an Amazon Associate I earn from qualifying purchases.*
 
-**Here are some short stories in ebook format, extracted from Sarah Mackay's Student Days:**
+**Here are some short stories only available as ebooks, extracted from Sarah Mackay's Student Days:**
 
 ---
 
 ### *0 Particle Physics in Geneva*  
-The first story, which describes Sarah's first trip abroad and the dead cat incident, is free when you <b>sign up to my newsletter.</b>
+The opening story, which is about more than particle physics, is free when you <b>sign up to my newsletter.</b>
 
 
 
@@ -91,7 +92,7 @@ The first story, which describes Sarah's first trip abroad and the dead cat inci
 ---
 
 ### *15 The Manipulation of Reality in Loch Ness*  
-[**⏳ Coming Soon**](#){: .btn .btn-soon }
+[**⏳ Coming in 2026 or 2027**](#){: .btn .btn-soon }
 
 ---
 

@@ -1,9 +1,10 @@
 ---
-layout: home
+layout: default
 title: "Other Language Editions"
+decription: "Short stories and novellas written in various European languages."
+keywords: "Rikki J Prince, french, francés, français, italian, italiano, german, deutsch, portuguese, portugués, valencian, valenciano, valencià"
 permalink: /other/
 ---
-{% include navbar.html %}
 
 >*As an Amazon Associate I earn from qualifying purchases.*
 
@@ -51,10 +52,11 @@ permalink: /other/
 <div class="other-languages">
 
   <p><strong>Here are some works I have written in different languages:</strong></p>
+  <p><strong>I expect them to come out over the year 2026.</strong></p>
 
   <h2>Ediciones en Español</h2>
   <ul>
-    <li>Rebelde auténtico</li>
+    <li>El Apagón</li>
     <li>Entre gemidos — La ciencia del placer</li>
     <li>Un perfume de lo prohibido</li>
     <li>Una cafetería llamada Zuflucht</li>
@@ -64,6 +66,8 @@ permalink: /other/
     <li>La Magia del Caos</li>
     <li>El Universo In Extremis</li>
     <li>El Universo Extra Machina</li>
+
+	
   </ul>
 
   <h2>Éditions en Français</h2>
@@ -90,6 +94,11 @@ permalink: /other/
   <h2>Deutsche Ausgaben</h2>
   <ul>
     <li>Ein Café namens Zuflucht</li>
+  </ul>
+  
+  <h2>Edicions en valencià</h2>
+  <ul>
+    <li>L'apagada</li>
   </ul>
 
 </div>
