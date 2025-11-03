@@ -1,8 +1,8 @@
 ---
 layout: default
 title: About
-decription: ""
-keywords: ""
+decription: "Background information about the author Rikki J Prince"
+keywords: "Who is Rikki J Prince, bio Rikki J Prince"
 permalink: /about/
 ---
 

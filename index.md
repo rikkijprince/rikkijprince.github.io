@@ -28,11 +28,11 @@ permalink: /
 <ul style="margin-left: 2em;">
   <li><a href="/about/">About Me</a> — My background</li>
   <li><a href="/novels/">My novels</a> — The Saga of Sarah Mackay, the theoretical physicist who found Schrödinger's cat</li>
-  <li><a href="/stories/">Short stories</a> — From the Student Days of Sarah Mackay</li>
+  <li><a href="/stories/">Nine Days</a> — Short stories extracted from the Student Days of Sarah Mackay</li>
   <li><a href="/experimental/">My experimental works</a> — Stories where time runs backwards or is fragmented and philosophical essays</li>
   <li><a href="/zanzibar/">My collaboration with Anwar Zanzibar</a> — Diverse works on sexuality, the occult, and romantasy</li>
-  <li><a href="/readers/">RJP Readers</a> — Graded Readers for learners of English</li>
-  <li><a href="/other/">Other Language Editions</a> — Some works of mine in Spanish, French, Italian, Portuguese and German</li>
+  <li><a href="/readers/">RJP Readers</a> — Graded Readers for learners of English, levels A1 to C2.</li>
+  <li><a href="/other/">Other Shit</a> — Some mostly unpublished works of mine in Spanish, French, Italian, Portuguese, German and Valencian</li>
 </ul>
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">

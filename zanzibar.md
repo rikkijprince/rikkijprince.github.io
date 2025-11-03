@@ -72,15 +72,15 @@ A bold, multidisciplinary exploration of the biology, psychology, and metaphysic
 A collaboration between **Rikki J. Prince** and **Anwar Zanzibar**.
 
 <div class="buy-button">
-  <a href="https://www.amazon.com/-/es/Rikki-J-Prince/dp/B0FB9QK8JZ/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+  <a href="https://www.amazon.com/-/es/Rikki-J-Prince/dp/B0FB9QK8JZ/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
 ---
 
 ## Coming Soon
 
-- *The Room Between Heartbeats*
-  *Zanzibar Romantsy #1*
+- *The Room Between Heartbeats*  
+  *Zanzibar Romantasy #1*
 
 - *Between Shadow and Flames*  
   *Zanzibar Romantasy #2* — The second book in the series, continuing Evren’s journey through magic and desire.

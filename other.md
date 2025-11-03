@@ -52,9 +52,8 @@ permalink: /other/
 <div class="other-languages">
 
   <p><strong>Here are some works I have written in different languages:</strong></p>
-  <p><strong>I expect them to come out over the year 2026.</strong></p>
-
-  <h2>Ediciones en Español</h2>
+  
+  <h2>Ediciones en español</h2>
   <ul>
     <li>El Apagón</li>
     <li>Entre gemidos — La ciencia del placer</li>
@@ -70,7 +69,7 @@ permalink: /other/
 	
   </ul>
 
-  <h2>Éditions en Français</h2>
+  <h2>Éditions en français</h2>
   <ul>
     <li>La pièce entre deux battements de cœur</li>
     <li>Un parfum interdit</li>
@@ -78,14 +77,14 @@ permalink: /other/
     <li>Un café nommé Zuflucht</li>
   </ul>
 
-  <h2>Edizione in Italiano</h2>
+  <h2>Edizione in italiano</h2>
   <ul>
     <li>Lo spazio tra due battiti del cuore</li>
     <li>Un profumo del proibito</li>
     <li>Un caffè chiamato Zuflucht</li>
   </ul>
 
-  <h2>Edições em Português</h2>
+  <h2>Edições em português</h2>
   <ul>
     <li>O espaço entre dois batimentos do coração</li>
     <li>Um café chamado Zuflucht</li>

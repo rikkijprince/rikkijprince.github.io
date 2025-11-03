@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Short Stories"
+title: "Nine Days"
 description: "Episodes from 'The Student Days of Sarah Mackay'."
-keywords: "Rikki J Prince, Sarah Mackay, short stories, particle physics, quantum gravity, chaos theory, quantum mechanics, relativity, geometry, information, time travel"
+keywords: "Rikki J Prince, nine days, 9 days, Sarah Mackay, short stories, particle physics, quantum gravity, chaos theory, quantum mechanics, relativity, geometry, information, time travel"
 permalink: /stories/
 ---
 
 >*As an Amazon Associate I earn from qualifying purchases.*
 
-**Here are some short stories only available as ebooks, extracted from Sarah Mackay's Student Days:**
+**Here are some stories from Sarah Mackay's Student Days, designed to be read in nine days each:**
 
 <style> 
 .books-grid {
@@ -90,6 +90,13 @@ permalink: /stories/
   background-color: #0079a1;
 }
 
+.buy-button.green {
+  background-color: #28a745;
+}
+.buy-button.green:hover {
+  background-color: #218838;
+}
+
 @media (max-width: 900px) {
   .book-card {
     width: 45%;
@@ -108,7 +115,7 @@ permalink: /stories/
 <div class="book-card">
   <img src="/assets/images/stories/00 Particle Physics in Geneva.png" alt="Particle Physics in Geneva">
   <h3>00 Particle Physics in Geneva</h3>
-  <p>The opening story, which is about more than particle physics, is free when you sign up to my newsletter.</p>
+  <a href="/assets/pdf/00 Particle Physics in Geneva.pdf" class="buy-button green" download>⬇️ FREE PDF DOWNLOAD</a>
 </div>
 
 <div class="book-card">

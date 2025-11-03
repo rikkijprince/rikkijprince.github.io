@@ -38,7 +38,7 @@ Can a crime be solved before it is committed? And if time moves backward, is gui
 ### *Eudaimonic Flow or the Art of Flourishing*
 A life philosophy that will help you reach your potential.  
 
-<a href="https://www.amazon.com/-/es/Eudaimonic-Flow-Art-Flourishing-Philosophical/dp/B0FB82JQV1" class="btn btn-primary" target="_blank">Buy on Amazon</a>
+<a href="https://www.amazon.com/-/es/Eudaimonic-Flow-Art-Flourishing-Philosophical/dp/B0FB82JQV1/?tag=grhamazon02-21" class="btn btn-primary" target="_blank">Buy on Amazon</a>
 
 ---
 
