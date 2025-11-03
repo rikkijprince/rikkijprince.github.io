@@ -5,7 +5,6 @@ decription: ""
 keywords: ""
 permalink: /novels/
 ---
-{% include navbar.html %}
 
 <style>
 .books-grid {
