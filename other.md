@@ -52,6 +52,8 @@ permalink: /other/
 <div class="other-languages">
 
   <p><strong>Here are some works I have written in different languages:</strong></p>
+  <p>If you are interested in a particular title, I will prioritise its publication.</p>
+  <p>(Write to: me@rikkijprince.com)</p>
   
   <h2>Ediciones en español</h2>
   <ul>

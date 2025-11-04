@@ -36,15 +36,9 @@ permalink: /
 </ul>
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <img src="/assets/images/mars.png" alt="Web Image Mars" style="max-width: 98%; height: auto; border-radius: 8px;">
+  <img src="/assets/images/Volume 2 cover 1.jpg" alt="Sarah Mackay at Princeton" style="max-width: 95%; height: auto; border-radius: 8px;">
+  <p>&nbsp;</p>
+  Sarah Mackay at Princeton
+  <p>&nbsp;</p>
 </div>
 
-<!-- MailerLite Universal -->
-<script>
-    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
-    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-    ml('account', '1843705');
-</script>
-<!-- End MailerLite Universal -->

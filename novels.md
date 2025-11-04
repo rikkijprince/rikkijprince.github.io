@@ -100,6 +100,7 @@ permalink: /novels/
 </style>
 
 >*As an Amazon Associate I earn from qualifying purchases.*
+
 **Here are some of my favorite sci-fi novels:**
 
 <div class="books-grid">
@@ -189,8 +190,6 @@ permalink: /novels/
 ---
 
 **And here is my saga of Sarah Mackay:**
-
-> *As an Amazon Associate I earn from qualifying purchases.*
 
 <div class="books-grid">
 
