@@ -1,4 +1,5 @@
 ---
+<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
 layout: default
 title: "Rikki J Prince"
 description: "Official site of Rikki J Prince, author of techno, noir and gothic thrillers, as well as some works of non fiction."
