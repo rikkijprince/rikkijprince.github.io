@@ -13,6 +13,7 @@ permalink: /experimental/
 ---
 
 ### *Mystery in Reverse*
+  <img src="/assets/images/experimental/Mystery in Reverse.png" alt="Mystery in Reverse" style="max-width: 30%; height: auto; border-radius: 8px;">
 Elliot never expected to witness the impossible.  
 When he sees a crime scene unfolding in reverse — blood retreating, wounds healing, bullets flying back into the barrel — he realizes time itself is out of order.  
 A man who should have been dead is alive, and a murder that already happened is un-happening before his eyes.  
@@ -26,6 +27,7 @@ A man who should have been dead is alive, and a murder that already happened is 
 ---
 
 ### *Murder Undone*
+  <img src="/assets/images/experimental/Murder Undone.jpg" alt="Murder Undone" style="max-width: 30%; height: auto; border-radius: 8px;">
 *Murder Undone* is a razor-sharp noir thriller, blending existential mystery with a mind-bending inversion of causality.  
 Can a crime be solved before it is committed? And if time moves backward, is guilt predetermined — or is fate just another illusion?  
 
@@ -36,16 +38,19 @@ Can a crime be solved before it is committed? And if time moves backward, is gui
 ---
 
 ### *Eudaimonic Flow or the Art of Flourishing*
-A life philosophy that will help you reach your potential.  
+  <img src="/assets/images/experimental/Eudaimonic Flow.jpg" alt="Eudaimonic Flow" style="max-width: 30%; height: auto; border-radius: 8px;">
+A bold, original life philosophy for the 21st century—one that integrates ethics, pleasure, autonomy, healing, and social transformation into a living system for human and collective flourishing. 
 
-<a href="https://www.amazon.com/-/es/Eudaimonic-Flow-Art-Flourishing-Philosophical/dp/B0FB82JQV1/?tag=grhamazon02-21" class="btn btn-primary" target="_blank">Buy on Amazon</a>
+📚 **Where to find it:**  
+- [Amazon](https://www.amazon.com/-/es/Eudaimonic-Flow-Art-Flourishing-Philosophical/dp/B0FB82JQV1/?tag=grhamazon02-21)
+- [Fable](https://fable.co/book/eudainomic-flow-or-the-art-of-flourishing-by-rikki-j-prince-9798230774310)
 
 ---
 
 ### Coming in 2026
 
-- **Eternal Return** — Part 2 of *Murder Undone*  
-- **A Café called Zuflucht**
+- **Eternal Return** — Part 2 of Murder Undone: As Elias digs deeper, he’s caught in a terrifying cycle of disappearances, mirrored selves, and impossible events that defy time itself.
+- **A Café called Zuflucht** — Two lovers-turned-fugitives whose lives collide again in a Berlin café haunted by their past.
 - **Hungry Cat, Hungry Dog** — The city seen through the eyes of two strays.  
 - **What is Existence** — An essay on the meaning of existence.  
 - **The Blackout** — How a nationwide blackout affects a community in Valencia, Spain.  
