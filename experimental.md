@@ -38,13 +38,20 @@ permalink: /experimental/
 }
 </script>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
+</script>
 
 
 >*As an Amazon Associate I earn from qualifying purchases.*  
 
-**These are some of my experimental works:**
-
----
+## Experimental novels, novellas and essays
 
 ### *Mystery in Reverse*
   <img src="/assets/images/experimental/Mystery in Reverse.png" alt="Mystery in Reverse" style="max-width: 30%; height: auto; border-radius: 8px;">
@@ -58,8 +65,6 @@ A man who should have been dead is alive, and a murder that already happened is 
 - [Brownsburg Public Library](https://brwn.na2.iiivega.com/search/card?id=b682975c-505d-5f1d-bcad-d9c840198830&entityType=FormatGroup)  
 - [Fable](https://fable.co/book/mystery-in-reverse-by-rikki-j-prince-9798230849995)
 
----
-
 ### *Murder Undone*
   <img src="/assets/images/experimental/Murder Undone.jpg" alt="Murder Undone" style="max-width: 30%; height: auto; border-radius: 8px;">
 *Murder Undone* is a razor-sharp noir thriller, blending existential mystery with a mind-bending inversion of causality.  
@@ -69,8 +74,6 @@ Can a crime be solved before it is committed? And if time moves backward, is gui
 - [Everand](https://www.everand.com/book/836870702/Murder-Undone)  
 - [Barnes & Noble](https://www.barnesandnoble.com/w/murder-undone-rikki-j-prince/1147109105)
 
----
-
 ### *Eudaimonic Flow or the Art of Flourishing*
   <img src="/assets/images/experimental/Eudaimonic Flow.jpg" alt="Eudaimonic Flow" style="max-width: 30%; height: auto; border-radius: 8px;">
 A bold, original life philosophy for the 21st century—one that integrates ethics, pleasure, autonomy, healing, and social transformation into a living system for human and collective flourishing. 
@@ -78,8 +81,6 @@ A bold, original life philosophy for the 21st century—one that integrates ethi
 📚 **Where to find it:**  
 - [Amazon](https://www.amazon.com/-/es/Eudaimonic-Flow-Art-Flourishing-Philosophical/dp/B0FB82JQV1/?tag=grhamazon02-21)
 - [Fable](https://fable.co/book/eudainomic-flow-or-the-art-of-flourishing-by-rikki-j-prince-9798230774310)
-
----
 
 ### Coming in 2026
 

@@ -4,9 +4,6 @@ title: "Other Language Editions"
 decription: "Short stories and novellas written in various European languages."
 keywords: "Rikki J Prince, french, francés, français, italian, italiano, german, deutsch, portuguese, portugués, valencian, valenciano, valencià"
 permalink: /other/
-
----
-
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
 
@@ -36,6 +33,16 @@ permalink: /other/
     "https://twitter.com/YOURPROFILE"
   ]
 }
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
 </script>
 
 <style>
@@ -78,59 +85,57 @@ permalink: /other/
   }
 }
 </style>
+---
 
 >*As an Amazon Associate I earn from qualifying purchases.*
-<div class="other-languages">
-  <p><strong>Here are some works I have written in different languages:</strong></p>
-  <p>If you are interested in a particular title, I will prioritise its publication. (Write to: me@rikkijprince.com)</p>
+
+## Some other stuff I have written in various languages
+### (To be published sooner or later)
   
-  <h2>Ediciones en español</h2>
-  <ul>
-    <li>El Apagón</li>
-    <li>Entre gemidos — La ciencia del placer</li>
-    <li>Un perfume de lo prohibido</li>
-    <li>Una cafetería llamada Zuflucht</li>
-    <li>Fundamentos de brujería</li>
-    <li>La brujería y la magia</li>
-    <li>Formación en brujería avanzada</li>
-    <li>La Magia del Caos</li>
-    <li>El Universo In Extremis</li>
-    <li>El Universo Extra Machina</li>
+<h2>Ediciones en español</h2>
+<ul>
+  <li>El Apagón</li>
+  <li>Entre gemidos — La ciencia del placer</li>
+  <li>Un perfume de lo prohibido</li>
+  <li>Una cafetería llamada Zuflucht</li>
+  <li>Fundamentos de brujería</li>
+  <li>La brujería y la magia</li>
+  <li>Formación en brujería avanzada</li>
+  <li>La Magia del Caos</li>
+  <li>El Universo In Extremis</li>
+  <li>El Universo Extra Machina</li>
+</ul>
 
-	
-  </ul>
+<h2>Éditions en français</h2>
+<ul>
+  <li>La pièce entre deux battements de cœur</li>
+  <li>Un parfum interdit</li>
+  <li>Entre ombre et flammes</li>
+  <li>Un café nommé Zuflucht</li>
+</ul>
 
-  <h2>Éditions en français</h2>
-  <ul>
-    <li>La pièce entre deux battements de cœur</li>
-    <li>Un parfum interdit</li>
-    <li>Entre ombre et flammes</li>
-    <li>Un café nommé Zuflucht</li>
-  </ul>
+<h2>Edizione in italiano</h2>
+<ul>
+  <li>Lo spazio tra due battiti del cuore</li>
+  <li>Un profumo del proibito</li>
+  <li>Un caffè chiamato Zuflucht</li>
+</ul>
 
-  <h2>Edizione in italiano</h2>
-  <ul>
-    <li>Lo spazio tra due battiti del cuore</li>
-    <li>Un profumo del proibito</li>
-    <li>Un caffè chiamato Zuflucht</li>
-  </ul>
+<h2>Edições em português</h2>
+<ul>
+  <li>O espaço entre dois batimentos do coração</li>
+  <li>Um café chamado Zuflucht</li>
+</ul>
 
-  <h2>Edições em português</h2>
-  <ul>
-    <li>O espaço entre dois batimentos do coração</li>
-    <li>Um café chamado Zuflucht</li>
-  </ul>
-
-  <h2>Deutsche Ausgaben</h2>
-  <ul>
-    <li>Ein Café namens Zuflucht</li>
-  </ul>
+<h2>Deutsche Ausgaben</h2>
+<ul>
+  <li>Ein Café namens Zuflucht</li>
+</ul>
   
-  <h2>Edicions en valencià</h2>
-  <ul>
-    <li>L'apagada</li>
-  </ul>
+<h2>Edicions en valencià</h2>
+<ul>
+  <li>L'apagada</li>
+</ul>
 
-</div>
 
 

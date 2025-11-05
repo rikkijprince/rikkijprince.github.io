@@ -5,6 +5,47 @@ description: "Episodes from 'The Student Days of Sarah Mackay'."
 keywords: "Rikki J Prince, nine days, 9 days, Sarah Mackay, short stories, particle physics, quantum gravity, chaos theory, quantum mechanics, relativity, geometry, information, time travel"
 permalink: /stories/
 
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
+
+<!-- SEO Description -->
+<meta name="description" content="Rikki J Prince — author of science-driven fiction, philosophical adventures, and speculative sci-fi. Discover books, previews, and links to Amazon and other retailers." />
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
+</script>
+
+<!-- Author Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Rikki J Prince",
+  "jobTitle": "Author",
+  "url": "https://YOURWEBSITE.com",
+  "sameAs": [
+    "https://www.amazon.com/author/rikkijprince",
+    "https://twitter.com/YOURPROFILE"
+  ]
+}
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
+</script>
+
 books:
   - num: 0
     title: "Nine Days Immersed in Particle Physics (in Geneva)"
@@ -13,7 +54,6 @@ books:
     isbn: "9798227926173"
     publication_date: "2024-09-07"
 	url: https://draft2digital.com/book/2269819
-
 
   - num: 1
     title: "Nine Days Immersed in Quantum Gravity (in Istanbul)"
@@ -128,40 +168,10 @@ books:
 	url: https://draft2digital.com/book/2825965
 ---
 
-<!-- Google Search Console verification -->
-<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
-
-<!-- SEO Description -->
-<meta name="description" content="Rikki J Prince — author of science-driven fiction, philosophical adventures, and speculative sci-fi. Discover books, previews, and links to Amazon and other retailers." />
-
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Q8PEN408E6');
-</script>
-
-<!-- Author Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Rikki J Prince",
-  "jobTitle": "Author",
-  "url": "https://YOURWEBSITE.com",
-  "sameAs": [
-    "https://www.amazon.com/author/rikkijprince",
-    "https://twitter.com/YOURPROFILE"
-  ]
-}
-</script>
 
 >*As an Amazon Associate I earn from qualifying purchases.*
-
-**Here are some stories from Sarah Mackay's Student Days, designed to be read in nine days each:**
+## Stories from Sarah Mackay's Student Days
+### Each story a nine-day read
 
 <style> 
 .books-grid {

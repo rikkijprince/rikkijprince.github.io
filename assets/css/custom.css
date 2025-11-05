@@ -156,3 +156,16 @@ a:hover {
     width: 90%;
   }
 }
+
+/* Center the entire site content */
+.wrapper {
+  max-width: 1000px;   /* or 900–1100px depending on your preference */
+  margin: 0 auto;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  padding: 0 1rem;
+}
+
+.page-content, .page__inner-wrap {
+  margin: 0 auto;
+}

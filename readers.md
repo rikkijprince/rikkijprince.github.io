@@ -4,9 +4,6 @@ title: "RJP Readers"
 decription: "Graded readers fro A1 to C2 for English language learners of all levels."
 keywords: "RJP Readers, graded readers, English readers, A1, A2, B1, B2, C1, C2, lectura, lecture, lesen"
 permalink: /readers/
-
----
-
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
 
@@ -37,6 +34,17 @@ permalink: /readers/
   ]
 }
 </script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
+</script>
+---
 
 <style>
 .books-grid {
@@ -125,7 +133,8 @@ permalink: /readers/
 
 >*As an Amazon Associate I earn from qualifying purchases.*
 
-**Here are 12 graded readers for improving your English:**
+## Twelve graded readers for improving your English
+### (A1 to C2 correspond to CEFR levels)
 
 <div class="books-grid">
 

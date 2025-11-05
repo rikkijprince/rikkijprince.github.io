@@ -1,10 +1,9 @@
----layout: default
+---
+layout: default
 title: "Rikki J Prince"
 description: "Official site of Rikki J Prince, author of techno, noir and gothic thrillers, as well as some works of non fiction."
 keywords: "Rikki J Prince, Sarah Mackay, science fiction, hard sci-fi, English readers,Anwar Zanzibar, novels, short stories"
 permalink: /
-
----
 
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
@@ -37,8 +36,16 @@ permalink: /
 }
 </script>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<link rel="stylesheet" href="/assets/css/style.css">
+  gtag('config', 'G-Q8PEN408E6');
+</script>
+---
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
   <img src="/assets/images/weba.png" alt="Web Image 1" style="max-width: 12%; height: 12%; border-radius: 8px;">
@@ -47,14 +54,15 @@ permalink: /
   <img src="/assets/images/webb.png" alt="Web Image 2" style="max-width: 12%; height: 12%; border-radius: 8px;">
 </div>
 
-<div style="text-align:center;">
-  Welcome to my Homepage.<br>
-  <p>&nbsp;</p>
-  Come for a drive around and explore my short stories, novellas, novels, and collaboration works.<br>
-  <p>&nbsp;</p>
-  If you're an EFL student of mine (learning English as a foreign language), you may be interested in my graded readers for English learners.<br>
-  <p>&nbsp;</p>
+## Welcome to my Homepage!
 
+<div style="text-align:center;">
+  <br>
+  Come for a drive around and explore my short stories, novellas, novels, and collaboration works.<br>
+  <br>
+  If you are an EFL student (learning English as a foreign language),
+  <br>
+  you may be interested in my <a href="/readers/">graded readers for English learners</a>.
 </div>
 
 <ul style="margin-left: 2em;">
@@ -69,8 +77,6 @@ permalink: /
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
   <img src="/assets/images/Volume 2 cover 1.jpg" alt="Sarah Mackay at Princeton" style="max-width: 95%; height: auto; border-radius: 8px;">
-  <p>&nbsp;</p>
   Sarah Mackay at Princeton
-  <p>&nbsp;</p>
+  <br>
 </div>
-

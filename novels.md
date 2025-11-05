@@ -5,6 +5,47 @@ description: "The Sarah Mackay saga by Rikki J Prince and other sci-fi novels"
 keywords: "Rikki J Prince, Sarah Mackay, science fiction, Beijing, Vaticán, quantum supremacy, Gaza, Sudan, Arctic, student days"
 permalink: /novels/
 
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
+
+<!-- SEO Description -->
+<meta name="description" content="Rikki J Prince — author of science-driven fiction, philosophical adventures, and speculative sci-fi. Discover books, previews, and links to Amazon and other retailers." />
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
+</script>
+
+<!-- Author Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Rikki J Prince",
+  "jobTitle": "Author",
+  "url": "https://YOURWEBSITE.com",
+  "sameAs": [
+    "https://www.amazon.com/author/rikkijprince",
+    "https://twitter.com/YOURPROFILE"
+  ]
+}
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
+</script>
+
 books:
   - num: 1
     title: "Sarah Mackay in Beijing"
@@ -68,17 +109,6 @@ books:
     asin: "B0F4R4FZHR"
     publication_date: "2025-05-09"
     url: "https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-2/dp/B0F4R4FZHR/"
----
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Q8PEN408E6');
-</script>
 
 <style>
 .books-grid {
@@ -173,10 +203,12 @@ books:
 }
 </style>
 
+---
 
 >*As an Amazon Associate I earn from qualifying purchases.*
 
-**Here are some of my favorite sci-fi novels:**
+## Some of my favorite sci-fi novels
+### (Scroll down for my novels)
 
 <div class="books-grid">
 
@@ -263,7 +295,7 @@ books:
 </div>
 
 
-**And here is my saga of Sarah Mackay:**
+### And here is my saga of Sarah Mackay
 
 <div class="books-grid">
 

@@ -1,0 +1,13 @@
+.page-content {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1rem;
+}
+
+.page-content ul {
+  text-align: left;
+  display: inline-block;
+  margin: 0 auto;
+  padding-left: 1em;
+}
