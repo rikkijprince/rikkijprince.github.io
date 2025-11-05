@@ -1,11 +1,42 @@
----
-<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
-layout: default
+---layout: default
 title: "Rikki J Prince"
 description: "Official site of Rikki J Prince, author of techno, noir and gothic thrillers, as well as some works of non fiction."
 keywords: "Rikki J Prince, Sarah Mackay, science fiction, hard sci-fi, English readers,Anwar Zanzibar, novels, short stories"
 permalink: /
+
 ---
+
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
+
+<!-- SEO Description -->
+<meta name="description" content="Rikki J Prince — author of science-driven fiction, philosophical adventures, and speculative sci-fi. Discover books, previews, and links to Amazon and other retailers." />
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
+</script>
+
+<!-- Author Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Rikki J Prince",
+  "jobTitle": "Author",
+  "url": "https://YOURWEBSITE.com",
+  "sameAs": [
+    "https://www.amazon.com/author/rikkijprince",
+    "https://twitter.com/YOURPROFILE"
+  ]
+}
+</script>
+
 
 <link rel="stylesheet" href="/assets/css/style.css">
 
@@ -33,7 +64,7 @@ permalink: /
   <li><a href="/experimental/">My experimental works</a> — Stories where time runs backwards or is fragmented and philosophical essays</li>
   <li><a href="/zanzibar/">My collaboration with Anwar Zanzibar</a> — Diverse works on sexuality, the occult, and romantasy</li>
   <li><a href="/readers/">RJP Readers</a> — Graded Readers for learners of English, levels A1 to C2.</li>
-  <li><a href="/other/">Other Shit</a> — Some mostly unpublished works of mine in Spanish, French, Italian, Portuguese, German and Valencian</li>
+  <li><a href="/other/">Other Stuff</a> — Some mostly unpublished works of mine in Spanish, French, Italian, Portuguese, German and Valencian</li>
 </ul>
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">

@@ -1,0 +1,35 @@
+{% if page.book_title %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "{{ page.book_title | escape }}",
+  "author": {
+    "@type": "Person",
+    "name": "Rikki J Prince",
+    "url": "https://www.rikkijprince.com"
+  },
+  {% if page.book_series %}
+  "isPartOf": {
+    "@type": "BookSeries",
+    "name": "{{ page.book_series | escape }}"
+  },
+  {% endif %}
+  "description": "{{ page.book_description | escape }}",
+  "isbn": "{{ page.isbn }}",
+  "image": "{{ page.book_cover }}",
+  "url": "{{ page.book_url }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ page.publisher | default: 'RJP Press' }}"
+  },
+  "datePublished": "{{ page.publication_date }}",
+  "bookFormat": "https://schema.org/EBook",
+  "offers": {
+    "@type": "Offer",
+    "url": "{{ page.amazon_link }}",
+    "availability": "https://schema.org/InStock"
+  }
+}
+</script>
+{% endif %}

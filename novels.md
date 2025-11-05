@@ -1,10 +1,84 @@
 ---
 layout: default
 title: "Novels"
-decription: "The Sarah Mackay saga by Rikki J Prince and other sci-fi novels"
-keywords: "Rikki J Prince, Sarah Mackay, Dune, The Left Hand of Darkness, Neuromancer, 2001 a space odyssey, I robot, the dark forest, red mars, the martian, the three-body problem"
+description: "The Sarah Mackay saga by Rikki J Prince and other sci-fi novels"
+keywords: "Rikki J Prince, Sarah Mackay, science fiction, Beijing, Vaticán, quantum supremacy, Gaza, Sudan, Arctic, student days"
 permalink: /novels/
+
+books:
+  - num: 1
+    title: "Sarah Mackay in Beijing"
+    cover: "/assets/images/novels/Sarah Mackay in Beijing.jpg"
+    description: "Physicist Sarah Mackay uncovers a geopolitical conspiracy in Beijing where cutting-edge AI research collides with espionage and betrayal."
+    isbn: "9798285016441"
+    asin: "B0DTKMB7QQ"
+    publication_date: "2025-02-28"
+    url: "https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DTKMB7QQ/"
+
+  - num: 2
+    title: "Sarah Mackay and the Vatican–Moony Conspiracies"
+    cover: "/assets/images/novels/Sarah Mackay and the Vatican-Moony Conspiracies.jpg"
+    description: "Sarah investigates a strange alliance between the Vatican and a global cult, exposing a web of secrets that reaches into science and faith."
+    isbn: "9798227488794"
+    asin: "B0DLJG1K2J"
+    publication_date: "2025-02-15"
+    url: "https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DLJG1K2J/"
+
+  - num: 3
+    title: "Sarah Mackay and the Race for Quantum Supremacy"
+    cover: "/assets/images/novels/Sarah Mackay and the Race for Quantum Supremacy.jpg"
+    description: "Caught in a global struggle over the world’s most powerful quantum computer, Sarah must outthink both rivals and her past."
+    isbn: "9798864604456"
+    asin: "B0DYYZHSV3"
+    publication_date: "2025-05-01"
+    url: "https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0DYYZHSV3/"
+
+  - num: 4
+    title: "Sarah Mackay in Gaza and Sudan"
+    cover: "/assets/images/novels/Sarah Mackay in Gaza and Sudan.jpg"
+    description: "Sent into Gaza’s inferno to rescue key figures, Sarah faces devastation and betrayal, only to confront new dangers in war-torn Sudan."
+    isbn: "9798227488824"
+    asin: "B0F16CJ7FS"
+    publication_date: "2025-06-01"
+    url: "https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0F16CJ7FS/"
+
+  - num: 5
+    title: "Sarah Mackay in the Frozen Lands"
+    cover: "/assets/images/novels/Sarah Mackay in the Frozen Lands.jpg"
+    description: "Recovering from trauma, Sarah ventures into the Arctic’s deadly isolation, where discovery and danger merge beneath the endless ice."
+    isbn: "9798227488848"
+    asin: "B0F26G8CKM"
+    publication_date: "2025-06-19"
+    url: "https://www.amazon.com/-/es/Sarah-Mackay-Frozen-Lands-Prince/dp/B0F26G8CKM/"
+
+  - num: 6
+    title: "Sarah Mackay’s Student Days Vol. 1"
+    cover: "/assets/images/novels/Student Days Vol 1.jpg"
+    description: "Sarah’s early years — curiosity, risk, and the first sparks of her quest to understand the boundaries of knowledge."
+    isbn: "9798227488862"
+    asin: "B0F4NZ8R86"
+    publication_date: "2025-04-25"
+    url: "https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-1/dp/B0F4NZ8R86/"
+
+  - num: 7
+    title: "Sarah Mackay’s Student Days Vol. 2"
+    cover: "/assets/images/novels/Student Days Vol 2.jpg"
+    description: "University challenges deepen — intellectual awakening, betrayal, and experiments that foreshadow her destiny."
+    isbn: "9798227488886"
+    asin: "B0F4R4FZHR"
+    publication_date: "2025-05-09"
+    url: "https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-2/dp/B0F4R4FZHR/"
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
+</script>
 
 <style>
 .books-grid {
@@ -99,6 +173,7 @@ permalink: /novels/
 }
 </style>
 
+
 >*As an Amazon Associate I earn from qualifying purchases.*
 
 **Here are some of my favorite sci-fi novels:**
@@ -187,7 +262,6 @@ permalink: /novels/
 </div>
 </div>
 
----
 
 **And here is my saga of Sarah Mackay:**
 
@@ -195,7 +269,7 @@ permalink: /novels/
 
 <div class="book-card">
   <h3>1 Sarah Mackay in Beijing</h3>
-  <a href="https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DTKMB7QQ/?grhamazon02" target="_blank"  rel="nofollow sponsored noopener noreferrer">
+  <a href="https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DTKMB7QQ/?tag=grhamazon02" target="_blank"  rel="nofollow sponsored noopener noreferrer">
     <img src="/assets/images/novels/Sarah Mackay in Beijing.jpg" alt="Sarah Mackay in Beijing" loading="lazy">
   </a>
   <p>Physicist Sarah Mackay uncovers a geopolitical conspiracy in Beijing where research into cutting-edge AI collides with espionage and betrayal.</p>
@@ -259,7 +333,6 @@ permalink: /novels/
 
 </div> <!-- End Sarah Mackay section -->
 
----
 
 <h3>Coming in 2026:</h3>
 <ul>

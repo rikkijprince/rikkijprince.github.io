@@ -4,6 +4,22 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | escape }}</title>
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Rikki J Prince",
+    "url": "https://www.rikkijprince.com",
+    "jobTitle": "Author",
+    "sameAs": [
+      "https://www.amazon.com/author/rikkijprince"
+    ]
+  }
+  </script>
+
+  {% include book-schema.html %}
+
   <link rel="stylesheet" href="/css/custom.css">
 </head>
 <body>

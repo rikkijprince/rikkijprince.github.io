@@ -4,7 +4,40 @@ title: "Anwar Zanzibar"
 decription: "Works written in collaboration between Rikki J Prince and Anwar Zanzibar."
 keywords: "Rikki J Prince, Anwar Zanzibar, romantasy, magic, magick, chaos magic, witchcraft, occult, sex, pleasure, sex manual,"
 permalink: /zanzibar/
+
 ---
+
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
+
+<!-- SEO Description -->
+<meta name="description" content="Rikki J Prince — author of science-driven fiction, philosophical adventures, and speculative sci-fi. Discover books, previews, and links to Amazon and other retailers." />
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
+</script>
+
+<!-- Author Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Rikki J Prince",
+  "jobTitle": "Author",
+  "url": "https://YOURWEBSITE.com",
+  "sameAs": [
+    "https://www.amazon.com/author/rikkijprince",
+    "https://twitter.com/YOURPROFILE"
+  ]
+}
+</script>
+
 
 >*As an Amazon Associate I earn from qualifying purchases.*
 

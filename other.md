@@ -4,9 +4,39 @@ title: "Other Language Editions"
 decription: "Short stories and novellas written in various European languages."
 keywords: "Rikki J Prince, french, francés, français, italian, italiano, german, deutsch, portuguese, portugués, valencian, valenciano, valencià"
 permalink: /other/
+
 ---
 
->*As an Amazon Associate I earn from qualifying purchases.*
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
+
+<!-- SEO Description -->
+<meta name="description" content="Rikki J Prince — author of science-driven fiction, philosophical adventures, and speculative sci-fi. Discover books, previews, and links to Amazon and other retailers." />
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6');
+</script>
+
+<!-- Author Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Rikki J Prince",
+  "jobTitle": "Author",
+  "url": "https://YOURWEBSITE.com",
+  "sameAs": [
+    "https://www.amazon.com/author/rikkijprince",
+    "https://twitter.com/YOURPROFILE"
+  ]
+}
+</script>
 
 <style>
 .other-languages {
@@ -49,11 +79,10 @@ permalink: /other/
 }
 </style>
 
+>*As an Amazon Associate I earn from qualifying purchases.*
 <div class="other-languages">
-
   <p><strong>Here are some works I have written in different languages:</strong></p>
-  <p>If you are interested in a particular title, I will prioritise its publication.</p>
-  <p>(Write to: me@rikkijprince.com)</p>
+  <p>If you are interested in a particular title, I will prioritise its publication. (Write to: me@rikkijprince.com)</p>
   
   <h2>Ediciones en español</h2>
   <ul>
