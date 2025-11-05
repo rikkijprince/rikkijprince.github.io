@@ -4,6 +4,7 @@ title: "Rikki J Prince"
 description: "Official site of Rikki J Prince, author of techno, noir and gothic thrillers, as well as some works of non fiction."
 keywords: "Rikki J Prince, Sarah Mackay, science fiction, hard sci-fi, English readers,Anwar Zanzibar, novels, short stories"
 permalink: /
+---
 
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
@@ -45,7 +46,6 @@ permalink: /
 
   gtag('config', 'G-Q8PEN408E6');
 </script>
----
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
   <img src="/assets/images/weba.png" alt="Web Image 1" style="max-width: 12%; height: 12%; border-radius: 8px;">

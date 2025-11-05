@@ -4,6 +4,8 @@ title: About
 decription: "Background information about the author Rikki J Prince"
 keywords: "Who is Rikki J Prince, bio Rikki J Prince"
 permalink: /about/
+---
+
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
 
@@ -44,7 +46,7 @@ permalink: /about/
 
   gtag('config', 'G-Q8PEN408E6');
 </script>
----
+
 
 ![Rikki J Prince](/assets/images/rjpxpr.jpg){:style="max-width:200px;border-radius:50%;"}
 

@@ -4,7 +4,6 @@ title: "Experimental Works"
 decription: ""
 keywords: "Rikki J Prince, Philosophical essays and xperimental writing, time distortion, time running backwords"
 permalink: /experimental/
-
 ---
 
 <!-- Google Search Console verification -->

@@ -4,6 +4,8 @@ title: "Other Language Editions"
 decription: "Short stories and novellas written in various European languages."
 keywords: "Rikki J Prince, french, francés, français, italian, italiano, german, deutsch, portuguese, portugués, valencian, valenciano, valencià"
 permalink: /other/
+---
+
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
 
@@ -85,7 +87,7 @@ permalink: /other/
   }
 }
 </style>
----
+
 
 >*As an Amazon Associate I earn from qualifying purchases.*
 
