@@ -4,6 +4,7 @@ title: "Nine Days"
 description: "Episodes from 'The Student Days of Sarah Mackay'."
 keywords: "Rikki J Prince, nine days, 9 days, Sarah Mackay, short stories, particle physics, quantum gravity, chaos theory, quantum mechanics, relativity, geometry, information, time travel"
 permalink: /stories/
+---
 
 books:
   - num: 0
@@ -125,8 +126,6 @@ books:
     isbn: "9798230119623"
     publication_date: "2025-02-05"
 	url: https://draft2digital.com/book/2825965
-
----
 
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />

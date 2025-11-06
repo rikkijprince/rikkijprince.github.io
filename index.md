@@ -58,7 +58,7 @@ permalink: /
 
 <div style="text-align:center;">
   <br>
-  Come for a drive around and explore my short stories, novellas, novels, and collaboration works.<br>
+  If you like science-based literature, come for a drive around and explore my short stories, novellas, novels, and collaboration works.<br>
   <br>
   If you are an EFL student (learning English as a foreign language),
   <br>
@@ -72,7 +72,7 @@ permalink: /
   <li><a href="/experimental/">My experimental works</a> — Stories where time runs backwards or is fragmented and philosophical essays</li>
   <li><a href="/zanzibar/">My collaboration with Anwar Zanzibar</a> — Diverse works on sexuality, the occult, and romantasy</li>
   <li><a href="/readers/">RJP Readers</a> — Graded Readers for learners of English, levels A1 to C2.</li>
-  <li><a href="/other/">Other Stuff</a> — Some mostly unpublished works of mine in Spanish, French, Italian, Portuguese, German and Valencian</li>
+  <li><a href="/other/">Other Stuff</a> — Some, mostly unpublished, works of mine in Spanish, French, Italian, Portuguese, German and Valencian</li>
 </ul>
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
