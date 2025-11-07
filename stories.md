@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Nine Days"
-description: "Episodes from 'The Student Days of Sarah Mackay'."
+description: "15 nine-day episodes from 'The Student Days of Sarah Mackay'."
 keywords: "Rikki J Prince, nine days, 9 days, Sarah Mackay, short stories, particle physics, quantum gravity, chaos theory, quantum mechanics, relativity, geometry, information, time travel"
 permalink: /stories/
 books:
@@ -70,7 +70,7 @@ books:
 	url: https://draft2digital.com/book/2537375
 
   - num: 8
-    title: "Nine Days Immersed in Relativity on the Grandest Scale (in Kyiv)"
+    title: "Nine Days Immersed in Relativity on the Grandest Scale (in Wartorn Kyiv)"
     cover: "/assets/images/stories/08 Relativity on the Grandest Scale in Kyiv.jpg"
     description: "In Kyiv, Sarah contemplates cosmology and relativity against the backdrop of a changing nation."
     isbn: "9798224491568"
