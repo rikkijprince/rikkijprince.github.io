@@ -97,35 +97,55 @@ permalink: /other/
 <h2>Ediciones en español</h2>
 <ul>
   <li>El Apagón</li>
-  <li>Entre gemidos — La ciencia del placer</li>
-  <li>Un perfume de lo prohibido</li>
+  <img src="/assets/images/other/El apagón.png" alt="El apagón" style="max-width: 30%; height: auto; border-radius: 8px;">
+  <br>
   <li>Una cafetería llamada Zuflucht</li>
+  <br> 
+  <img src="/assets/images/other/UNA CAFETERÍA LLAMADA ZUFLUCHT.png" alt="Una cafetería llamada Zuflucht" style="max-width: 30%; height: auto; border-radius: 8px;">
+  <br>
+  <li>Un perfume de lo prohibido</li>
+  <br>
   <li>Fundamentos de brujería</li>
+  <br>
   <li>La brujería y la magia</li>
+  <br>
   <li>Formación en brujería avanzada</li>
+  <br>
   <li>La Magia del Caos</li>
-  <li>El Universo In Extremis</li>
-  <li>El Universo Extra Machina</li>
+  <br> 
+  <li>Entre gemidos — La ciencia del placer</li>
+  <br>
+  <li>El Universo In Extremis - Coming in 2027</li>
+  <br>
+  <li>El Universo Extra Machina - Coming in 2028</li>
+  <br>
 </ul>
 
 <h2>Éditions en français</h2>
 <ul>
-  <li>La pièce entre deux battements de cœur</li>
-  <li>Un parfum interdit</li>
-  <li>Entre ombre et flammes</li>
   <li>Un café nommé Zuflucht</li>
+  <img src="/assets/images/experimental/Una cafetería llamada Zuflucht.png" alt="Una cafetería llamada Zuflucht" style="max-width: 30%; height: auto; border-radius: 8px;">
+  <br>
+  <li>La pièce entre deux battements de cœur</li>
+  <br>
+  <li>Un parfum interdit</li>
+  <br>
+  <li>Entre ombre et flammes</li>
 </ul>
 
 <h2>Edizione in italiano</h2>
 <ul>
   <li>Lo spazio tra due battiti del cuore</li>
+  <br>
   <li>Un profumo del proibito</li>
+  <br>
   <li>Un caffè chiamato Zuflucht</li>
 </ul>
 
 <h2>Edições em português</h2>
 <ul>
   <li>O espaço entre dois batimentos do coração</li>
+  <br>
   <li>Um café chamado Zuflucht</li>
 </ul>
 
