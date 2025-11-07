@@ -115,31 +115,37 @@ permalink: /other/
   <br> 
   <li>Entre gemidos — La ciencia del placer</li>
   <br>
-  <li>El Universo In Extremis - Coming in 2027</li>
-  <br>
-  <li>El Universo Extra Machina - Coming in 2028</li>
-  <br>
 </ul>
 
 <h2>Éditions en français</h2>
 <ul>
   <li>Un café nommé Zuflucht</li>
-  <img src="/assets/images/experimental/Una cafetería llamada Zuflucht.png" alt="Una cafetería llamada Zuflucht" style="max-width: 30%; height: auto; border-radius: 8px;">
+  <img src="/assets/images/other/UN CAFÉ NOMMÉ ZUFLUCHT.png" alt="Un café nommé Zuflucht" style="max-width: 30%; height: auto; border-radius: 8px;">
   <br>
   <li>La pièce entre deux battements de cœur</li>
   <br>
   <li>Un parfum interdit</li>
   <br>
   <li>Entre ombre et flammes</li>
+  <br>
 </ul>
 
+<h2>Deutsche Ausgaben</h2>
+<ul>
+  <li>Ein Café namens Zuflucht</li>
+  <img src="/assets/images/other/EIN CAFÉ NAMENS ZUFLUCHT.png" alt="Ein Café namens Zuflucht" style="max-width: 30%; height: auto; border-radius: 8px;">
+  <br>
+</ul>
+  
 <h2>Edizione in italiano</h2>
 <ul>
   <li>Lo spazio tra due battiti del cuore</li>
   <br>
   <li>Un profumo del proibito</li>
   <br>
-  <li>Un caffè chiamato Zuflucht</li>
+  <li>Un café chiamato Zuflucht</li>
+  <img src="/assets/images/other/UN CAFÉ CHIAMATO ZUFLUCHT.png" alt="Un café chiamato Zuflucht" style="max-width: 30%; height: auto; border-radius: 8px;">
+  <br>
 </ul>
 
 <h2>Edições em português</h2>
@@ -147,16 +153,13 @@ permalink: /other/
   <li>O espaço entre dois batimentos do coração</li>
   <br>
   <li>Um café chamado Zuflucht</li>
+  <br>
 </ul>
 
-<h2>Deutsche Ausgaben</h2>
-<ul>
-  <li>Ein Café namens Zuflucht</li>
-</ul>
-  
 <h2>Edicions en valencià</h2>
 <ul>
   <li>L'apagada</li>
+  <img src="/assets/images/other/L'apagada.png" alt="L'apagada" style="max-width: 30%; height: auto; border-radius: 8px;">
 </ul>
 
 
