@@ -58,7 +58,7 @@ permalink: /
 
 <div style="text-align:center;">
   <br>
-  If you like science-based literature, come for a drive around and explore my short stories, novellas, novels, and collaboration works.<br>
+  If you like science-based literature, come for a drive around and explore my short stories, novels, experimental novellas, and collaboration works.<br>
   <br>
   If you are an EFL student (learning English as a foreign language),
   <br>
