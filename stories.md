@@ -27,7 +27,7 @@ books:
     description: "Continuing her studies in Prague, Sarah dives deeper into quantum gravity and Czech culture."
     isbn: "9798227271365"
     publication_date: "2024-08-21"
-	url: https://draft2digital.com/book/2167132
+    url: "https://draft2digital.com/book/2167132"
 
   - num: 3
     title: "Nine Days Immersed in Chaos Theory (in Paris)"
@@ -35,7 +35,7 @@ books:
     description: "In Paris, Sarah explores chaos theory amid art, philosophy, and mathematical turbulence."
     isbn: "9798227798879"
     publication_date: "2024-08-26"
-	url: https://draft2digital.com/book/2217447
+    url: "https://draft2digital.com/book/2217447"
 
   - num: 4
     title: "Nine More Days Immersed in Chaos Theory (in Florence)"
@@ -43,7 +43,7 @@ books:
     description: "In Florence, Sarah uncovers the beauty and unpredictability of chaos theory between Renaissance masterpieces."
     isbn: "9798227826954"
     publication_date: "2024-08-26"
-	url: https://draft2digital.com/book/2217458
+    url: "https://draft2digital.com/book/2217458"
 
   - num: 5
     title: "Nine Days Immersed in Quantum Mechanics (in Copenhagen)"
@@ -51,7 +51,7 @@ books:
     description: "At the birthplace of the Copenhagen Interpretation, Sarah wrestles with the mysteries of quantum mechanics."
     isbn: "9798215861004"
     publication_date: "2024-10-03"
-	url: https://draft2digital.com/book/2309959
+    url: "https://draft2digital.com/book/2309959"
 
   - num: 6
     title: "Nine Days Immersed in Special Relativity (in Bern)"
@@ -59,7 +59,7 @@ books:
     description: "In Einstein’s city, Sarah studies special relativity and traces the roots of modern physics."
     isbn: "9798227812407"
     publication_date: "2024-10-03"
-	url: https://draft2digital.com/book/2310121
+    url: "https://draft2digital.com/book/2310121"
 
   - num: 7
     title: "Nine Days Immersed in General Relativity (in Berlin)"
@@ -67,7 +67,7 @@ books:
     description: "Berlin becomes Sarah’s laboratory for exploring spacetime curvature and the structure of the universe."
     isbn: "9798230320470"
     publication_date: "2025-01-11"
-	url: https://draft2digital.com/book/2537375
+    url: "https://draft2digital.com/book/2537375"
 
   - num: 8
     title: "Nine Days Immersed in Relativity on the Grandest Scale (in Wartorn Kyiv)"
@@ -75,7 +75,7 @@ books:
     description: "In Kyiv, Sarah contemplates cosmology and relativity against the backdrop of a changing nation."
     isbn: "9798224491568"
     publication_date: "2024-08-21"
-	url: https://draft2digital.com/book/2537438
+    url: "https://draft2digital.com/book/2537438"
 
   - num: 9
     title: "Nine Days Immersed in a Universe Made of Geometry (in Oxford)"
@@ -83,7 +83,7 @@ books:
     description: "Amid Oxford’s dreaming spires, Sarah explores the geometric nature of reality."
     isbn: "9798230957102"
     publication_date: "2025-01-24"
-	url: https://draft2digital.com/book/2636970
+    url: "https://draft2digital.com/book/2636970"
 
   - num: 10
     title: "Nine Days Immersed in a Universe Made of Information (in Princeton)"
@@ -91,7 +91,7 @@ books:
     description: "At Princeton, Sarah studies information theory and the informational foundations of physics."
     isbn: "9798227843128"
     publication_date: "2025-01-25"
-	url: https://draft2digital.com/book/2638361
+    url: "https://draft2digital.com/book/2638361"
 
   - num: 11
     title: "Nine Days Immersed in Private Investigation (in New York)"
@@ -99,7 +99,7 @@ books:
     description: "In New York, Sarah blends physics with detective work in a gritty academic puzzle."
     isbn: "9798230834465"
     publication_date: "2025-01-25"
-	url: https://draft2digital.com/book/2638809
+    url: "https://draft2digital.com/book/2638809"
 
   - num: 12
     title: "Nine Days Immersed in Forensic Science (in Mexico City)"
@@ -107,7 +107,7 @@ books:
     description: "In vibrant Mexico City, Sarah applies scientific reasoning to forensic investigation."
     isbn: "9798230199298"
     publication_date: "2025-01-25"
-	url: https://draft2digital.com/book/2638837
+    url: "https://draft2digital.com/book/2638837"
 
   - num: 13
     title: "Nine Days Immersed in Time Travel (in Cambridge)"
@@ -115,7 +115,7 @@ books:
     description: "In Cambridge, Sarah explores paradoxes and philosophies of time while studying theoretical physics."
     isbn: "9798230646815"
     publication_date: "2025-02-01"
-	url: https://draft2digital.com/book/2643936
+    url: "https://draft2digital.com/book/2643936"
 
   - num: 14
     title: "Nine Days Immersed in the Nature of Time (in Kyoto)"
@@ -123,7 +123,7 @@ books:
     description: "In Kyoto’s temples and gardens, Sarah contemplates the nature of time itself."
     isbn: "9798230119623"
     publication_date: "2025-02-05"
-	url: https://draft2digital.com/book/2825965
+    url: "https://draft2digital.com/book/2825965"
 ---
 
 <!-- Google Search Console verification -->
