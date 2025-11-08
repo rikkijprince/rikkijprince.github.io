@@ -48,7 +48,7 @@ permalink: /about/
 </script>
 
 
-![Rikki J Prince](/assets/images/Website profile.png){:style="max-width:200px;border-radius:50%;"}
+![Rikki J Prince](/assets/images/Family profile.jpg){:style="max-width:200px;border-radius:50%;"}
 
 ## About me
 <br>	
