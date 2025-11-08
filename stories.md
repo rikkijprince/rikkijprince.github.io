@@ -23,7 +23,7 @@ books:
 
   - num: 3
     title: "Nine More Days Immersed in Quantum Gravity (in Prague)"
-    cover: "/assets/images/stories/02 Quantum Gravity in Prague.jpg"
+    cover: "/assets/images/stories/02 Quantum Gravity in Prague.png"
     description: "Continuing her studies in Prague, Sarah dives deeper into quantum gravity and Czech culture."
     isbn: "9798227271365"
     publication_date: "2024-08-21"
@@ -256,7 +256,7 @@ books:
   </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/03 Chaos in Paris.jpg" alt="Chaos Theory in Paris">
+  <img src="/assets/images/stories/02 Quantum Gravity in Prague.png" alt="Quantum Gravity in Prague">
   <h3>3 Quantum Gravity in Prague</h3>
   <a href="https://books.apple.com/cl/book/nine-days-immersed-in-chaos-theory-in-paris/id6667116345" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/mx/es/ebook/nine-days-immersed-in-chaos-theory-in-paris" class="buy-button blue">📘 Kobo</a>

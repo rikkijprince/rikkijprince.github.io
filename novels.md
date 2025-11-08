@@ -296,7 +296,7 @@ books:
 </div>
 
 
-### And here is my saga of Sarah Mackay
+### The Sarah Mackay saga and other novels by Rikki J Prince
 
 <div class="books-grid">
 

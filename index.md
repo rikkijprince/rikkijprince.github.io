@@ -67,16 +67,16 @@ permalink: /
 
 <ul style="margin-left: 2em;">
   <li><a href="/about/">About Me</a> — My background</li>
-  <li><a href="/novels/">My novels</a> — The Saga of Sarah Mackay, the theoretical physicist who found Schrödinger's cat</li>
-  <li><a href="/stories/">Nine Days</a> — Short stories extracted from the Student Days of Sarah Mackay</li>
+  <li><a href="/stories/">Start Here</a> — Fifteen nine-day reads extracted from the Student Days of Sarah Mackay, the beginning of her inquiries into the nature of the universe.</li>
+  <li><a href="/novels/">Essential novels</a> — Some classics, followed by the Saga of Sarah Mackay, the theoretical physicist who found Schrödinger's cat</li>
   <li><a href="/experimental/">My experimental works</a> — Stories where time runs backwards or is fragmented and philosophical essays</li>
-  <li><a href="/zanzibar/">My collaboration with Anwar Zanzibar</a> — Diverse works on sexuality, the occult, and romantasy</li>
+  <li><a href="/zanzibar/">My collaboration with Anwar Zanzibar</a> — Diverse works on sexuality, the occult, and romantic fantasy</li>
   <li><a href="/readers/">RJP Readers</a> — Graded Readers for learners of English, levels A1 to C2.</li>
   <li><a href="/other/">Other Stuff</a> — Some, mostly unpublished, works of mine in Spanish, French, Italian, Portuguese, German and Valencian</li>
 </ul>
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <img src="/assets/images/Volume 2 cover 1.jpg" alt="Sarah Mackay at Princeton" style="max-width: 95%; height: auto; border-radius: 8px;">
+  <img src="/assets/images/Sarah Mackay at Princeton.png" alt="Sarah Mackay at Princeton" style="max-width: 95%; height: auto; border-radius: 8px;">
   Sarah Mackay at Princeton
   <br>
 </div>
