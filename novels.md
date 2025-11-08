@@ -293,8 +293,19 @@ books:
 <p>A secret contact with an alien civilization sets off a chain of events that threaten humanity’s future and redefine its place in the cosmos.</p>
 <a href="https://www.amazon.com/dp/0765382032/?tag=grhamazon02" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
+
+<div class="book-card">
+  <h3>Surfing the Edge of Reality</h3> 
+    <img src="/assets/images/novels/Surfing.png" alt="Surfing the Edge of Reality" loading="lazy">
+  <p>Only 11 copies of this book left. The only sci-fi work that claims realistic timescales for the development of relatvistic space travel and that all its distances and times for its voyages across the galaxies are accurately calculated.  A collectors item, only available by requesting a copy directly from the author, me@rikkijprince.com.</p>
 </div>
 
+<div class="book-card">
+  <h3>Surfeando al borde de la realidad</h3>
+    <img src="/assets/images/novels/Surfeando.png" alt="Surfeando el borde de la realidad" loading="lazy">
+  <p>Solo quedan 9 ejemplares de este libro. La única obra de ciencia ficción que afirma que el desarrollo de los viajes espaciales relativistas se desarrolla en escalas de tiempo realistas y que todas las distancias y tiempos de sus viajes a través de las galaxias están calculados con precisión. Artículo solo disponible solicitando una copia directamente al autor, me@rikkijprince.com.</p>
+</div>
+</div>
 
 ### The Sarah Mackay saga and other novels by Rikki J Prince
 
