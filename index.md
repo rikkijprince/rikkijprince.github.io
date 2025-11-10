@@ -56,16 +56,30 @@ permalink: /
 
 ## Welcome to my Homepage!
 
-<div style="text-align:center;">
+<ul style="margin-left: 1.2em;">
   <br>
-  If you like science-based literature, come for a drive around and explore my short stories, novels, experimental novellas, and collaboration works.<br>
+  <b>If you like science-based literature...</b>
+  Come for a drive around and explore my short stories, novels, experimental novellas, and collaboration works.
   <br>
-  If you are an EFL student (learning English as a foreign language),
   <br>
-  you may be interested in my <a href="/readers/">graded readers for English learners</a>.
-</div>
+  <b>If you are a student...</b>
+  <p>
+    <a href="/assets/pdf/study_guide_en.pdf" download>
+    Download my free book: "How to Overcome Any Obstacle to Studying"
+    </a>
+    Also available in
+    <a href="/assets/pdf/study_guide_sp.pdf" download>Spanish</a>
+    and
+    <a href="/assets/pdf/study_guide_fr.pdf" download>French</a>.
+  </p>
+  <b>If you are an EFL student...</b> (learning English as a foreign language)...
+  <br>
+  My <a href="/readers/">graded readers for English learners</a> will improve your vocabulary and comprehension skills.
+  <br>
+</ul>
 
 <ul style="margin-left: 2em;">
+
   <li><a href="/about/">About Me</a> — My background</li>
   <li><a href="/stories/">Start Here</a> — Fifteen nine-day reads extracted from the Student Days of Sarah Mackay, the beginning of her inquiries into the nature of the universe.</li>
   <li><a href="/novels/">Essential novels</a> — Some classics, followed by the Saga of Sarah Mackay, the theoretical physicist who found Schrödinger's cat</li>
@@ -77,6 +91,6 @@ permalink: /
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
   <img src="/assets/images/Sarah Mackay at Princeton.png" alt="Sarah Mackay at Princeton" style="max-width: 95%; height: auto; border-radius: 8px;">
-  Sarah Mackay at Princeton
+  Sarah Mackay at Princeton, from the Sarah Mackay saga
   <br>
 </div>

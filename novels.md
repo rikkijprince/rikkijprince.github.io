@@ -381,5 +381,10 @@ books:
 <h3>Coming in 2026:</h3>
 <ul>
   <li><em>Sarah Mackay in San Francisco</em></li>
+  <img src="/assets/images/novels/SM in SF.png" alt="Sarah Mackay in San Francisco" loading="lazy">
   <li><em>Sarah Mackay and the Viral Singularity</em></li>
+  <img src="/assets/images/novels/Viral Singularity.png" alt="Sarah Mackay and the Viral Singularity" loading="lazy">
+  <li><em>The Secrets We Keep</em></li>
+  <img src="/assets/images/novels/secrets we keep.png" alt="The Secrets We Keep" loading="lazy">  
+  <li><em>The Choir of Dust</em></li> 
 </ul>
