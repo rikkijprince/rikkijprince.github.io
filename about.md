@@ -50,7 +50,7 @@ permalink: /about/
 
 ![Rikki J Prince](/assets/images/Family profile.jpg){:style="max-width:200px;border-radius:50%;"}
 
-## About me
+## About me, Rikki J
 <br>	
 Engineer, educator, novelist and AI ghostwriter. Born and bred in the UK with influences from India, Pakistan, the USA, France, Italy, Germany and the Netherlands, I ended up settling in Spain. That mixture of people, cultures, aromas and ways of thinking became the lens through which I observed the world.
 <br>			
