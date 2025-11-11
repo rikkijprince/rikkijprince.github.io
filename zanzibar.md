@@ -140,7 +140,7 @@ A collaboration between **Rikki J. Prince** and **Anwar Zanzibar**.
   *Zanzibar Romantasy #4* — A fantasy romance written in five languages simultaneously.
 
 - *Chaos Magick*
-<img src="/assets/images/zanzibar/Chaos Magic.jpg" alt="Chaos Magic" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy">
+<img src="/assets/images/zanzibar/Chaos Magick.png" alt="Chaos Magic" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy">
   The fourth volume in the *Witchcraft and Magick* series.
 
 - *How to Live with Risk Without Killing Yourself in the Process*  

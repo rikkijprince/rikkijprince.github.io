@@ -214,61 +214,70 @@ books:
 <div class="books-grid">
 
 <div class="book-card">
-<a href="https://www.amazon.com/dp/0441013597/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
+<a href="https://www.amazon.es/Hitchhikers-Guide-Galaxy-Illustrated/dp/1529046130/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
+<h3>The Hitchhiker's Guide to the Galaxy five-book trilogy</h3>
+<img src="/assets/images/novels/Hitchhiker's Guide.jpg" alt="The Hitchhiker's Guide to the Galaxy" loading="lazy">
+</a>
+<p>Iconic comedy science fiction by Douglas Adams that starts when the Earth is destroyed to make way for a hyperspace bypass. Ordinary human Arthur Dent is saved by his friend Ford Prefect, an alien, and they begin a galactic journey filled with absurdist humor, satire, and a quest for the meaning of life.</p>
+<a href="https://www.amazon.com/dp/0441478123/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+</div>
+
+<div class="book-card">
+<a href="https://www.amazon.com/dp/0441013597/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>Dune by Frank Herbert</h3>
 <img src="/assets/images/novels/Dune 1-6 - Frank Herbert.jpg" alt="Dune by Frank Herbert" loading="lazy">
 </a>
 <p>The Dune saga follows the rise and transformation of the desert planet Arrakis—sole source of the universe’s vital spice—from Paul Atreides’ conquest and empire to millennia of godhood, war, and rebirth.</p>
-<a href="https://www.amazon.com/dp/0441013597/?tag=grhamazon02-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+<a href="https://www.amazon.com/dp/0441013597/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
-<a href="https://www.amazon.com/dp/0441478123/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
+<a href="https://www.amazon.com/dp/0441478123/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>The Left Hand of Darkness by Ursula K. Le Guin</h3>
 <img src="/assets/images/novels/The Left Hand of Darkness - Ursula K. Le Guin.jpg" alt="The Left Hand of Darkness" loading="lazy">
 </a>
 <p>On a frozen world where inhabitants change gender at will, an envoy from Earth must navigate politics, prejudice, and friendship to unite two rival nations.</p>
-<a href="https://www.amazon.com/dp/0441478123/?tag=grhamazon02-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+<a href="https://www.amazon.com/dp/0441478123/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
-<a href="https://www.amazon.com/dp/0441569595/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
+<a href="https://www.amazon.com/dp/0441569595/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>Neuromancer by William Gibson</h3>
 <img src="/assets/images/novels/Neuromancer - William Gibson.jpg" alt="Neuromancer" loading="lazy">
 </a>
 <p>A washed-up hacker is hired for one last job that pulls him deep into a virtual underworld of artificial intelligence and corporate espionage.</p>
-<a href="https://www.amazon.com/dp/0441569595/?tag=grhamazon02-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+<a href="https://www.amazon.com/dp/0441569595/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
-<a href="https://www.amazon.com/dp/0451457994/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
+<a href="https://www.amazon.com/dp/0451457994/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>2001: A Space Odyssey by Arthur C. Clarke</h3>
 <img src="/assets/images/novels/2001 A Space Odyssey - Arthur C Clarke.jpg" alt="2001 A Space Odyssey" loading="lazy">
 </a>
 <p>A mysterious black monolith triggers humanity’s evolution, leading a space mission into the depths of Jupiter to confront the unknown.</p>
-<a href="https://www.amazon.com/dp/0451457994/?tag=grhamazon02-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+<a href="https://www.amazon.com/dp/0451457994/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
-<a href="https://www.amazon.com/dp/055338256X/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
+<a href="https://www.amazon.com/dp/055338256X/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>I, Robot by Isaac Asimov</h3>
 <img src="/assets/images/novels/I, Robot - Isaac Asimov.jpg" alt="I, Robot" loading="lazy">
 </a>
 <p>A collection of linked stories exploring the rise of artificial intelligence and the moral paradoxes of Asimov’s famous Three Laws of Robotics.</p>
-<a href="https://www.amazon.com/dp/055338256X/?tag=grhamazon02" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+<a href="https://www.amazon.com/dp/055338256X/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
-<a href="https://www.amazon.com/dp/0765386690/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
+<a href="https://www.amazon.com/dp/0765386690/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>The Dark Forest by Cixin Liu</h3>
 <img src="/assets/images/novels/The Dark Forest - Cixin Liu.jpg" alt="The Dark Forest" loading="lazy">
 </a>
 <p>As humanity faces an impending alien invasion, Earth’s only hope lies in unpredictable strategies that could destroy them all.</p>
-<a href="https://www.amazon.com/dp/0765386690/?tag=grhamazon02" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+<a href="https://www.amazon.com/dp/0765386690/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
-<a href="https://www.amazon.com/dp/0553560735/?tag=grhamazon02" target="_blank" rel="nofollow sponsored noopener noreferrer">
+<a href="https://www.amazon.com/dp/0553560735/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>Red Mars by Kim Stanley Robinson</h3>
 <img src="/assets/images/novels/Red Mars - Kim Stanley Robinson.jpg" alt="Red Mars" loading="lazy">
 </a>
@@ -277,34 +286,29 @@ books:
 </div>
 
 <div class="book-card">
-<a href="https://www.amazon.com/dp/0553418025/?tag=grhamazon02" target="_blank" rel="nofollow sponsored noopener noreferrer">
+<a href="https://www.amazon.com/dp/0553418025/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>The Martian by Andy Weir</h3>
 <img src="/assets/images/novels/The Martian - Andy Weir.jpg" alt="The Martian" loading="lazy">
 </a>
 <p>Stranded alone on Mars, astronaut Mark Watney must rely on ingenuity and humor to survive until rescue arrives.</p>
-<a href="https://www.amazon.com/dp/0553418025/?tag=grhamazon02" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+<a href="https://www.amazon.com/dp/0553418025/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
-<a href="https://www.amazon.com/dp/0765382032/?grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
-<h3>The Three-Body Problem by Cixin Liu</h3>
+<a href="https://www.amazon.com/dp/0765382032/?rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
+<h3>The Three-Body Problem Trilogy by Cixin Liu</h3>
 <img src="/assets/images/novels/The Three-Body Problem - Cixin Liu.jpg" alt="The Three-Body Problem" loading="lazy">
 </a>
 <p>A secret contact with an alien civilization sets off a chain of events that threaten humanity’s future and redefine its place in the cosmos.</p>
-<a href="https://www.amazon.com/dp/0765382032/?tag=grhamazon02" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+<a href="https://www.amazon.com/dp/0765382032/?rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
 <div class="book-card">
   <h3>Surfing the Edge of Reality</h3> 
     <img src="/assets/images/novels/Surfing.png" alt="Surfing the Edge of Reality" loading="lazy">
-  <p>Only 11 copies of this book left. The only sci-fi work that claims realistic timescales for the development of relatvistic space travel and that all its distances and times for its voyages across the galaxies are accurately calculated.  A collectors item, only available by requesting a copy directly from the author, me@rikkijprince.com.</p>
+  <p>Only <b>10</b> copies of this book left. The only sci-fi work that claims realistic timescales for the development of relatvistic space travel and that all its distances and times for its voyages across the galaxies are accurately calculated.  A collectors item, only available by requesting a copy directly from the author, me@rikkijprince.com.</p>
 </div>
 
-<div class="book-card">
-  <h3>Surfeando al borde de la realidad</h3>
-    <img src="/assets/images/novels/Surfeando.png" alt="Surfeando el borde de la realidad" loading="lazy">
-  <p>Solo quedan 9 ejemplares de este libro. La única obra de ciencia ficción que afirma que el desarrollo de los viajes espaciales relativistas se desarrolla en escalas de tiempo realistas y que todas las distancias y tiempos de sus viajes a través de las galaxias están calculados con precisión. Artículo solo disponible solicitando una copia directamente al autor, me@rikkijprince.com.</p>
-</div>
 </div>
 
 ### The Sarah Mackay saga and other novels by Rikki J Prince
