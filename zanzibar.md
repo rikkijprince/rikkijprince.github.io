@@ -132,11 +132,11 @@ A collaboration between **Rikki J. Prince** and **Anwar Zanzibar**.
   A quiet, introspective story about Claire, a woman in Berlin learning to forgive herself and rediscover presence through a gentle, undefined connection with Luc after past wounds involving lost love and silence. Told in lyrical, sensory prose across four movements—Wounding, Yearning, Realization, and Becoming—it unfolds like a piece of music, guided more by emotion than plot. It is meditative and tender, leaving the reader with a sense of quiet awakening and the courage to be seen again.
 
 - *Between Shadow and Flames*
-<img src="/assets/images/zanzibar/Entre Ombre et flammes.png" alt="Entre Ombre et flammes" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy"> 
+<img src="/assets/images/zanzibar/Entre ombre et flammes.png" alt="Entre Ombre et flammes" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy"> 
   *Zanzibar Romantasy #3* — The second book in the series, continuing Evren’s journey through magic and desire.
 
 - *A Forbidden Perfume*
-<img src="/assets/images/zanzibar/Un parfum de l'interdit.png" alt="Un parfum de l'interdit" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy">
+<img src="/assets/images/zanzibar/Un parfum d'interdit.png" alt="Un parfum de l'interdit" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy">
   *Zanzibar Romantasy #4* — A fantasy romance written in five languages simultaneously.
 
 - *Chaos Magick*
