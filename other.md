@@ -92,7 +92,6 @@ permalink: /other/
 >*As an Amazon Associate I earn from qualifying purchases.*
 
 ## Some other stuff I have written or translated into various languages
-### (To be published sooner or later)
 
 <style>
   img {
@@ -102,7 +101,26 @@ permalink: /other/
   }
 </style>
 
-<h2>Edición en español listo para enviar</h2>
+<h2>Ediciones en español</h2>
+
+<ul class="book-list">
+  <li class="book">
+    <h3>Entre gemidos — La ciencia del placer</h3>
+    <img src="/assets/images/other/Entre gemidos.png" 
+         alt="Entre gemidos" 
+         style="max-width:50%; height:auto; border-radius:8px; display:block; margin:0 auto;" 
+         loading="lazy">
+    <p style="text-align:center; margin-top:8px;">
+      <a href="https://www.amazon.sg/Entre-Gemidos-Ciencia-del-Placer/dp/B0FB525NFB/?tag=grhamazon02" 
+         target="_blank" 
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:#0073e6; font-weight:500;">
+        See details &amp; buy on Amazon
+      </a>
+    </p>
+  </li>
+</ul>
+
 
 <ul class="book-list">
   <li class="book">
@@ -128,11 +146,6 @@ permalink: /other/
   <li class="book">
     <h3>Un perfume de lo prohibido</h3>
     <img src="/assets/images/other/Un perfume de lo prohibido.png" alt="Un perfume de lo prohibido" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy">
-  </li>
-
-  <li class="book">
-    <h3>Entre gemidos — La ciencia del placer</h3>
-    <img src="/assets/images/other/Entre gemidos.png" alt="Entre gemidos" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy">
   </li>
 
   <li class="book">

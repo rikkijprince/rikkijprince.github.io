@@ -218,7 +218,7 @@ books:
 <h3>The Hitchhiker's Guide to the Galaxy five-book trilogy</h3>
 <img src="/assets/images/novels/Hitchhiker's Guide.jpg" alt="The Hitchhiker's Guide to the Galaxy" loading="lazy">
 </a>
-<p>Iconic comedy science fiction by Douglas Adams that starts when the Earth is destroyed to make way for a hyperspace bypass. Ordinary human Arthur Dent is saved by his friend Ford Prefect, an alien, and they begin a galactic journey filled with absurdist humor, satire, and a quest for the meaning of life.</p>
+<p>Iconic comedy science fiction where an ordinary human is saved by his friend who turns out to be an alien - they begin a galactic journey filled with absurdist humor, satire, and a quest for the meaning of life.</p>
 <a href="https://www.amazon.com/dp/0441478123/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
@@ -385,10 +385,10 @@ books:
 <h3>Coming in 2026:</h3>
 <ul>
   <li><em>Sarah Mackay in San Francisco</em></li>
-  <img src="/assets/images/novels/SM in SF.png" alt="Sarah Mackay in San Francisco" loading="lazy">
+  <img src="/assets/images/novels/SM in SF.png" alt="Sarah Mackay in San Francisco" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">
   <li><em>Sarah Mackay and the Viral Singularity</em></li>
-  <img src="/assets/images/novels/Viral Singularity.png" alt="Sarah Mackay and the Viral Singularity" loading="lazy">
+  <img src="/assets/images/novels/Viral Singularity.png" alt="Sarah Mackay and the Viral Singularity" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">
   <li><em>The Secrets We Keep</em></li>
-  <img src="/assets/images/novels/secrets we keep.png" alt="The Secrets We Keep" loading="lazy">  
+  <img src="/assets/images/novels/The Secrets We Keep.png" alt="The Secrets We Keep" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">  
   <li><em>The Choir of Dust</em></li> 
 </ul>
