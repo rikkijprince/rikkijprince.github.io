@@ -29,7 +29,7 @@ permalink: /
   "@type": "Person",
   "name": "Rikki J Prince",
   "jobTitle": "Author",
-  "url": "https://YOURWEBSITE.com",
+  "url": "https://www.rikkijprince.com",
   "sameAs": [
     "https://www.amazon.com/author/rikkijprince",
     "https://twitter.com/YOURPROFILE"
@@ -48,10 +48,10 @@ permalink: /
 </script>
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <img src="/assets/images/weba.png" alt="Web Image 1" style="max-width: 12%; height: 12%; border-radius: 8px;">
-  <img src="/assets/images/webc.png" alt="Web Image 3" style="max-width: 18%; height: 15%; border-radius: 8px;">
-  <img src="/assets/images/webd.png" alt="Web Image 4" style="max-width: 18%; height: 18%; border-radius: 8px;">
-  <img src="/assets/images/webb.png" alt="Web Image 2" style="max-width: 12%; height: 12%; border-radius: 8px;">
+  <img src="/assets/images/weba.webp" alt="Web Image 1" style="max-width: 12%; height: 12%; border-radius: 8px;">
+  <img src="/assets/images/webc.webp" alt="Web Image 3" style="max-width: 18%; height: 15%; border-radius: 8px;">
+  <img src="/assets/images/webd.webp" alt="Web Image 4" style="max-width: 18%; height: 18%; border-radius: 8px;">
+  <img src="/assets/images/webb.webp" alt="Web Image 2" style="max-width: 12%; height: 12%; border-radius: 8px;">
 </div>
 
 ## Rikki J here,
@@ -91,7 +91,7 @@ permalink: /
 </ul>
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <img src="/assets/images/Sarah Mackay at Princeton.png" alt="Sarah Mackay at Princeton" style="max-width: 95%; height: auto; border-radius: 8px;">
+  <img src="/assets/images/Sarah Mackay at Princeton.webp" alt="Sarah Mackay at Princeton" style="max-width: 95%; height: auto; border-radius: 8px;">
   Sarah Mackay at Princeton, from the Sarah Mackay saga
   <br>
 </div>

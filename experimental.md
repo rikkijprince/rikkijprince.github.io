@@ -29,7 +29,7 @@ permalink: /experimental/
   "@type": "Person",
   "name": "Rikki J Prince",
   "jobTitle": "Author",
-  "url": "https://YOURWEBSITE.com",
+  "url": "https://www.rikkijprince.com",
   "sameAs": [
     "https://www.amazon.com/author/rikkijprince",
     "https://twitter.com/YOURPROFILE"
@@ -53,7 +53,7 @@ permalink: /experimental/
 ## Experimental novels, novellas and essays
 
 ### *Mystery in Reverse*
-  <img src="/assets/images/experimental/Mystery in Reverse.png" alt="Mystery in Reverse" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
+  <img src="/assets/images/experimental/Mystery in Reverse.webp" alt="Mystery in Reverse" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
 Elliot never expected to witness the impossible.  
 When he sees a crime scene unfolding in reverse — blood retreating, wounds healing, bullets flying back into the barrel — he realizes time itself is out of order.  
 A man who should have been dead is alive, and a murder that already happened is un-happening before his eyes.  
@@ -65,7 +65,7 @@ A man who should have been dead is alive, and a murder that already happened is 
 - [Fable](https://fable.co/book/mystery-in-reverse-by-rikki-j-prince-9798230849995)
 
 ### *Murder Undone*
-  <img src="/assets/images/experimental/Murder Undone.jpg" alt="Murder Undone" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
+  <img src="/assets/images/experimental/Murder Undone.webp" alt="Murder Undone" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
 *Murder Undone* is a razor-sharp noir thriller, blending existential mystery with a mind-bending inversion of causality.  
 Can a crime be solved before it is committed? And if time moves backward, is guilt predetermined — or is fate just another illusion?  
 
@@ -74,7 +74,7 @@ Can a crime be solved before it is committed? And if time moves backward, is gui
 - [Barnes & Noble](https://www.barnesandnoble.com/w/murder-undone-rikki-j-prince/1147109105)
 
 ### *Eudaimonic Flow or the Art of Flourishing*
-  <img src="/assets/images/experimental/Eudaimonic Flow.jpg" alt="Eudaimonic Flow" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
+  <img src="/assets/images/experimental/Eudaimonic Flow.webp" alt="Eudaimonic Flow" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
 A bold, original life philosophy for the 21st century—one that integrates ethics, pleasure, autonomy, healing, and social transformation into a living system for human and collective flourishing. 
 
 📚 **Where to find it:**  
@@ -84,25 +84,25 @@ A bold, original life philosophy for the 21st century—one that integrates ethi
 ### Coming in 2026
 
 - **A Café called Zuflucht**
-<img src="/assets/images/experimental/A CAFÉ CALLED ZUFLUCHT.png" alt="A Café Called Zuflucht" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
+<img src="/assets/images/experimental/A CAFÉ CALLED ZUFLUCHT.webp" alt="A Café Called Zuflucht" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
 A Café Called Zuflucht is a fragmented, multi-layered narrative that traces the intertwined fates of Lukas, Sol, and Aisha as they navigate love, guilt, and surveillance across a volatile Europe. Moving from the hedonism of underground clubs to the quiet refuge of a Berlin café, the work becomes a meditation on memory, identity, and the search for redemption amid systems that never forget.
 
 - **Hungry Cat, Hungry Dog**
-<img src="/assets/images/experimental/Hungry Cat, Hungry Dog 1.png" alt="Hungry Cat, Hungry Dog" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
+<img src="/assets/images/experimental/Hungry Cat, Hungry Dog 1.webp" alt="Hungry Cat, Hungry Dog" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
 The city, seen through the eyes of two strays, reflects on our lost humanity.
 
 - **The Blackout**
-<img src="/assets/images/experimental/The Blackout.png" alt="The Blackout" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy" loading="lazy">
+<img src="/assets/images/experimental/The Blackout.webp" alt="The Blackout" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy" loading="lazy">
 How a nationwide blackout affects a community in Valencia, Spain.
   
 - **A Codex of Observations on Humanity**
-<img src="/assets/images/experimental/Codex.png" alt="A Codex of Observations on Humanity" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
+<img src="/assets/images/experimental/Codex.webp" alt="A Codex of Observations on Humanity" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
 Humanity seen from an alien perspective.
 
 - **Eternal Return**
 <br>
 Part 2 of Murder Undone
-<img src="/assets/images/experimental/Eternal Return.png" alt="Eternal Return" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
+<img src="/assets/images/experimental/Eternal Return.webp" alt="Eternal Return" style="max-width: 50%; height: auto; border-radius: 8px;" loading="lazy">
 As Elias digs deeper, he’s caught in a terrifying cycle of disappearances, mirrored selves, and impossible events that defy time itself.
 <br><br>
 - **What is Existence**

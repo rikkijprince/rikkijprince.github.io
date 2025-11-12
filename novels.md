@@ -7,7 +7,7 @@ permalink: /novels/
 books:
   - num: 1
     title: "Sarah Mackay in Beijing"
-    cover: "/assets/images/novels/Sarah Mackay in Beijing.jpg"
+    cover: "/assets/images/novels/Sarah Mackay in Beijing.webp"
     description: "Physicist Sarah Mackay uncovers a geopolitical conspiracy in Beijing where cutting-edge AI research collides with espionage and betrayal."
     isbn: "9798285016441"
     asin: "B0DTKMB7QQ"
@@ -16,7 +16,7 @@ books:
 
   - num: 2
     title: "Sarah Mackay and the Vatican–Moony Conspiracies"
-    cover: "/assets/images/novels/Sarah Mackay and the Vatican-Moony Conspiracies.jpg"
+    cover: "/assets/images/novels/Sarah Mackay and the Vatican-Moony Conspiracies.webp"
     description: "Sarah investigates a strange alliance between the Vatican and a global cult, exposing a web of secrets that reaches into science and faith."
     isbn: "9798227488794"
     asin: "B0DLJG1K2J"
@@ -25,7 +25,7 @@ books:
 
   - num: 3
     title: "Sarah Mackay and the Race for Quantum Supremacy"
-    cover: "/assets/images/novels/Sarah Mackay and the Race for Quantum Supremacy.jpg"
+    cover: "/assets/images/novels/Sarah Mackay and the Race for Quantum Supremacy.webp"
     description: "Caught in a global struggle over the world’s most powerful quantum computer, Sarah must outthink both rivals and her past."
     isbn: "9798864604456"
     asin: "B0DYYZHSV3"
@@ -34,7 +34,7 @@ books:
 
   - num: 4
     title: "Sarah Mackay in Gaza and Sudan"
-    cover: "/assets/images/novels/Sarah Mackay in Gaza and Sudan.jpg"
+    cover: "/assets/images/novels/Sarah Mackay in Gaza and Sudan.webp"
     description: "Sent into Gaza’s inferno to rescue key figures, Sarah faces devastation and betrayal, only to confront new dangers in war-torn Sudan."
     isbn: "9798227488824"
     asin: "B0F16CJ7FS"
@@ -43,7 +43,7 @@ books:
 
   - num: 5
     title: "Sarah Mackay in the Frozen Lands"
-    cover: "/assets/images/novels/Sarah Mackay in the Frozen Lands.jpg"
+    cover: "/assets/images/novels/Sarah Mackay in the Frozen Lands.webp"
     description: "Recovering from trauma, Sarah ventures into the Arctic’s deadly isolation, where discovery and danger merge beneath the endless ice."
     isbn: "9798227488848"
     asin: "B0F26G8CKM"
@@ -52,7 +52,7 @@ books:
 
   - num: 6
     title: "Sarah Mackay’s Student Days Vol. 1"
-    cover: "/assets/images/novels/Student Days Vol 1.jpg"
+    cover: "/assets/images/novels/Student Days Vol 1.webp"
     description: "Sarah’s early years — curiosity, risk, and the first sparks of her quest to understand the boundaries of knowledge."
     isbn: "9798227488862"
     asin: "B0F4NZ8R86"
@@ -61,7 +61,7 @@ books:
 
   - num: 7
     title: "Sarah Mackay’s Student Days Vol. 2"
-    cover: "/assets/images/novels/Student Days Vol 2.jpg"
+    cover: "/assets/images/novels/Student Days Vol 2.webp"
     description: "University challenges deepen — intellectual awakening, betrayal, and experiments that foreshadow her destiny."
     isbn: "9798227488886"
     asin: "B0F4R4FZHR"
@@ -93,7 +93,7 @@ books:
   "@type": "Person",
   "name": "Rikki J Prince",
   "jobTitle": "Author",
-  "url": "https://YOURWEBSITE.com",
+  "url": "https://www.rikkijprince.com",
   "sameAs": [
     "https://www.amazon.com/author/rikkijprince",
     "https://twitter.com/YOURPROFILE"
@@ -216,7 +216,7 @@ books:
 <div class="book-card">
 <a href="https://www.amazon.es/Hitchhikers-Guide-Galaxy-Illustrated/dp/1529046130/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>The Hitchhiker's Guide to the Galaxy five-book trilogy</h3>
-<img src="/assets/images/novels/Hitchhiker's Guide.jpg" alt="The Hitchhiker's Guide to the Galaxy" loading="lazy">
+<img src="/assets/images/novels/Hitchhiker's Guide.webp" alt="The Hitchhiker's Guide to the Galaxy" loading="lazy">
 </a>
 <p>Iconic comedy science fiction where an ordinary human is saved by his friend who turns out to be an alien - they begin a galactic journey filled with absurdist humor, satire, and a quest for the meaning of life.</p>
 <a href="https://www.amazon.com/dp/0441478123/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -225,7 +225,7 @@ books:
 <div class="book-card">
 <a href="https://www.amazon.com/dp/0441013597/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>Dune by Frank Herbert</h3>
-<img src="/assets/images/novels/Dune 1-6 - Frank Herbert.jpg" alt="Dune by Frank Herbert" loading="lazy">
+<img src="/assets/images/novels/Dune 1-6 - Frank Herbert.webp" alt="Dune by Frank Herbert" loading="lazy">
 </a>
 <p>The Dune saga follows the rise and transformation of the desert planet Arrakis—sole source of the universe’s vital spice—from Paul Atreides’ conquest and empire to millennia of godhood, war, and rebirth.</p>
 <a href="https://www.amazon.com/dp/0441013597/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -234,7 +234,7 @@ books:
 <div class="book-card">
 <a href="https://www.amazon.com/dp/0441478123/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>The Left Hand of Darkness by Ursula K. Le Guin</h3>
-<img src="/assets/images/novels/The Left Hand of Darkness - Ursula K. Le Guin.jpg" alt="The Left Hand of Darkness" loading="lazy">
+<img src="/assets/images/novels/The Left Hand of Darkness - Ursula K. Le Guin.webp" alt="The Left Hand of Darkness" loading="lazy">
 </a>
 <p>On a frozen world where inhabitants change gender at will, an envoy from Earth must navigate politics, prejudice, and friendship to unite two rival nations.</p>
 <a href="https://www.amazon.com/dp/0441478123/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -243,7 +243,7 @@ books:
 <div class="book-card">
 <a href="https://www.amazon.com/dp/0441569595/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>Neuromancer by William Gibson</h3>
-<img src="/assets/images/novels/Neuromancer - William Gibson.jpg" alt="Neuromancer" loading="lazy">
+<img src="/assets/images/novels/Neuromancer - William Gibson.webp" alt="Neuromancer" loading="lazy">
 </a>
 <p>A washed-up hacker is hired for one last job that pulls him deep into a virtual underworld of artificial intelligence and corporate espionage.</p>
 <a href="https://www.amazon.com/dp/0441569595/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -252,7 +252,7 @@ books:
 <div class="book-card">
 <a href="https://www.amazon.com/dp/0451457994/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>2001: A Space Odyssey by Arthur C. Clarke</h3>
-<img src="/assets/images/novels/2001 A Space Odyssey - Arthur C Clarke.jpg" alt="2001 A Space Odyssey" loading="lazy">
+<img src="/assets/images/novels/2001 A Space Odyssey - Arthur C Clarke.webp" alt="2001 A Space Odyssey" loading="lazy">
 </a>
 <p>A mysterious black monolith triggers humanity’s evolution, leading a space mission into the depths of Jupiter to confront the unknown.</p>
 <a href="https://www.amazon.com/dp/0451457994/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -261,7 +261,7 @@ books:
 <div class="book-card">
 <a href="https://www.amazon.com/dp/055338256X/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>I, Robot by Isaac Asimov</h3>
-<img src="/assets/images/novels/I, Robot - Isaac Asimov.jpg" alt="I, Robot" loading="lazy">
+<img src="/assets/images/novels/I, Robot - Isaac Asimov.webp" alt="I, Robot" loading="lazy">
 </a>
 <p>A collection of linked stories exploring the rise of artificial intelligence and the moral paradoxes of Asimov’s famous Three Laws of Robotics.</p>
 <a href="https://www.amazon.com/dp/055338256X/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -270,7 +270,7 @@ books:
 <div class="book-card">
 <a href="https://www.amazon.com/dp/0765386690/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>The Dark Forest by Cixin Liu</h3>
-<img src="/assets/images/novels/The Dark Forest - Cixin Liu.jpg" alt="The Dark Forest" loading="lazy">
+<img src="/assets/images/novels/The Dark Forest - Cixin Liu.webp" alt="The Dark Forest" loading="lazy">
 </a>
 <p>As humanity faces an impending alien invasion, Earth’s only hope lies in unpredictable strategies that could destroy them all.</p>
 <a href="https://www.amazon.com/dp/0765386690/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -279,7 +279,7 @@ books:
 <div class="book-card">
 <a href="https://www.amazon.com/dp/0553560735/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>Red Mars by Kim Stanley Robinson</h3>
-<img src="/assets/images/novels/Red Mars - Kim Stanley Robinson.jpg" alt="Red Mars" loading="lazy">
+<img src="/assets/images/novels/Red Mars - Kim Stanley Robinson.webp" alt="Red Mars" loading="lazy">
 </a>
 <p>The first colonists on Mars struggle to build a new society while confronting political divisions, ethical dilemmas, and the planet’s harsh environment.</p>
 <a href="https://www.amazon.com/dp/0553560735/?tag=grhamazon02" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -288,7 +288,7 @@ books:
 <div class="book-card">
 <a href="https://www.amazon.com/dp/0553418025/?tag=rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>The Martian by Andy Weir</h3>
-<img src="/assets/images/novels/The Martian - Andy Weir.jpg" alt="The Martian" loading="lazy">
+<img src="/assets/images/novels/The Martian - Andy Weir.webp" alt="The Martian" loading="lazy">
 </a>
 <p>Stranded alone on Mars, astronaut Mark Watney must rely on ingenuity and humor to survive until rescue arrives.</p>
 <a href="https://www.amazon.com/dp/0553418025/?tag=rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -297,7 +297,7 @@ books:
 <div class="book-card">
 <a href="https://www.amazon.com/dp/0765382032/?rjpamazon-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
 <h3>The Three-Body Problem Trilogy by Cixin Liu</h3>
-<img src="/assets/images/novels/The Three-Body Problem - Cixin Liu.jpg" alt="The Three-Body Problem" loading="lazy">
+<img src="/assets/images/novels/The Three-Body Problem - Cixin Liu.webp" alt="The Three-Body Problem" loading="lazy">
 </a>
 <p>A secret contact with an alien civilization sets off a chain of events that threaten humanity’s future and redefine its place in the cosmos.</p>
 <a href="https://www.amazon.com/dp/0765382032/?rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -305,7 +305,7 @@ books:
 
 <div class="book-card">
   <h3>Surfing the Edge of Reality</h3> 
-    <img src="/assets/images/novels/Surfing.png" alt="Surfing the Edge of Reality" loading="lazy">
+    <img src="/assets/images/novels/Surfing.webp" alt="Surfing the Edge of Reality" loading="lazy">
   <p>Only <b>10</b> copies of this book left. The only sci-fi work that claims realistic timescales for the development of relatvistic space travel and that all its distances and times for its voyages across the galaxies are accurately calculated.  A collectors item, only available by requesting a copy directly from the author, me@rikkijprince.com.</p>
 </div>
 
@@ -318,7 +318,7 @@ books:
 <div class="book-card">
   <h3>1 Sarah Mackay in Beijing</h3>
   <a href="https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DTKMB7QQ/?tag=grhamazon02" target="_blank"  rel="nofollow sponsored noopener noreferrer">
-    <img src="/assets/images/novels/Sarah Mackay in Beijing.jpg" alt="Sarah Mackay in Beijing" loading="lazy">
+    <img src="/assets/images/novels/Sarah Mackay in Beijing.webp" alt="Sarah Mackay in Beijing" loading="lazy">
   </a>
   <p>Physicist Sarah Mackay uncovers a geopolitical conspiracy in Beijing where research into cutting-edge AI collides with espionage and betrayal.</p>
   <a href="https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DTKMB7QQ/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -327,7 +327,7 @@ books:
 <div class="book-card">
   <h3>2 Sarah Mackay and the Vatican–Moony Conspiracies</h3>
   <a href="https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DLJG1K2J/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
-    <img src="/assets/images/novels/Sarah Mackay and the Vatican-Moony Conspiracies.jpg" alt="Sarah Mackay and the Vatican–Moony Conspiracies" loading="lazy">
+    <img src="/assets/images/novels/Sarah Mackay and the Vatican-Moony Conspiracies.webp" alt="Sarah Mackay and the Vatican–Moony Conspiracies" loading="lazy">
   </a>
   <p>Sarah investigates a strange alliance between the Vatican and a global cult, exposing a web of secrets that reaches into science and faith.</p>
   <a href="https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DLJG1K2J/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -336,7 +336,7 @@ books:
 <div class="book-card">
   <h3>3 Sarah Mackay and the Race for Quantum Supremacy</h3>
   <a href="https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0DYYZHSV3/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer" loading="lazy">
-    <img src="/assets/images/novels/Sarah Mackay and the Race for Quantum Supremacy.jpg" alt="Sarah Mackay and the Race for Quantum Supremacy">
+    <img src="/assets/images/novels/Sarah Mackay and the Race for Quantum Supremacy.webp" alt="Sarah Mackay and the Race for Quantum Supremacy">
   </a>
   <p>Caught in an international struggle over the world’s most powerful quantum computer, Sarah must outthink both her rivals and her past.</p>
   <a href="https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0DYYZHSV3/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -345,7 +345,7 @@ books:
 <div class="book-card">
   <h3>4 Sarah Mackay in Gaza and Sudan</h3>
   <a href="https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0F16CJ7FS/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
-    <img src="/assets/images/novels/Sarah Mackay in Gaza and Sudan.jpg" alt="Sarah Mackay in Gaza and Sudan" loading="lazy">
+    <img src="/assets/images/novels/Sarah Mackay in Gaza and Sudan.webp" alt="Sarah Mackay in Gaza and Sudan" loading="lazy">
   </a>
   
   <p>Sarah is sent into Gaza’s inferno to rescue key Palestinian figures. She is left to fend for herself in the ruins, and ends up in an equally dramatic situation in Sudan where she is pursued by more than ghosts of her past.</p>
@@ -355,7 +355,7 @@ books:
 <div class="book-card">
   <h3>5 Sarah Mackay in the Frozen Lands</h3>
   <a href="https://www.amazon.com/-/es/Sarah-Mackay-Frozen-Lands-Prince/dp/B0F26G8CKM/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
-    <img src="/assets/images/novels/Sarah Mackay in the Frozen Lands.jpg" alt="Sarah Mackay in the Frozen Lands" loading="lazy">
+    <img src="/assets/images/novels/Sarah Mackay in the Frozen Lands.webp" alt="Sarah Mackay in the Frozen Lands" loading="lazy">
   </a>
   <p>Recovering from trauma, Sarah ventures into the Arctic’s deadly isolation, where discovery and danger merge beneath the endless ice.</p>
   <a href="https://www.amazon.com/-/es/Sarah-Mackay-Frozen-Lands-Prince/dp/B0F26G8CKM/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -364,7 +364,7 @@ books:
 <div class="book-card">
   <h3>Sarah Mackay’s Student Days Vol. 1</h3>
   <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-1/dp/B0F4NZ8R86/?tag=grhamazon02" target="_blank" rel="nofollow sponsored noopener noreferrer">
-    <img src="/assets/images/novels/Student Days Vol 1.jpg" alt="Sarah Mackay’s Student Days Vol. 1" loading="lazy">
+    <img src="/assets/images/novels/Student Days Vol 1.webp" alt="Sarah Mackay’s Student Days Vol. 1" loading="lazy">
   </a>
   <p>Sarah’s early years: curiosity, risk, and the first sparks of her quest to understand the boundaries of knowledge.</p>
   <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-1/dp/B0F4NZ8R86/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -373,7 +373,7 @@ books:
 <div class="book-card">
   <h3>Sarah Mackay’s Student Days Vol. 2</h3>
   <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-2/dp/B0F4R4FZHR/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
-    <img src="/assets/images/novels/Student Days Vol 2.jpg" alt="Sarah Mackay’Student Days Vol. 2" loading="lazy">
+    <img src="/assets/images/novels/Student Days Vol 2.webp" alt="Sarah Mackay’Student Days Vol. 2" loading="lazy">
   </a>
   <p>Her university journey deepens — intellectual awakening, betrayal, and the early experiments that foreshadow her destiny.</p>
   <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-2/dp/B0F4R4FZHR/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
@@ -385,10 +385,10 @@ books:
 <h3>Coming in 2026:</h3>
 <ul>
   <li><em>Sarah Mackay in San Francisco</em></li>
-  <img src="/assets/images/novels/SM in SF.png" alt="Sarah Mackay in San Francisco" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">
+  <img src="/assets/images/novels/SM in SF.webp" alt="Sarah Mackay in San Francisco" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">
   <li><em>Sarah Mackay and the Viral Singularity</em></li>
-  <img src="/assets/images/novels/Viral Singularity.png" alt="Sarah Mackay and the Viral Singularity" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">
+  <img src="/assets/images/novels/Viral Singularity.webp" alt="Sarah Mackay and the Viral Singularity" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">
   <li><em>The Secrets We Keep</em></li>
-  <img src="/assets/images/novels/The Secrets We Keep.png" alt="The Secrets We Keep" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">  
+  <img src="/assets/images/novels/The Secrets We Keep.webp" alt="The Secrets We Keep" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">  
   <li><em>The Choir of Dust</em></li> 
 </ul>

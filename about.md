@@ -29,7 +29,7 @@ permalink: /about/
   "@type": "Person",
   "name": "Rikki J Prince",
   "jobTitle": "Author",
-  "url": "https://YOURWEBSITE.com",
+  "url": "https://www.rikkijprince.com",
   "sameAs": [
     "https://www.amazon.com/author/rikkijprince",
     "https://twitter.com/YOURPROFILE"
@@ -48,7 +48,7 @@ permalink: /about/
 </script>
 
 
-![Rikki J Prince](/assets/images/Family profile.jpg){:style="max-width:200px;border-radius:50%;"}
+![Rikki J Prince](/assets/images/Family profile.webp){:style="max-width:200px;border-radius:50%;"}
 
 ## About me, Rikki J
 <br>	
