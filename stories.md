@@ -243,113 +243,129 @@ books:
 
 <div class="books-grid">
   <div class="book-card">
-    <img src="/assets/images/stories/00 Particle Physics in Geneva.webp" alt="Particle Physics in Geneva">
     <h3>1 Particle Physics in Geneva</h3>
+    <img src="/assets/images/stories/00 Particle Physics in Geneva.webp" alt="Particle Physics in Geneva">
+	<p>Sarah Mackay, a curious first-year undergraduate, arrives at CERN in Geneva with a hunger to understand the smallest particles in the universe.</p>
     <a href="/assets/pdf/00 Particle Physics in Geneva.pdf" class="buy-button green" download>⬇️ FREE PDF DOWNLOAD</a>
   </div>
 
   <div class="book-card">
-    <img src="/assets/images/stories/01 Quantum Gravity in Istanbul.webp" alt="Quantum Gravity in Istanbul">
     <h3>2 Quantum Gravity in Istanbul</h3>
+    <img src="/assets/images/stories/01 Quantum Gravity in Istanbul.webp" alt="Quantum Gravity in Istanbul">
+	<p>In the bustling city of Istanbul, a diverse group of brilliant young students gathers for a nine-day seminar on quantum gravity while Europe is immersed in Covid.</p>
     <a href="https://books.apple.com/es/book/nine-days-immersed-in-quantum-gravity-in-istanbul/id1800797644" class="buy-button orange">🍎 Apple</a>
     <a href="https://www.kobo.com/ie/en/ebook/nine-days-immersed-in-quantum-gravity-in-istanbul" class="buy-button blue">📘 Kobo</a>
   </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/02 Quantum Gravity in Prague.webp" alt="Quantum Gravity in Prague">
   <h3>3 Quantum Gravity in Prague</h3>
+  <img src="/assets/images/stories/02 Quantum Gravity in Prague.webp" alt="Quantum Gravity in Prague">
+	<p>In Prague's architecture and cultural tapestry, Sarah and her student peers reunite to deepen their understanding of quantum gravity.</p>
   <a href="https://books.apple.com/cl/book/nine-days-immersed-in-chaos-theory-in-paris/id6667116345" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/mx/es/ebook/nine-days-immersed-in-chaos-theory-in-paris" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/03 Chaos in Paris.webp" alt="Chaos Theory in Paris">
   <h3>4 Chaos Theory in Paris</h3>
+  <img src="/assets/images/stories/03 Chaos in Paris.webp" alt="Chaos Theory in Paris">
+	<p>Sarah explores chaos theory across nine intense lectures in Paris; intellectual fireworks, tangled equations, and personal upheavals.</p>
   <a href="https://books.apple.com/cl/book/nine-days-immersed-in-chaos-theory-in-paris/id6667116345" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/mx/es/ebook/nine-days-immersed-in-chaos-theory-in-paris" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/04 Chaos in Florence.webp" alt="Chaos Theory in Florence">
   <h3>5 More Chaos Theory in Florence</h3>
+  <img src="/assets/images/stories/04 Chaos in Florence.webp" alt="Chaos Theory in Florence">
+	<p>Florence: Renaissance art, fractal metaphors, and fracturing friendships as Sarah pushes a radical idea that could change how we see order and chance.</p>
   <a href="https://books.apple.com/de/book/nine-more-days-immersed-in-chaos-theory-in-florence/id1800797688" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/us/en/ebook/nine-more-days-immersed-in-chaos-theory-in-florence" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/05 Quantum Mechanics in Copenhagen.webp" alt="Quantum Mechanics in Copenhagen">
   <h3>6 Quantum Mechanics in Copenhagen</h3>
+  <img src="/assets/images/stories/05 Quantum Mechanics in Copenhagen.webp" alt="Quantum Mechanics in Copenhagen">
+	<p>In Copenhagen, Sarah faces intellectual as well as personal and professional  challenges. She explores the dual nature of particles and waves.</p>
   <a href="https://books.apple.com/es/book/nine-days-immersed-in-quantum-mechanics-in-copenhagen/id1800764370" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/ww/en/ebook/nine-days-immersed-in-quantum-mechanics-in-copenhagen" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/06 Special Relativity in Bern.webp" alt="Special Relativity in Bern">
   <h3>7 Special Relativity in Bern</h3>
+  <img src="/assets/images/stories/06 Special Relativity in Bern.webp" alt="Special Relativity in Bern">
+	<p>Set in Bern, Switzerland, where Einstein was inspired to publish his special theory of relativity - Sarah revises the effects of near-light-speed travel.</p>
   <a href="https://books.apple.com/us/book/nine-days-immersed-in-special-relativity-in-bern/id6736484296" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/ww/en/ebook/nine-days-immersed-in-special-relativity-in-bern" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/07 General Relativity in Berlin.webp" alt="General Relativity in Berlin">
   <h3>8 General Relativity in Berlin</h3>
+  <img src="/assets/images/stories/07 General Relativity in Berlin.webp" alt="General Relativity in Berlin">
+	<p>In Berlin, Sarah studies Einstein's theory of the interaction of gravity and spacetime. Old city scars and new scientific tensions collide as ethical dilemmas emerge.</p>
   <a href="https://books.apple.com/us/book/nine-days-immersed-in-general-relativity-in-berlin/id6740430465" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/se/sv/ebook/nine-days-immersed-in-general-relativity-in-berlin" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/08 Relativity on the Grandest Scale in Kyiv.webp" alt="Relativity on the Grandest Scale in Kyiv">
   <h3>9 Relativity on the Grandest Scale in Kyiv</h3>
+  <img src="/assets/images/stories/08 Relativity on the Grandest Scale in Kyiv.webp" alt="Relativity on the Grandest Scale in Kyiv">
+	<p>The series moves to Kyiv, as the Russian tanks roll into Ukraine in February 2022, Sarah goes through a harrowing experience which changes her attitudes about life forever.</p>
   <a href="https://www.indigo.ca/en-ca/nine-days-immersed-in-relativity-on-the-grandest-scale-in-war-torn-kyiv-nine-days-8/49f4ab53-0e40-3e37-be56-1c0771080dae.html" class="buy-button orange">💜 Indigo</a>
   <a href="https://www.kobo.com/ie/en/ebook/nine-days-immersed-in-relativity-in-berlin-and-war-torn-kyiv" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/09 Geometry in Oxford.webp" alt="A Universe Made of Geometry in Oxford">
   <h3>10 A Universe Made of Geometry in Oxford</h3>
+  <img src="/assets/images/stories/09 Geometry in Oxford.webp" alt="A Universe Made of Geometry in Oxford">
+	<p>Set against Oxford's historic halls, Sarah probes whether geometry - not matter or energy - is the universe's true fabric. But pressures from different directions put a strain on her.</p>
   <a href="https://books.apple.com/us/book/nine-days-immersed-in-a-universe-made-of-geometry/id6740993154" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/ph/en/ebook/nine-days-immersed-in-time-travel-in-cambridge" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/10 Information in Princeton.webp" alt="A Universe Made of Information in Princeton">
   <h3>11 A Universe Made of Information in Princeton</h3>
+  <img src="/assets/images/stories/10 Information in Princeton.webp" alt="A Universe Made of Information in Princeton">
+	<p>At Princeton, Sarah goes into theories that give her a clearer vision of the essence of reality, while her inner reality becomes more and more diffuse.</p>
   <a href="https://books.apple.com/mx/book/nine-days-immersed-in-quantum-mechanics-in-copenhagen/id6736482093" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/ie/en/ebook/nine-days-immersed-in-a-universe-made-of-information-in-princeton" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/11 Private Investigation in New York.webp" alt="Private Investigation in New York">
   <h3>12 Private Investigation in New York</h3>
+  <img src="/assets/images/stories/11 Private Investigation in New York.webp" alt="Private Investigation in New York">
+	<p>On a break from her academic studies, Sarah sets out to impriove her investigative skills, when life suddnly takes a dangerous turn.</p>
   <a href="https://books.apple.com/ar/book/nine-days-immersed-in-forensic-science-in-mexico-city/id6741032897" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/ie/en/ebook/nine-days-immersed-in-forensic-science-in-mexico-city" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/12 Forensic Science in Mexico City.webp" alt="Forensic Science in Mexico City">
   <h3>13 Forensic Science in Mexico City</h3>
+  <img src="/assets/images/stories/12 Forensic Science in Mexico City.webp" alt="Forensic Science in Mexico City">
+	<p>Sarah faces the danger head-on as she furthers her investigative skills by delving into forescic science. But death was more than an object of study on this occasion.</p>
   <a href="https://books.apple.com/us/book/nine-days-immersed-in-private-investigation-in-new-york/id6741033001" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/mx/es/ebook/nine-days-immersed-in-private-investigation-in-new-york" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/13 Time Travel in Cambridge.webp" alt="Time Travel in Cambridge">
   <h3>14 Time Travel in Cambridge</h3>
+  <img src="/assets/images/stories/13 Time Travel in Cambridge.webp" alt="Time Travel in Cambridge">
+	<p>A prestigious Cambridge seminar on theoretical (and practical) time travel forces Sarah to confront paradoxes of causality - and the personal consequences of trying to change the past.</p>
   <a href="https://books.apple.com/es/book/nine-days-immersed-in-time-travel-in-cambridge/id6741146083" class="buy-button orange">🍎 Apple</a>
   <a href="https://www.kobo.com/ww/en/ebook/nine-days-immersed-in-time-travel-in-cambridge" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/14 The Nature of Time in Kyoto.webp" alt="The Nature of Time in Kyoto">
   <h3>15 The Nature of Time in Kyoto</h3>
+  <img src="/assets/images/stories/14 The Nature of Time in Kyoto.webp" alt="The Nature of Time in Kyoto">
+	<p>Amid Kyoto's tranquil temples and quantum debates, Sarah Mackay seeks the essence of time itself - discovering that understanding it may cost her the present she holds dear.</p>
   <a href="https://www.barnesandnoble.com/w/nine-days-immersed-in-the-nature-of-time-rikki-j-prince/1147238139" class="buy-button orange">📗 Barnes & Noble</a>
   <a href="https://www.kobo.com/ie/en/ebook/nine-days-immersed-in-the-nature-of-time-in-kyoto" class="buy-button blue">📘 Kobo</a>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/stories/15 Nine Days Immersed in the Manipulation of Reality in Loch Ness.webp" alt="The Manipulation of Reality in Loch Ness">
   <h3>16 The Manipulation of Reality in Loch Ness</h3>
-  <a href="#" class="buy-button blue">⏳ Coming in 2026</a>
+  <img src="/assets/images/stories/15 Nine Days Immersed in the Manipulation of Reality in Loch Ness.webp" alt="The Manipulation of Reality in Loch Ness">
+  <p>The grand finale where everything comes to a head.</p>
+  <a href="#" class="buy-button blue">⏳ Coming some time in late 2026</a>
 </div>
 
 </div>

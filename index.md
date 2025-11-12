@@ -83,7 +83,7 @@ permalink: /
 
   <li><a href="/about/">About Me</a> — My background</li>
   <li><a href="/stories/">Start Here</a> — Fifteen nine-day reads extracted from the Student Days of Sarah Mackay, the beginning of her inquiries into the nature of the universe.</li>
-  <li><a href="/novels/">Essential novels</a> — Some classics, followed by the Saga of Sarah Mackay, the theoretical physicist who found Schrödinger's cat</li>
+  <li><a href="/novels/">Essential novels</a> — Some classics, followed by the saga of Sarah Mackay, the theoretical physicist who found Schrödinger's cat</li>
   <li><a href="/experimental/">My experimental works</a> — Stories where time runs backwards or is fragmented and philosophical essays</li>
   <li><a href="/zanzibar/">My collaboration with Anwar Zanzibar</a> — Diverse works on sexuality, the occult, and romantic fantasy</li>
   <li><a href="/readers/">RJP Readers</a> — Graded Readers for learners of English, levels A1 to C2.</li>
