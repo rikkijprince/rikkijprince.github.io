@@ -7,3 +7,17 @@
   text-align: left;
   display: inline-block;
 }
+body { font-family: 'Helvetica', sans-serif; margin:0; padding:0; color:#333; }
+.container { width:90%; max-width:900px; margin:0 auto; }
+.hero { background:#0052cc; color:white; text-align:center; padding:100px 20px; }
+.hero h1 { font-size:2.5em; margin-bottom:20px; }
+.cta-button { display:inline-block; background:#ff9900; color:white; padding:15px 25px; border-radius:5px; text-decoration:none; font-weight:bold; margin-top:20px;}
+.steps { display:flex; flex-direction:column; gap:20px; margin-top:40px; }
+.step { background:#f7f7f7; padding:20px; border-radius:10px; }
+@media(min-width:768px) { .steps { flex-direction:row; } .step { flex:1; } }
+.signup { background:#ff9900; color:white; text-align:center; padding:60px 20px; }
+.ai-engine { background:#f0f4ff; padding:80px 20px; }
+.ai-engine h2 { text-align:center; margin-bottom:40px; font-size:2.2em; }
+.agents { display:flex; flex-direction:column; gap:30px; }
+.agent { background:white; padding:25px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.05);}
+@media(min-width:768px) { .agents { flex-direction:row; } .agent { flex:1; } }
