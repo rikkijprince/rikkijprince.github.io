@@ -18,21 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Rikki J Prince (Author of the Sarah Mackay saga)"
+title: "Rikki J Prince English learning 5.0"
 email: me@rikkijprince.com
-description: >-
-  Books by Rikki J Prince
-  The Sarah Mackay saga
-  RJP Readers for English learners (A1, A2, B1, B2, C1, C2)
-  Philosophical Essays
-  Speculative Fiction
-  The Occult - A Scientific Perspective
-  The Art & Science of Pleasure
-  The Art & Science of Risk
+layout: landing
+description: AI-powered English fluency for professionals
 baseurl: ""
-url: "https://www.rikkijprince.com"
-
-theme: jekyll-theme-primer   # ✅ Use GitHub-supported theme
+url: "https://rikkijprince.com.github.io"
+theme: minima
+# previous theme: jekyll-theme-primer   # ✅ Use GitHub-supported theme
 
 plugins:
   - jekyll-feed
@@ -40,7 +33,7 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - index.md
+  - bookpages.md
   - about.md
   - novels.md
   - stories.md
@@ -70,7 +63,6 @@ nav:
 
 repository: rikkijprince/rikkijprince.github.io
 
-    
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
