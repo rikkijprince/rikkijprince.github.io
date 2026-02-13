@@ -7,11 +7,12 @@
   <meta name="description" content="The only English fluency system designed for professionals using AI and personalized coaching. Stop learning, start operating in English.">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
-<body>
+<body> 
   <header class="hero">
     <div class="container">
       <h1>Finally, an English System That Actually Works for Professionals</h1>
       <p>Stop wasting time on classes that don’t make you fluent. Experience daily AI-guided practice and expert coaching that builds real communicative confidence.</p>
+    <img src="/assets/images/Website image.jpg" alt="Professional speaking with confidence" class="hero-image">
       <a href="#signup" class="cta-button">Start Your Transformation</a>
     </div>
   </header>
