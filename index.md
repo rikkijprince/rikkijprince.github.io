@@ -12,7 +12,7 @@
     <div class="container">
       <h1>Finally, an English System That Actually Works for Professionals</h1>
       <p>Stop wasting time on classes that don’t make you fluent. Experience daily AI-guided practice and expert coaching that builds real communicative confidence.</p>
-    <img src="/assets/images/Website image.jpg" alt="Professional speaking with confidence" class="hero-image">
+    <img src="/assets/images/Website image 1.jpg" alt="Professional speaking with confidence" class="hero-image">
       <a href="#signup" class="cta-button">Start Your Transformation</a>
     </div>
   </header>
