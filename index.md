@@ -54,8 +54,8 @@ permalink: /
   <img src="/assets/images/webb.webp" alt="Web Image 2" style="max-width: 12%; height: 12%; border-radius: 8px;">
 </div>
 
-## Rikki J here,
-## Welcome to my Homepage!
+## RJ here,
+## Welcome to my Book pages!
 
 <ul style="margin-left: 1.2em;">
   <br>
