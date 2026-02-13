@@ -48,10 +48,10 @@ permalink: /
 </script>
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <img src="/assets/images/weba.webp" alt="Web Image 1" style="max-width: 12%; height: 12%; border-radius: 8px;">
-  <img src="/assets/images/webc.webp" alt="Web Image 3" style="max-width: 18%; height: 15%; border-radius: 8px;">
-  <img src="/assets/images/webd.webp" alt="Web Image 4" style="max-width: 18%; height: 18%; border-radius: 8px;">
-  <img src="/assets/images/webb.webp" alt="Web Image 2" style="max-width: 12%; height: 12%; border-radius: 8px;">
+  <img src="/assets/images/bookpages/weba.webp" alt="Web Image 1" style="max-width: 12%; height: 12%; border-radius: 8px;">
+  <img src="/assets/images/bookpages/webc.webp" alt="Web Image 3" style="max-width: 18%; height: 15%; border-radius: 8px;">
+  <img src="/assets/images/bookpages/webd.webp" alt="Web Image 4" style="max-width: 18%; height: 18%; border-radius: 8px;">
+  <img src="/assets/images/bookpages/webb.webp" alt="Web Image 2" style="max-width: 12%; height: 12%; border-radius: 8px;">
 </div>
 
 ## RJ here,
@@ -82,7 +82,7 @@ permalink: /
 <ul style="margin-left: 2em;">
 
   <li><a href="/about/">About Me</a> — My background</li>
-  <li><a href="/stories/">Start Here</a> — Fifteen nine-day reads extracted from the Student Days of Sarah Mackay, the beginning of her inquiries into the nature of the universe.</li>
+  <li><a href="/stories/">Start Here</a> — A series of nine-day reads extracted from the Student Days of Sarah Mackay, the beginning of her inquiries into the nature of the universe.</li>
   <li><a href="/novels/">Essential novels</a> — Some classics, followed by the saga of Sarah Mackay, the theoretical physicist who found Schrödinger's cat</li>
   <li><a href="/experimental/">My experimental works</a> — Stories where time runs backwards or is fragmented and philosophical essays</li>
   <li><a href="/zanzibar/">My collaboration with Anwar Zanzibar</a> — Diverse works on sexuality, the occult, and romantic fantasy</li>
@@ -91,7 +91,7 @@ permalink: /
 </ul>
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <img src="/assets/images/Sarah Mackay at Princeton.webp" alt="Sarah Mackay at Princeton" style="max-width: 95%; height: auto; border-radius: 8px;">
+  <img src="/assets/images/bookpages/Sarah Mackay at Princeton.webp" alt="Sarah Mackay at Princeton" style="max-width: 95%; height: auto; border-radius: 8px;">
   Sarah Mackay at Princeton, from the Sarah Mackay saga
   <br>
 </div>
