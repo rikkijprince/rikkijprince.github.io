@@ -1,26 +1,32 @@
-<header class="site-header">
-  <nav class="navbar">
-    <a href="/" class="nav-logo">Hybrid English 5.0</a>
+<nav class="navbar">
+  <div class="nav-container">
+    
+    <!-- Brand -->
+    <a class="nav-logo" href="/about/">Rikki J Prince</a>
 
-    <button 
-      class="nav-toggle" 
-      aria-label="Toggle navigation"
-      aria-expanded="false"
-      aria-controls="primary-navigation">
-      <span class="bar"></span>
-      <span class="bar"></span>
-      <span class="bar"></span>
+    <!-- Menu Toggle (Mobile) -->
+    <button class="nav-toggle" aria-label="Toggle navigation">
+      ☰
     </button>
 
-    <div class="nav-links" id="primary-navigation">
-      <a href="/" class="{% if page.url == '/index.html' or page.url == '/' %}active{% endif %}">Hybrid English 5.0</a>
-      <a href="/about/" class="{% if page.url == '/about/' %}active{% endif %}">Founder</a>
-      <a href="/stories/" class="{% if page.url == '/stories/' %}active{% endif %}">Short Stories</a>
-      <a href="/novels/" class="{% if page.url == '/novels/' %}active{% endif %}">Novels</a>
-      <a href="/experimental/" class="{% if page.url == '/experimental/' %}active{% endif %}">Experimental</a>
-      <a href="/zanzibar/" class="{% if page.url == '/zanzibar/' %}active{% endif %}">Zanzibar</a>
-      <a href="/readers/" class="{% if page.url == '/readers/' %}active{% endif %}">Readers</a>
-      <a href="/other/" class="{% if page.url == '/other/' %}active{% endif %}">Coming Soon</a>
-    </div>
-  </nav>
-</header>
+    <!-- Navigation Links -->
+    <ul class="nav-menu">
+      <li><a href="/">Hybrid English 5.0</a></li>
+      <li><a href="/technical-english-2026/">Technical English in 2026</a></li>
+      <li><a href="/readers/">Graded Readers</a></li>
+
+      <!-- Dropdown -->
+      <li class="dropdown">
+        <a href="#" class="dropbtn">Other Publications ▾</a>
+        <ul class="dropdown-content">
+          <li><a href="/stories/">Short Stories</a></li>
+          <li><a href="/novels/">Novels</a></li>
+          <li><a href="/experimental/">Experimental Writing</a></li>
+          <li><a href="/zanzibar/">Esoteric</a></li>
+          <li><a href="/other/">Coming Soon</a></li>
+        </ul>
+      </li>
+    </ul>
+
+  </div>
+</nav>
