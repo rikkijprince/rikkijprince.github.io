@@ -36,4 +36,31 @@ title: Home
   </div>
 </section>
 
-<!-- Keep the rest exactly the same, just WITHOUT html/head/body tags -->
+<section class="ai-engine">
+  <div class="container">
+    <h2>Our AI-Powered Fluency Engine</h2>
+    <p>Behind the scenes, a team of specialized AI agents works together to accelerate your English fluency — with precision impossible in traditional classes.</p>
+    <div class="agents">
+      <div class="agent">
+        <h3>Conversation Partner AI</h3>
+        <p>Practice speaking daily with an adaptive AI that keeps the conversation flowing, models natural English, and builds confidence without overcorrecting.</p>
+      </div>
+      <div class="agent">
+        <h3>Feedback & Diagnosis AI</h3>
+        <p>Automatically detects recurring mistakes, hesitation patterns, and vocabulary gaps. Generates insights that inform your personalized practice plan.</p>
+      </div>
+      <div class="agent">
+        <h3>Practice Designer AI</h3>
+        <p>Creates daily drills tailored to your unique learning bottlenecks — from pronunciation to complex sentence structures.</p>
+      </div>
+      <div class="agent">
+        <h3>Pronunciation Coach AI</h3>
+        <p>Analyzes your speech for phonemes, stress, intonation, and rhythm, giving targeted correction to make you sound more like a native speaker.</p>
+      </div>
+      <div class="agent">
+        <h3>Motivation & Habit AI</h3>
+        <p>Monitors your engagement, detects signs of frustration, and sends prompts and reminders to keep your learning consistent and rewarding.</p>
+      </div>
+    </div>
+  </div>
+</section>
