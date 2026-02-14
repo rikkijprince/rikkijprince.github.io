@@ -1,11 +1,17 @@
 <!DOCTYPE html>
-{{ content }}
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | escape }}</title>
-  
+
+  <meta name="description" content="{{ page.description | default: 'Hybrid English 5.0 — AI-powered English fluency system for professionals.' }}">
+
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <!-- Structured Data -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -21,19 +27,24 @@
 
   {% include book-schema.html %}
 
-  <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
-<script src="/js/main.js"></script>
+
 <body>
+
   <div class="wrapper">
+
     {% include navbar.html %}
+
     <main class="page-content">
       <div class="page__inner-wrap">
         {{ content }}
       </div>
     </main>
+
   </div>
+
+  <!-- JavaScript -->
+  <script src="{{ '/js/main.js' | relative_url }}"></script>
+
 </body>
 </html>
-
-
