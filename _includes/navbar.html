@@ -1,127 +1,26 @@
 <header class="site-header">
   <nav class="navbar">
-    <a href="/" class="nav-logo">Rikki J Prince</a>
+    <a href="/" class="nav-logo">Hybrid English 5.0</a>
 
-    <button class="nav-toggle" aria-label="Toggle navigation">
-      ☰
+    <button 
+      class="nav-toggle" 
+      aria-label="Toggle navigation"
+      aria-expanded="false"
+      aria-controls="primary-navigation">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
     </button>
 
-    <div class="nav-links">
-      <a href="/" class="{% if page.url == '/index.html' or page.url == '/' %}active{% endif %}">Home</a>
-      <a href="/about/" class="{% if page.url == '/about/' %}active{% endif %}">About</a>
-      <a href="/stories/" class="{% if page.url == '/stories/' %}active{% endif %}">Start Here</a>
+    <div class="nav-links" id="primary-navigation">
+      <a href="/" class="{% if page.url == '/index.html' or page.url == '/' %}active{% endif %}">Hybrid English 5.0</a>
+      <a href="/about/" class="{% if page.url == '/about/' %}active{% endif %}">Founder</a>
+      <a href="/stories/" class="{% if page.url == '/stories/' %}active{% endif %}">Short Stories</a>
       <a href="/novels/" class="{% if page.url == '/novels/' %}active{% endif %}">Novels</a>
       <a href="/experimental/" class="{% if page.url == '/experimental/' %}active{% endif %}">Experimental</a>
       <a href="/zanzibar/" class="{% if page.url == '/zanzibar/' %}active{% endif %}">Zanzibar</a>
       <a href="/readers/" class="{% if page.url == '/readers/' %}active{% endif %}">Readers</a>
-      <a href="/other/" class="{% if page.url == '/other/' %}active{% endif %}">Other Stuff</a>
+      <a href="/other/" class="{% if page.url == '/other/' %}active{% endif %}">Coming Soon</a>
     </div>
-
   </nav>
 </header>
-
-
-<style>
-/* --- BASE NAV STYLES --- */
-.site-header {
-  width: 100%;
-  background-color: #111;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-}
-
-.navbar {
-  max-width: 1000px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 12px 20px;
-}
-
-.nav-logo {
-  font-size: 1.4em;
-  color: #f5f5f5;
-  font-weight: 600;
-  text-decoration: none;
-  letter-spacing: 0.5px;
-}
-
-/* --- NAV LINKS --- */
-.nav-links {
-  display: flex;
-  align-items: center;
-  gap: 18px;
-}
-
-/* --- NAV LINKS --- */
-.nav-links {
-  display: flex;
-  align-items: center;
-  gap: 18px;
-}
-
-.nav-links a {
-  color: #f5f5f5;
-  text-decoration: none;
-  font-weight: 500;
-  transition: color 0.4s ease; /* smoother fade */
-}
-
-.nav-links a:hover {
-  color: #ffd700; /* yellow on hover */
-}
-
-.nav-links a.active {
-  color: #ffd700; /* yellow on active page */
-}
-
-
-/* --- HAMBURGER BUTTON --- */
-.nav-toggle {
-  background: none;
-  border: none;
-  color: #f5f5f5;
-  font-size: 1.8em;
-  cursor: pointer;
-  display: none; /* Hidden on desktop */
-}
-
-/* --- MOBILE MENU --- */
-@media (max-width: 700px) {
-  .nav-toggle {
-    display: block;
-  }
-
-  .nav-links {
-    display: none;
-    flex-direction: column;
-    width: 100%;
-    text-align: center;
-    background-color: #111;
-    padding: 10px 0;
-    border-top: 1px solid #333;
-  }
-
-  .nav-links.show {
-    display: flex;
-  }
-
-  .nav-links a {
-    padding: 10px 0;
-  }
-}
-</style>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const toggle = document.querySelector(".nav-toggle");
-  const links = document.querySelector(".nav-links");
-
-  toggle.addEventListener("click", () => {
-    links.classList.toggle("show");
-  });
-});
-</script>
