@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ HYBRID ENGLISH 5.0 }}</title>
+  <title>HYBRID ENGLISH 5.0</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="The only English fluency system designed for professionals using AI and personalized coaching. Stop learning, start operating in English.">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -11,7 +11,7 @@
   <header class="hero">
     <div class="container">
       <h1>HYBRID ENGLISH 5.0 - Finally, an English Fluency System That Actually Works for Professionals</h1>
-      <img src="/assets/images/Website image 1.jpg" alt="Professional speaking with confidence" class="hero-image">
+      <img src="/assets/images/indexc1.jpg" alt="Professional speaking with confidence" class="hero-image">
       <p>Stop wasting time on classes that don’t make you fluent. Experience daily AI-guided practice and expert coaching that builds real communicative confidence.</p>
       <a href="#signup" class="cta-button">Start Your Transformation</a>
     </div>
@@ -44,6 +44,7 @@
 <section class="ai-engine">
   <div class="container">
     <h2>Our AI-Powered Fluency Engine</h2>
+    <img src="/assets/images/indexc2.jpg" alt="AI agents working together" class="hero-image">
     <p>Behind the scenes, a team of specialized AI agents works together to accelerate your English fluency — with precision impossible in traditional classes.</p>
     <div class="agents">
       <div class="agent">
