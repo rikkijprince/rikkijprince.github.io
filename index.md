@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>HYBRID ENGLISH 5.0</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="The only English fluency system designed for professionals using AI and personalized coaching. Stop learning, start operating in English.">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -95,13 +94,14 @@
     <div class="container">
       <h2>Start Your English Fluency Journey Today</h2>
       <p>Sign up and experience a free 7-day trial. No textbooks, no generic classes. Just results.</p>
-      <a href="https://example.com/signup" class="cta-button">Start Free Trial</a>
+      <a href="https://rikkijprince.com/signup.md" class="cta-button">Start Free Trial</a>
+      <p> </p>
     </div>
   </section>
 
   <footer>
     <div class="container">
-      <p>&copy; {{ site.time | date: "%Y" }} Hybrid English 5.0. All rights reserved.</p>
+      <p>&copy; 2026 Hybrid English 5.0. All rights reserved.</p>
     </div>
   </footer>
 </body>
