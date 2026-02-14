@@ -32,9 +32,11 @@ img {
   margin: 0 auto;
   text-align: center;
 }
-.page-content ul {
-  text-align: left;
-  display: inline-block;
+..page-content {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 body { font-family: 'Helvetica', sans-serif; margin:0; padding:0; color:#333; }
 .container { width:90%; max-width:900px; margin:0 auto; }
