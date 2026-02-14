@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+  <title>{{ HYBRID ENGLISH 5.0 }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="The only English fluency system designed for professionals using AI and personalized coaching. Stop learning, start operating in English.">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -10,9 +10,9 @@
 <body> 
   <header class="hero">
     <div class="container">
-      <h1>Finally, an English System That Actually Works for Professionals</h1>
+      <h1>HYBRID ENGLISH 5.0 - Finally, an English Fluency System That Actually Works for Professionals</h1>
+      <img src="/assets/images/Website image 1.jpg" alt="Professional speaking with confidence" class="hero-image">
       <p>Stop wasting time on classes that don’t make you fluent. Experience daily AI-guided practice and expert coaching that builds real communicative confidence.</p>
-    <img src="/assets/images/Website image 1.jpg" alt="Professional speaking with confidence" class="hero-image">
       <a href="#signup" class="cta-button">Start Your Transformation</a>
     </div>
   </header>
@@ -100,7 +100,7 @@
 
   <footer>
     <div class="container">
-      <p>&copy; {{ site.time | date: "%Y" }} English 5.0. All rights reserved.</p>
+      <p>&copy; {{ site.time | date: "%Y" }} Hybrid English 5.0. All rights reserved.</p>
     </div>
   </footer>
 </body>
