@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sign Up
+permalink: /signup/
+---
+
 <form id="leadForm">
   <input type="text" name="fullName" placeholder="Full Name" required>
   <input type="email" name="email" placeholder="Email" required>
