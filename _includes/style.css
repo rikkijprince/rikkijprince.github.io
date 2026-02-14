@@ -1,3 +1,32 @@
+/* ============================= */
+/* GLOBAL RESETS */
+/* ============================= */
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Remove accidental theme constraints */
+.wrapper {
+  width: 100%;
+}
+
+.page__inner-wrap {
+  width: 100%;
+}
+
 .page-content {
   max-width: 800px;
   margin: 0 auto;
