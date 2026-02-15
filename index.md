@@ -69,10 +69,6 @@ title: Hybrid English 5.0
     </div>
   </div>
 </section>
-      </div>
-    </div>
-  </div>
-</section>
 
 <section class="why-it-works">
   <div class="container">
@@ -89,9 +85,9 @@ title: Hybrid English 5.0
 <section class="social-proof">
   <div class="container">
     <h2>Trusted by Professionals Worldwide</h2>
-    <p>"I’ve tried dozens of English courses. This is the first program that made me confident speaking at work." — Marketing Director, Seul</p>
-    <p>"The AI practice plus coaching gave me fluency in months that I didn’t get in years of traditional classes." — Product Manager, Berlin</p>
-    <p>"Improved my fluency and confidence much faster than I expected." — Engineer, Valencia</p>
+    <p>"I’ve tried dozens of English courses. This is the first program that made me confident speaking at work." — Marketing Director, Seoul, South Korea</p>
+    <p>"The AI practice plus coaching gave me fluency in months that I didn’t get in years of traditional classes." — Product Manager, Munich, Germany</p>
+    <p>"Improved my fluency and confidence much faster than I expected." — Engineer, Valencia<, Spain/p>
   </div>
 </section>
 
