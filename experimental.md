@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Experimental Works"
-decription: ""
+decription: "A mixture of sci fi, philosophy and out-of-the-box observations"
 keywords: "Rikki J Prince, Philosophical essays and xperimental writing, time distortion, time running backwords"
 permalink: /experimental/
 ---
