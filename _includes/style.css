@@ -1,4 +1,4 @@
-/* ============================= */
+lo/* ============================= */
 /* GLOBAL RESETS */
 /* ============================= */
 
@@ -206,9 +206,14 @@ body.menu-open {
 }
 /* Ensure images never exceed the text container */
 .hero-image {
-  max-width: 100%;
-  height: auto;
   display: block;
-  margin: 1.5rem auto;   /* centers image horizontally */
-  border-radius: 12px;   /* optional: modern rounded look */
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 12px;
+}
+.hero .container {
+  max-width: 900px;
+  margin: 0 auto;
 }
