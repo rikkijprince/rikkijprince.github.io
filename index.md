@@ -39,6 +39,7 @@ title: Home
 <section class="ai-engine">
   <div class="container">
     <h2>Our AI-Powered Fluency Engine</h2>
+        <img src="/assets/images/indexc2.jpg" alt="Professional interacting with AI agents" class="hero-image">
     <p>Behind the scenes, a team of specialized AI agents works together to accelerate your English fluency — with precision impossible in traditional classes.</p>
     <div class="agents">
       <div class="agent">
