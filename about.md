@@ -52,15 +52,17 @@ permalink: /about/
 
 ## About me, Rikki J
 <br>	
-Engineer, educator, novelist and AI ghostwriter. Born and bred in the UK with influences from India, Pakistan, the USA, France, Italy, Germany and the Netherlands, I ended up settling in Spain. That mixture of people, cultures, aromas and ways of thinking became the lens through which I observed the world.
+Engineer, educator, novelist and AI ghostwriter. Born and bred in the UK with influences from the USA, India, Pakistan, France, Italy, Germany, the Netherlands and Spain, this mixture of people, cultures, aromas and ways of thinking became the lens through which I observed the world.
 <br>			
-Aspiring to understand the phenomena of electromagnetic waves and and the quantum nature of light, I took up physics, electronics and telecoms engineering, but an intuitive understanding of these mysteries always eluded me, and somewhere along the line, I left my engineering career and became a patent examiner, translator, teacher, and writer — always searching for meaning behind the noise.
+Aspiring to understand the physical woorld around me, I took up physics, electronics and telecoms engineering, but, in the end, the physical world proved to be as mysterious and elusive as the human world, and I from engineering to become a patent examiner, translator, teacher, and writer and publisher — always searching for meaning behind the noise.
 <br>
-My books explore what lies behind our words, our desires, our connections — whether they’re between humans, animals, or machines. I write because I want to understand how we came to be — and where we might be going next. 
+My books explore what lies behind our words, our desires, our connections. I write because I want to understand how we came to be — and where we might be going next. 
 <br>
-Welcome to my world. I hope you’ll find echoes of your own journey here too.
+My latest venture is teaching languages through a hybrid system of AI agents, where five AI agents cooperate to teach and collect feedback data, and human consultants do the interpreting of results.
+<br>
+This is my world. Thank you for joining me.
 <br>				
-#### Write to: [me@rikkijprince.com](mailto:me@rikkijprince.com)
+#### Contact: [me@rikkijprince.com](mailto:me@rikkijprince.com)
 
 
 
