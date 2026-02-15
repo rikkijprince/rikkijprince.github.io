@@ -20,7 +20,7 @@ title: Hybrid English 5.0
       <div class="step">
         <h3>1. Daily speaking session</h3>
         <p>Short, easy daily speaking sessions with an AI trained to build up your confidence.</p>
-      <div class="step">
+      </div>
         <h3>2. Smart Feedback</h3>
         <p>Every conversation is analyzed automatically by language analyst.</p>
       </div>
