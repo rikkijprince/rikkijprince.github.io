@@ -1,4 +1,4 @@
-lo/* ============================= */
+Hylo/* ============================= */
 /* GLOBAL RESETS */
 /* ============================= */
 
@@ -216,4 +216,30 @@ body.menu-open {
 .hero .container {
   max-width: 900px;
   margin: 0 auto;
+}
+.dropdown {
+  position: relative;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background: #111;
+  min-width: 200px;
+  top: 100%;
+  left: 0;
+  padding: 10px 0;
+}
+
+.dropdown-content li {
+  list-style: none;
+}
+
+.dropdown-content a {
+  display: block;
+  padding: 8px 16px;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
 }
