@@ -18,20 +18,19 @@ title: Hybrid English 5.0
     <h2>How It Works</h2>
     <div class="steps">
       <div class="step">
-        <h3>1. Speak Daily with AI</h3>
-        <p>Practice speaking every day without fear...</p>
-      </div>
+        <h3>1. Daily speaking session</h3>
+        <p>Short, easy daily speaking sessions with an AI trained to build up your confidence.</p>
       <div class="step">
         <h3>2. Smart Feedback</h3>
-        <p>Every conversation is analyzed automatically...</p>
+        <p>Every conversation is analyzed automatically by language analyst.</p>
       </div>
       <div class="step">
         <h3>3. Targeted Practice</h3>
-        <p>Personalized exercises are generated just for you...</p>
+        <p>Personalized exercises are generated just for you by our language practice designer and our pronunciation coach.</p>
       </div>
       <div class="step">
         <h3>4. Human Coaching</h3>
-        <p>Weekly sessions with expert coaches...</p>
+        <p>Weekly sessions with an expert consultant, a native speaker, who will give you detailed feedback on your progress and keep you motivated to come back for more.</p>
       </div>
     </div>
   </div>
@@ -39,8 +38,8 @@ title: Hybrid English 5.0
 
 <section class="ai-engine">
   <div class="container">
+    <img src="/assets/images/indexc2.jpg" alt="Professional interacting with AI agents" class="hero-image">
     <h2>Our AI-Powered Fluency Engine</h2>
-        <img src="/assets/images/indexc2.jpg" alt="Professional interacting with AI agents" class="hero-image">
     <p>Behind the scenes, a team of specialized AI agents works together to accelerate your English fluency — with precision impossible in traditional classes.</p>
     <div class="agents">
       <div class="agent">
@@ -48,12 +47,12 @@ title: Hybrid English 5.0
         <p>You will have 10-15 minutes practice speaking daily , at the time of your choice, with an adaptive AI that keeps the conversation flowing, models natural English, and builds confidence without overcorrecting.</p>
       </div>
       <div class="agent">
-        <h3>Feedback & Diagnosis AI</h3>
+        <h3>Language Analyst AI</h3>
         <p>A specialist AI will automatically detects recurring mistakes, hesitation patterns, and vocabulary gaps. It will generate insights that inform your personalized practice plan.</p>
       </div>
       <div class="agent">
-        <h3>Practice Designer AI</h3>
-        <p>Next, a third specialist AI will create daily drills tailored to your unique learning bottlenecks — from pronunciation to complex sentence structures.</p>
+        <h3>Language Practice Designer AI</h3>
+        <p>Next, a third laser-focused target language practice designer AI will create daily drills tailored to your unique learning bottlenecks — from pronunciation to complex sentence structures.</p>
       </div>
       <div class="agent">
         <h3>Pronunciation Coach AI</h3>
@@ -64,8 +63,12 @@ title: Hybrid English 5.0
         <p>A fifth specialist AI will monitor your engagement, detects signs of frustration, and send prompts and reminders to keep your learning consistent and rewarding.</p>
       </div>
       <div class="agent">
-        <h3>Human Interactio</h3>
-        <p>Finally, you will have a feedback session, once a week, with your private (human) tutor, who will guide you and give you feedback on all the data the AIs are producing.</p>
+        <h3>Human Interaction</h3>
+        <p>Finally, you will have a feedback session, once a week, with your private (human) tutor, who will guide you and give you feedback on all the data the AIs are producing - because the human touch is fundamental and always will be.</p>
+      </div>
+    </div>
+  </div>
+</section>
       </div>
     </div>
   </div>
