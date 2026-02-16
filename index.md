@@ -8,7 +8,7 @@ title: Hybrid English 5.0
     <h1>HYBRID ENGLISH 5.0 - Finally, an English Fluency System That Actually Works for Professionals</h1>
     <h2>[Site under construction - Expected launch date: 15 April 2026]</h2>
     <img src="/assets/images/indexc1.jpg" alt="Professional speaking with confidence" class="hero-image">
-    <p>Stop wasting time on classes that don’t make you fluent. Experience daily AI-guided practice and expert coaching that builds real communicative confidence.</p>
+    <p>Stop wasting time on classes that don’t make you fluent. Experience daily guided conversation practice and expert coaching that builds real communicative confidence.</p>
     <a href="#signup" class="cta-button">Start Your Transformation</a>
   </div>
 </header>
@@ -19,14 +19,14 @@ title: Hybrid English 5.0
     <div class="steps">
       <div class="step">
         <h3>1. Daily speaking session</h3>
-        <p>Short, easy daily speaking sessions with an AI trained to build up your confidence.</p>
+        <p>Short, easy daily speaking sessions designed to build up your confidence, while extending your knowledge base and perfecting your fluency.</p>
       </div>
         <h3>2. Smart Feedback</h3>
-        <p>Every conversation is analyzed automatically by language analyst.</p>
+        <p>Every conversation is analyzed automatically by three language specialists.</p>
       </div>
       <div class="step">
         <h3>3. Targeted Practice</h3>
-        <p>Personalized exercises are generated just for you by our language practice designer and our pronunciation coach.</p>
+        <p>Personalized exercises are generated just for you by our language practice designer, based on the feedback from the specialists.</p>
       </div>
       <div class="step">
         <h3>4. Human Coaching</h3>
@@ -52,7 +52,7 @@ title: Hybrid English 5.0
       </div>
       <div class="agent">
         <h3>Language Practice Designer AI</h3>
-        <p>Next, a third laser-focused target language practice designer AI will create daily drills tailored to your unique learning bottlenecks — from pronunciation to complex sentence structures.</p>
+        <p>Next, a fifth AI, that specializes in synthesizing the feed back from the first four AI agents into practical drills tailored to your unique learning bottlenecks — from pronunciation to complex sentence structures.</p>
       </div>
       <div class="agent">
         <h3>Pronunciation Coach AI</h3>
