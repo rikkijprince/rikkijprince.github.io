@@ -6,51 +6,6 @@ keywords: "Rikki J Prince, Sarah Mackay, science fiction, Beijing, Vaticán, qua
 permalink: /novels/
 books:
   - num: 1
-    title: "Sarah Mackay in Beijing"
-    cover: "/assets/images/novels/Sarah Mackay in Beijing.webp"
-    description: "Physicist Sarah Mackay uncovers a geopolitical conspiracy in Beijing where cutting-edge AI research collides with espionage and betrayal."
-    isbn: "9798285016441"
-    asin: "B0DTKMB7QQ"
-    publication_date: "2025-02-28"
-    url: "https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DTKMB7QQ/"
-
-  - num: 2
-    title: "Sarah Mackay and the Vatican–Moony Conspiracies"
-    cover: "/assets/images/novels/Sarah Mackay and the Vatican-Moony Conspiracies.webp"
-    description: "Sarah investigates a strange alliance between the Vatican and a global cult, exposing a web of secrets that reaches into science and faith."
-    isbn: "9798227488794"
-    asin: "B0DLJG1K2J"
-    publication_date: "2025-02-15"
-    url: "https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DLJG1K2J/"
-
-  - num: 3
-    title: "Sarah Mackay and the Race for Quantum Supremacy"
-    cover: "/assets/images/novels/Sarah Mackay and the Race for Quantum Supremacy.webp"
-    description: "Caught in a global struggle over the world’s most powerful quantum computer, Sarah must outthink both rivals and her past."
-    isbn: "9798864604456"
-    asin: "B0DYYZHSV3"
-    publication_date: "2025-05-01"
-    url: "https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0DYYZHSV3/"
-
-  - num: 4
-    title: "Sarah Mackay in Gaza and Sudan"
-    cover: "/assets/images/novels/Sarah Mackay in Gaza and Sudan.webp"
-    description: "Sent into Gaza’s inferno to rescue key figures, Sarah faces devastation and betrayal, only to confront new dangers in war-torn Sudan."
-    isbn: "9798227488824"
-    asin: "B0F16CJ7FS"
-    publication_date: "2025-06-01"
-    url: "https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0F16CJ7FS/"
-
-  - num: 5
-    title: "Sarah Mackay in the Frozen Lands"
-    cover: "/assets/images/novels/Sarah Mackay in the Frozen Lands.webp"
-    description: "Recovering from trauma, Sarah ventures into the Arctic’s deadly isolation, where discovery and danger merge beneath the endless ice."
-    isbn: "9798227488848"
-    asin: "B0F26G8CKM"
-    publication_date: "2025-06-19"
-    url: "https://www.amazon.com/-/es/Sarah-Mackay-Frozen-Lands-Prince/dp/B0F26G8CKM/"
-
-  - num: 6
     title: "Sarah Mackay’s Student Days Vol. 1"
     cover: "/assets/images/novels/Student Days Vol 1.webp"
     description: "Sarah’s early years — curiosity, risk, and the first sparks of her quest to understand the boundaries of knowledge."
@@ -59,7 +14,7 @@ books:
     publication_date: "2025-04-25"
     url: "https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-1/dp/B0F4NZ8R86/"
 
-  - num: 7
+  - num: 2
     title: "Sarah Mackay’s Student Days Vol. 2"
     cover: "/assets/images/novels/Student Days Vol 2.webp"
     description: "University challenges deepen — intellectual awakening, betrayal, and experiments that foreshadow her destiny."
@@ -67,6 +22,51 @@ books:
     asin: "B0F4R4FZHR"
     publication_date: "2025-05-09"
     url: "https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-2/dp/B0F4R4FZHR/"
+
+  - num: 3
+    title: "Sarah Mackay in Beijing"
+    cover: "/assets/images/novels/Sarah Mackay in Beijing.webp"
+    description: "Physicist Sarah Mackay uncovers a geopolitical conspiracy in Beijing where cutting-edge AI research collides with espionage and betrayal."
+    isbn: "9798285016441"
+    asin: "B0DTKMB7QQ"
+    publication_date: "2025-02-28"
+    url: "https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DTKMB7QQ/"
+
+  - num: 4
+    title: "Sarah Mackay and the Vatican–Moony Conspiracies"
+    cover: "/assets/images/novels/Sarah Mackay and the Vatican-Moony Conspiracies.webp"
+    description: "Sarah investigates a strange alliance between the Vatican and a global cult, exposing a web of secrets that reaches into science and faith."
+    isbn: "9798227488794"
+    asin: "B0DLJG1K2J"
+    publication_date: "2025-02-15"
+    url: "https://www.amazon.com/-/es/Rikki-J-Prince-ebook/dp/B0DLJG1K2J/"
+
+  - num: 5
+    title: "Sarah Mackay and the Race for Quantum Supremacy"
+    cover: "/assets/images/novels/Sarah Mackay and the Race for Quantum Supremacy.webp"
+    description: "Caught in a global struggle over the world’s most powerful quantum computer, Sarah must outthink both rivals and her past."
+    isbn: "9798864604456"
+    asin: "B0DYYZHSV3"
+    publication_date: "2025-05-01"
+    url: "https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0DYYZHSV3/"
+
+  - num: 6
+    title: "Sarah Mackay in Gaza and Sudan"
+    cover: "/assets/images/novels/Sarah Mackay in Gaza and Sudan.webp"
+    description: "Sent into Gaza’s inferno to rescue key figures, Sarah faces devastation and betrayal, only to confront new dangers in war-torn Sudan."
+    isbn: "9798227488824"
+    asin: "B0F16CJ7FS"
+    publication_date: "2025-06-01"
+    url: "https://www.amazon.com/-/es/Rikki-Prince-ebook/dp/B0F16CJ7FS/"
+
+  - num: 7
+    title: "Sarah Mackay in the Frozen Lands"
+    cover: "/assets/images/novels/Sarah Mackay in the Frozen Lands.webp"
+    description: "Recovering from trauma, Sarah ventures into the Arctic’s deadly isolation, where discovery and danger merge beneath the endless ice."
+    isbn: "9798227488848"
+    asin: "B0F26G8CKM"
+    publication_date: "2025-06-19"
+    url: "https://www.amazon.com/-/es/Sarah-Mackay-Frozen-Lands-Prince/dp/B0F26G8CKM/"
 
 ---
 
@@ -303,9 +303,23 @@ books:
 <a href="https://www.amazon.com/dp/0765382032/?rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
-### The Sarah Mackay saga and other novels by Rikki J Prince
+<div class="book-card">
+  <h3>Sarah Mackay’s Student Days Vol. 1</h3>
+  <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-1/dp/B0F4NZ8R86/?tag=grhamazon02" target="_blank" rel="nofollow sponsored noopener noreferrer">
+    <img src="/assets/images/novels/Student Days Vol 1.webp" alt="Sarah Mackay’s Student Days Vol. 1" loading="lazy">
+  </a>
+  <p>Sarah’s early years: curiosity, risk, and the first sparks of her quest to understand the boundaries of knowledge.</p>
+  <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-1/dp/B0F4NZ8R86/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+</div>
 
-<div class="books-grid">
+<div class="book-card">
+  <h3>Sarah Mackay’s Student Days Vol. 2</h3>
+  <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-2/dp/B0F4R4FZHR/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
+    <img src="/assets/images/novels/Student Days Vol 2.webp" alt="Sarah Mackay’Student Days Vol. 2" loading="lazy">
+  </a>
+  <p>Her university journey deepens — intellectual awakening, betrayal, and the early experiments that foreshadow her destiny.</p>
+  <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-2/dp/B0F4R4FZHR/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
+</div>
 
 <div class="book-card">
   <h3>1 Sarah Mackay in Beijing</h3>
@@ -351,24 +365,6 @@ books:
   </a>
   <p>Recovering from trauma, Sarah ventures into the Arctic’s deadly isolation, where discovery and danger merge beneath the endless ice.</p>
   <a href="https://www.amazon.com/-/es/Sarah-Mackay-Frozen-Lands-Prince/dp/B0F26G8CKM/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
-</div>
-
-<div class="book-card">
-  <h3>Sarah Mackay’s Student Days Vol. 1</h3>
-  <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-1/dp/B0F4NZ8R86/?tag=grhamazon02" target="_blank" rel="nofollow sponsored noopener noreferrer">
-    <img src="/assets/images/novels/Student Days Vol 1.webp" alt="Sarah Mackay’s Student Days Vol. 1" loading="lazy">
-  </a>
-  <p>Sarah’s early years: curiosity, risk, and the first sparks of her quest to understand the boundaries of knowledge.</p>
-  <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-1/dp/B0F4NZ8R86/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
-</div>
-
-<div class="book-card">
-  <h3>Sarah Mackay’s Student Days Vol. 2</h3>
-  <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-2/dp/B0F4R4FZHR/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">
-    <img src="/assets/images/novels/Student Days Vol 2.webp" alt="Sarah Mackay’Student Days Vol. 2" loading="lazy">
-  </a>
-  <p>Her university journey deepens — intellectual awakening, betrayal, and the early experiments that foreshadow her destiny.</p>
-  <a href="https://www.amazon.com/-/es/Sarah-Mackays-Student-Days-2/dp/B0F4R4FZHR/?tag=grhamazon02-21" class="buy-button orange" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
 </div> <!-- End Sarah Mackay section -->
