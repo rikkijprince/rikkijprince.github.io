@@ -44,27 +44,27 @@ title: Hybrid English 5.0
     <div class="agents">
       <div class="agent">
         <h3>Conversation Partner AI</h3>
-        <p>You will have 10-15 minutes practice speaking daily , at the time of your choice, with an adaptive AI that keeps the conversation flowing, models natural English, and builds confidence without overcorrecting.</p>
+        <p>You will have 10-15 minutes practice speaking daily , at the time of your choice, with an adaptive AI agent that keeps the conversation flowing, models natural English, and builds confidence without overcorrecting.</p>
       </div>
       <div class="agent">
         <h3>Language Analyst AI</h3>
-        <p>A specialist AI will automatically detects recurring mistakes, hesitation patterns, and vocabulary gaps. It will generate insights that inform your personalized practice plan.</p>
-      </div>
-      <div class="agent">
-        <h3>Language Practice Designer AI</h3>
-        <p>Next, a fifth AI, that specializes in synthesizing the feed back from the first four AI agents into practical drills tailored to your unique learning bottlenecks — from pronunciation to complex sentence structures.</p>
+        <p>A second AI agent will automatically detects recurring mistakes, hesitation patterns, and vocabulary gaps. It will generate insights that inform your personalized practice plan.</p>
       </div>
       <div class="agent">
         <h3>Pronunciation Coach AI</h3>
-        <p>A fourth specialist AI will analyze your speech for phonemes, stress, intonation, and rhythm, giving targeted correction to make you sound more like a native speaker.</p>
+        <p>A third specialist AI will analyze your speech for phonemes, stress, intonation, and rhythm, giving targeted correction to make you sound more like a native speaker.</p>
       </div>
       <div class="agent">
         <h3>Motivation & Habit AI</h3>
-        <p>A fifth specialist AI will monitor your engagement, detects signs of frustration, and send prompts and reminders to keep your learning consistent and rewarding.</p>
+        <p>A fourth agent will monitor your engagement, detects signs of frustration, and send prompts and reminders to keep your learning consistent and rewarding.</p>
+      </div>
+      <div class="agent">
+        <h3>Language Practice Designer AI</h3>
+        <p>At the end of the automated chain, a fifth AI, will synthesize the feedback from the first four AI agents into practical drills tailored to your unique learning bottlenecks — from pronunciation to complex sentence structures.</p>
       </div>
       <div class="agent">
         <h3>Human Interaction</h3>
-        <p>Finally, you will have a feedback session, once a week, with your private (human) tutor, who will guide you and give you feedback on all the data the AIs are producing - because the human touch is fundamental and always will be.</p>
+        <p>Finally, you will have a human feedback session, once a week, with your private consultant, who will guide you and give you feedback on all the data the AIs are producing - because the human touch is fundamental and always will be.</p>
       </div>
     </div>
   </div>
