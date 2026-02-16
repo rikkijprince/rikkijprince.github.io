@@ -374,9 +374,3 @@ books:
 <ul>
   <li><em>Sarah Mackay in San Francisco</em></li>
   <img src="/assets/images/novels/SM in SF.webp" alt="Sarah Mackay in San Francisco" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">
-  <li><em>Sarah Mackay and the Viral Singularity</em></li>
-  <img src="/assets/images/novels/Viral Singularity.webp" alt="Sarah Mackay and the Viral Singularity" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">
-  <li><em>The Secrets We Keep</em></li>
-  <img src="/assets/images/novels/The Secrets We Keep.webp" alt="The Secrets We Keep" style="max-width:30%; height: auto; border-radius: 8px;" loading="lazy">  
-  <li><em>The Choir of Dust</em></li> 
-</ul>
