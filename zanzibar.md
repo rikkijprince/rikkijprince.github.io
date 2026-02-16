@@ -2,7 +2,7 @@
 layout: default
 title: "Anwar Zanzibar"
 decription: "Works written in collaboration between Rikki J Prince and Anwar Zanzibar."
-keywords: "Rikki J Prince, Anwar Zanzibar, romantasy, magic, magick, chaos magic, witchcraft, occult, sex, pleasure, sex manual,"
+keywords: "Rikki J Prince, Anwar Zanzibar, romantasy, magic, magick, chaos magic, witchcraft, occult, sexual positions, sex manual,"
 permalink: /zanzibar/
 ---
 
@@ -31,8 +31,7 @@ permalink: /zanzibar/
   "jobTitle": "Author",
   "url": "https://www.rikkijprince.com",
   "sameAs": [
-    "https://www.amazon.com/author/rikkijprince",
-    "https://twitter.com/YOURPROFILE"
+    "https://www.amazon.com/author/rikkijprince"
   ]
 }
 </script>
@@ -52,8 +51,12 @@ permalink: /zanzibar/
 
 ## Works in Collaboration with Anwar Zanzibar
 
-### 🜂 *The Moonfire Pact*
-<img src="/assets/images/zanzibar/The Moonfire Pact.webp" alt="The Moonfire Pact" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy">
+<div class="books-grid">
+  <div class="book-card">
+    <img src="/assets/images/zanzibar/The Moonfire Pact.webp" alt="The Moonfire Pact" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy">
+    <h3>🜂 *The Moonfire Pact*</h3>
+  </div>
+</div>
 **Genre:** Fantasy Romance  
 **Authors:** Rikki J. Prince & Anwar Zanzibar  
 **Series:** *Zanzibar Romantasy #1*  
