@@ -303,14 +303,6 @@ books:
 <a href="https://www.amazon.com/dp/0765382032/?rjpamazon-21" class="buy-button blue" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
 </div>
 
-<div class="book-card">
-  <h3>Surfing the Edge of Reality</h3> 
-    <img src="/assets/images/novels/Surfing.webp" alt="Surfing the Edge of Reality" loading="lazy">
-  <p>Only <b>10</b> copies of this book left. The only sci-fi work that claims realistic timescales for the development of relatvistic space travel and that all its distances and times for its voyages across the galaxies are accurately calculated.  A collectors item, only available by requesting a copy directly from the author, me@rikkijprince.com.</p>
-</div>
-
-</div>
-
 ### The Sarah Mackay saga and other novels by Rikki J Prince
 
 <div class="books-grid">
