@@ -71,3 +71,31 @@ img {
     width: 90%;
   }
 }
+
+.books-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.book-card {
+  width: 240px;
+  text-align: center;
+}
+
+.book-card img {
+  width: 180px;
+  height: 270px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+@media (max-width: 900px) {
+  .book-card { width: 45%; }
+}
+
+@media (max-width: 600px) {
+  .book-card { width: 90%; }
+}
