@@ -30,7 +30,7 @@ title: Hybrid English 5.0
       </div>
       <div class="step">
         <h3>4. Human Coaching</h3>
-        <p>Weekly sessions with an expert consultant, a native speaker, who will give you detailed feedback on your progress and keep you motivated to come back for more.</p>
+        <p>Weekly sessions with your mentor, who will give you detailed feedback on your progress and keep you motivated to come back for more.</p>
       </div>
     </div>
   </div>
@@ -44,7 +44,7 @@ title: Hybrid English 5.0
     <div class="agents">
       <div class="agent">
         <h3>Conversation Partner AI</h3>
-        <p>You will have 10-15 minutes practice speaking daily , at the time of your choice, with an adaptive AI agent that keeps the conversation flowing, models natural English, and builds confidence without overcorrecting.</p>
+        <p>You will have 25 minutes' practice speaking daily, at the time of your choice, with an adaptive AI agent that keeps the conversation flowing, models natural English, and builds confidence without overcorrecting.</p>
       </div>
       <div class="agent">
         <h3>Language Analyst AI</h3>
@@ -60,11 +60,11 @@ title: Hybrid English 5.0
       </div>
       <div class="agent">
         <h3>Language Practice Designer AI</h3>
-        <p>At the end of the automated chain, a fifth AI, will synthesize the feedback from the first four AI agents into practical drills tailored to your unique learning bottlenecks — from pronunciation to complex sentence structures.</p>
+        <p>A fifth AI, will then synthesize the feedback from the first four AI agents into practical drills tailored to your unique learning bottlenecks — from pronunciation to complex sentence structures — and feed them back to your Conversation Partner.</p>
       </div>
       <div class="agent">
         <h3>Human Interaction</h3>
-        <p>Finally, you will have a human feedback session, once a week, with your private consultant, who will guide you and give you feedback on all the data the AIs are producing - because the human touch is fundamental and always will be.</p>
+        <p>Finally, you will have a human feedback session, once a week, with your mentor, a native English-speaking consultant, who will guide you and give you feedback on all the data the AIs are producing - because the human touch is fundamental and always will be.</p>
       </div>
     </div>
   </div>
