@@ -87,17 +87,17 @@ title: Hybrid English 5.0
     <h2>Trusted by Professionals Worldwide</h2>
     <p>"I’ve tried dozens of English courses. This is the first program that made me confident speaking at work." — Marketing Director, Seoul, South Korea</p>
     <p>"The AI practice plus coaching gave me fluency in months that I didn’t get in years of traditional classes." — Product Manager, Munich, Germany</p>
-    <p>"The beta version Improved my fluency and confidence much faster than any other system I have tried." — Head of IT department, Valencia, Spain</p>
+    <p>"The beta version improved my fluency and confidence much faster than any other system I have tried." — Head of IT department, Valencia, Spain</p>
   </div>
 </section>
 
-<section id="signup" class="signup">
-  <div class="container">
-    <h2>Start Your English Fluency Journey Today</h2>
-    <p>Sign up and experience a free 7-day trial. No textbooks, no generic classes. Just results.</p>
-    <a href="https://example.com/signup" class="cta-button">Start Free Trial</a>
-  </div>
-</section>
+#<section id="signup" class="signup">
+#  <div class="container">
+#    <h2>Start Your English Fluency Journey Today</h2>
+#    <p>Sign up and experience a free 7-day trial. No textbooks, no generic classes. Just results.</p>
+#    <a href="https://example.com/signup" class="cta-button">Start Free Trial</a>
+#  </div>
+#</section>
 
 <footer>
   <div class="container">
