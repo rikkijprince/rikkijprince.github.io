@@ -13,7 +13,7 @@ landing: true
     <p class="lead">Rikki J Prince (RJ) specializes in helping technology-oriented professionals communicate fluently in English.</p>
     <p class="lead">Innstead of gramar-heavy lessons, RJ trains professionals using <b>real workplace communication</b>: emails, reports, meeetings, presentations, and technical explanations.</p>
     <p class="lead">The goal is simple: <b>Get your message across to an international audience. Effectively.</b></p>
-      
+    <p class="lead">  </p>
     <a href="#program" class="cta-button">Explore the Program</a>
   </div>
   <div class="hero-image">
