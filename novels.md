@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Novels"
 description: "The Sarah Mackay saga by Rikki J Prince and other sci-fi novels"
 keywords: "Rikki J Prince, Sarah Mackay, science fiction, Beijing, Vaticán, quantum supremacy, Gaza, Sudan, Arctic, student days"
 permalink: /novels/
