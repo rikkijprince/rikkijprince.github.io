@@ -99,3 +99,10 @@ img {
 @media (max-width: 600px) {
   .book-card { width: 90%; }
 }
+/* Full-width landing pages */
+.landing-content {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
