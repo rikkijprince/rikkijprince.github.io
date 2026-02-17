@@ -80,7 +80,7 @@ permalink: /experimental/
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/experimental/Un café llamado Zuflucht.webp" alt="Un café llamado Zuflucht">
+  <img src="/assets/images/experimental/Un café llamado Zuflucht.webp" alt="Una cafetería llamada Zuflucht">
   <h3>Un café llamado Zuflucht</h3>
 </div>
 
@@ -91,18 +91,24 @@ permalink: /experimental/
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/experimental/Un café chamado Zuflucht.webp" alt="Un café chamado Zuflucht">
-  <h3>Un café chamado Zuflucht</h3>
+  <img src="/assets/images/experimental/Un café nommé Zuflucht.webp" alt="Un café nommé Zuflucht>
+  <h3>Un café nommé Zuflucht</h3>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/experimental/Een Café genaamed Zuflucht.webp" alt="Een Café genaamed Zuflucht">
-  <h3>Een Café genaamed Zuflucht</h3>
+  <img src="/assets/images/experimental/Un parfum interdit.webp" alt="Un parfum interdit">
+  <h3>Un parfum interdit</h3>
 </div>
 
 <!-- ROW 4 -->
+
 <div class="book-card">
-  <img src="/assets/images/experimental/Un parfum interdit.webp" alt="Un parfum interdit">
+  <img src="/assets/images/experimental/Un profumo del proibito.webp" alt="Un profumo del proibito">
+  <h3>Un parfum interdit</h3>
+</div>
+
+<div class="book-card">
+  <img src="/assets/images/experimental/The Room Between Heartbeats.webp" alt="The Room Between Heartbeats">
   <h3>Un parfum interdit</h3>
 </div>
 
@@ -111,12 +117,13 @@ permalink: /experimental/
   <h3>Entre Ombre et Flammes</h3>
 </div>
 
+<!-- ROW 5 -->
+
 <div class="book-card">
   <img src="/assets/images/experimental/The Moonfire Pact.webp" alt="The Moonfire Pact">
   <h3>The Moonfire Pact</h3>
 </div>
 
-<!-- ROW 5 -->
 <div class="book-card">
   <img src="/assets/images/experimental/L'espace entre deux battements de coeur.webp" alt="L'espace entre deux battements de coeur">
   <h3>L'espace entre deux battements de coeur</h3>
@@ -127,18 +134,46 @@ permalink: /experimental/
   <h3>A Complete Witchcraft Training Manual</h3>
 </div>
 
+<!-- ROW 6 -->
+
 <div class="book-card">
   <img src="/assets/images/experimental/How to Live With Risk.webp" alt="How to Live With Risk">
   <h3>How to Live With Risk</h3>
 </div>
 
+<div class="book-card">
+  <img src="/assets/images/experimental/Entre ombre et flammes.webp" alt="Entre ombre et flammes">
+  <h3>Entre ombre et flammes</h3>
 </div>
 
----
+<div class="book-card">
+  <img src="/assets/images/experimental/Un perfum de l'interdit.webp" alt="Un perfum de l'interdit">
+  <h3>Un perfum de l'interdit</h3>
+</div>
 
-## Philosophical Works
+<!-- ROW 7 -->
 
-<div class="books-grid">
+<div class="book-card">
+  <img src="/assets/images/experimental/Un profume del proibito.webp" alt="Un profume del proibito">
+  <h3>Un profume del proibito</h3>
+</div>
+
+<div class="book-card">
+  <img src="/assets/images/experimental/Un perfume de lo prohibido.webp" alt="Un perfume de lo prohibido">
+  <h3>Un perfume de lo prohibido</h3>
+</div>
+
+<div class="book-card">
+  <img src="/assets/images/experimental/A Complete Witchcraft Training Manual.webp" alt="A Complete Witchcraft Training Manual">
+  <h3>TA Complete Witchcraft Training Manual</h3>
+</div>
+
+<!-- ROW 8 -->
+
+<div class="book-card">
+  <img src="/assets/images/experimental/Chaos Magic.webp" alt="TChaos Magic">
+  <h3>Chaos Magic</h3>
+</div>
 
 <div class="book-card">
   <img src="/assets/images/experimental/The Never-Ending Question.webp" alt="The Never-Ending Question">
@@ -150,19 +185,16 @@ permalink: /experimental/
   <h3>What is Existence?</h3>
 </div>
 
-<div class="book-card">
-  <img src="/assets/images/experimental/Eudaimonic Flow.webp" alt="Eudaimonic Flow">
-  <h3>Eudaimonic Flow</h3>
-</div>
-
-<div class="book-card">
-  <img src="/assets/images/experimental/The Symphony of Existence.webp" alt="The Symphony of Existence">
-  <h3>The Symphony of Existence</h3>
-</div>
+<!-- ROW 9 -->
 
 <div class="book-card">
   <img src="/assets/images/experimental/Threshold Ethics.webp" alt="Threshold Ethics">
   <h3>Threshold Ethics</h3>
+</div>
+
+<div class="book-card">
+  <img src="/assets/images/experimental/Constraintism.webp" alt="Constraintism">
+  <h3>Constraintism</h3>
 </div>
 
 <div class="book-card">
