@@ -1,15 +1,7 @@
 ---
-
-layout: page
-title: RJ Academy
-permalink: /rj-academy/
-nav_order: 2
-------------
-
----
 layout: default
 title: RJ Academy of English for the Technology Sector
-permalink: /
+permalink: rj-academy
 ---
 
 <!-- HERO SECTION -->
