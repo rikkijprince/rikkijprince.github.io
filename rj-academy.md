@@ -11,8 +11,8 @@ landing: true
     <h1>RJ Academy of English for the Technology Sector</h1>
     <p class="subtitle">Professional communication training for scientists, engineers, and technical professionals</p>
     <p class="lead">Rikki J Prince (RJ) specializes in helping scientists, engineers and technicians communicate professionally in English.</p>
-    <p class="lead">Innstead of gramar-heavy lessons, RJ trains professionals using real workplace communication: emails, reports, meeetings, presentations, and technical explanations.</p>
-    <p class="lead">The goal is simple: get your message across to an international audience. Effectively.</p>
+    <p class="lead">Innstead of gramar-heavy lessons, RJ trains professionals using <b>real workplace communication</b>: emails, reports, meeetings, presentations, and technical explanations.</p>
+    <p class="lead">The goal is simple: <b>Get your message across to an international audience. Effectively.<</b>/p>
     <a href="#program" class="cta-button">Explore the Program</a>
   </div>
   <div class="hero-image">
