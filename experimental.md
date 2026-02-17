@@ -91,7 +91,7 @@ permalink: /experimental/
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/experimental/Un café nommé Zuflucht.webp" alt="Un café nommé Zuflucht>
+  <img src="/assets/images/experimental/Un café nommé Zuflucht.webp" alt="Un café nommé Zuflucht">
   <h3>Un café nommé Zuflucht</h3>
 </div>
 
