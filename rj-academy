@@ -13,7 +13,7 @@ landing: true
     <a href="#program" class="cta-button">Explore the Program</a>
   </div>
   <div class="hero-image">
-    <img src="/assets/images/rj-academy-tutor.webp" alt="Technology professionals collaborating (placeholder)" />
+    <img src="/assets/images/rj-academy/rj-academy-tutor.webp" alt="Technology professionals collaborating (placeholder)" />
   </div>
 </section>
 
@@ -44,7 +44,7 @@ landing: true
 <!-- ABOUT RJ -->
 <section class="about">
   <div class="about-image">
-    <img src="/assets/images/Scientist+Engineers.webp" alt="Scientists and Engineers" />
+    <img src="/assets/images/rj-academy/Scientist+Engineers.webp" alt="Scientists and Engineers" />
   </div>
   <div class="about-text">
     <h2>Meet RJ</h2>
