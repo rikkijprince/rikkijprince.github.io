@@ -1,0 +1,119 @@
+---
+layout: default
+title: RJ Academy of English for the Technology Sector
+permalink: /
+---
+
+<!-- HERO SECTION -->
+<section class="hero">
+  <div class="hero-content">
+    <h1>RJ Academy of English for the Technology Sector</h1>
+    <p class="subtitle">Professional communication training for scientists, engineers, and technical professionals</p>
+    <a href="#program" class="cta-button">Explore the Program</a>
+  </div>
+  <div class="hero-image">
+    <img src="/assets/images/hero-placeholder.jpg" alt="Technology professionals collaborating (placeholder)" />
+  </div>
+</section>
+
+<!-- VALUE PROPOSITION -->
+<section class="value">
+  <h2>This is not an English course.</h2>
+  <p class="lead">It is a professional communication system designed to help technical professionals be understood, trusted, and promoted.</p>
+  <div class="value-grid">
+    <div class="card">
+      <h3>Clarity</h3>
+      <p>Explain complex ideas simply and precisely.</p>
+    </div>
+    <div class="card">
+      <h3>Credibility</h3>
+      <p>Sound competent in meetings, reports, and presentations.</p>
+    </div>
+    <div class="card">
+      <h3>Confidence</h3>
+      <p>Speak in international environments without hesitation.</p>
+    </div>
+    <div class="card">
+      <h3>Career Growth</h3>
+      <p>Improve promotion and leadership opportunities.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT RJ -->
+<section class="about">
+  <div class="about-image">
+    <img src="/assets/images/rj-placeholder.jpg" alt="RJ portrait placeholder" />
+  </div>
+  <div class="about-text">
+    <h2>Meet RJ</h2>
+    <p><strong>Rikki J Prince (RJ)</strong> specializes in helping scientists, engineers and technicians communicate professionally in English.</p>
+    <p>Instead of grammar-heavy lessons, RJ trains professionals using real workplace communication: emails, reports, meetings, presentations, and technical explanations.</p>
+    <p>The goal is simple: not better English — better professional performance.</p>
+  </div>
+</section>
+
+<!-- PROGRAM -->
+<section id="program" class="program">
+  <h2>The Program</h2>
+  <div class="program-grid">
+    <div class="program-card">
+      <h3>Core Skills</h3>
+      <p>Precision writing, meetings, presentations, and technical explanations.</p>
+    </div>
+    <div class="program-card">
+      <h3>Real-World Simulations</h3>
+      <p>Practice real professional scenarios: incident reports, Q&A sessions, and stakeholder communication.</p>
+    </div>
+    <div class="program-card">
+      <h3>Templates & Tools</h3>
+      <p>Ready-to-use email, report, and presentation frameworks.</p>
+    </div>
+    <div class="program-card">
+      <h3>Professional Community</h3>
+      <p>Continuous improvement inside a guided professional environment.</p>
+    </div>
+  </div>
+</section>
+
+<!-- WHO IT IS FOR -->
+<section class="audience">
+  <h2>Who This Is For</h2>
+  <ul>
+    <li>Engineers working in international teams</li>
+    <li>Researchers and PhD students publishing in English</li>
+    <li>Technicians reporting incidents and procedures</li>
+    <li>Technical leads and project managers running meetings</li>
+  </ul>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+  <h2>Start Communicating Like a Professional</h2>
+  <p>Join the RJ Academy community and begin improving immediately.</p>
+  <a href="#" class="cta-button">Join the Community</a>
+</section>
+
+<!-- PLACEHOLDER FOR FUTURE TESTIMONIALS -->
+<section class="testimonials">
+  <h2>Results</h2>
+  <p>(Testimonials and before/after examples will appear here)</p>
+  <img src="/assets/images/testimonial-placeholder.jpg" alt="Testimonial placeholder" />
+</section>
+
+<style>
+.hero{display:flex;flex-wrap:wrap;align-items:center;gap:2rem;padding:3rem 1rem}
+.hero-content{flex:1;min-width:280px}
+.hero-image{flex:1;min-width:280px}
+.hero img{width:100%;border-radius:12px}
+.subtitle{font-size:1.2rem;margin:1rem 0}
+.cta-button{background:#2563eb;color:white;padding:.8rem 1.4rem;border-radius:8px;text-decoration:none;font-weight:600}
+.value,.about,.program,.audience,.cta,.testimonials{padding:3rem 1rem;max-width:1000px;margin:auto}
+.value-grid,.program-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.5rem;margin-top:1.5rem}
+.card,.program-card{background:#f4f6f8;padding:1.5rem;border-radius:12px}
+.about{display:flex;flex-wrap:wrap;gap:2rem;align-items:center}
+.about img{width:100%;max-width:350px;border-radius:12px}
+.audience ul{line-height:1.8}
+.cta{text-align:center}
+.testimonials img{width:100%;max-width:600px;margin-top:1rem;border-radius:12px}
+</style>
