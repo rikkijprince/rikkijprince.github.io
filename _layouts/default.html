@@ -35,14 +35,18 @@
 
     {% include navbar.html %}
 
+    {% if page.landing %}
+    <main class="landing-content">
+      {{ content }}
+    </main>
+    {% else %}
     <main class="page-content">
       <div class="page__inner-wrap">
         {{ content }}
       </div>
     </main>
-
+    {% endif %}
   </div>
-
   <!-- JavaScript -->
   <script src="{{ '/js/main.js' | relative_url }}"></script>
 
