@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Experimental Works"
-decription: "A mixture of sci fi, philosophy and out-of-the-box observations"
-keywords: "Rikki J Prince, Philosophical essays and xperimental writing, time distortion, time running backwords"
+title: "Experimental Works: A mixture of sci fi, philosophy and out-of-the-box observations"
+keywords: " experimental writing, time distortion, time travel, time running backwords, reverse time, philosophical essays"
 permalink: /experimental/
 ---
 
@@ -32,7 +31,7 @@ permalink: /experimental/
   "url": "https://www.rikkijprince.com",
   "sameAs": [
     "https://www.amazon.com/author/rikkijprince",
-    "https://twitter.com/YOURPROFILE"
+    "https:www.linkedin.com/in/rikki-jaffar-prince-53a5a729"
   ]
 }
 </script>
@@ -47,10 +46,9 @@ permalink: /experimental/
   gtag('config', 'G-Q8PEN408E6');
 </script>
 
+## Experimental Fiction
 
 >*As an Amazon Associate I earn from qualifying purchases.*
-
-## Experimental Fiction
 
 <div class="books-grid">
 
