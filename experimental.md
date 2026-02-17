@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Experimental Works: A mixture of sci fi, philosophy and out-of-the-box observations"
+description: "Experimental Works: A mixture of sci fi, philosophy and out-of-the-box observations"
 keywords: " experimental writing, time distortion, time travel, time running backwords, reverse time, philosophical essays"
 permalink: /experimental/
 books:
@@ -180,7 +180,6 @@ books:
     isbn: "XXX"
     publication_date: "XXX"
     url: "https://draft2digital.com/book/XXX"
-
 ---
 
 <!-- Google Search Console verification -->
