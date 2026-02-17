@@ -12,7 +12,7 @@ books:
     isbn: "XXX"
     publication_date: "XXX"
     url: "https://draft2digital.com/book/XXX"
-	
+
   - num: 2
     title: "Misterio al revés"
     cover: "/assets/images/experimental
