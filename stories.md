@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Start Here"
+title: "Nine Days Series of Short Stories"
 description: "15 nine-day episodes from 'The Student Days of Sarah Mackay'."
-keywords: "Rikki J Prince, nine days, 9 days, Sarah Mackay, short stories, particle physics, quantum gravity, chaos theory, quantum mechanics, relativity, geometry, information, time travel"
+keywords: "Rikki J Prince, nine days, 9 days, Sarah Mackay, short stories, particle physics, quantum gravity, chaos theory, quantum mechanics, relativity, geometry of space, informational universe, time travel"
 permalink: /stories/
 books:
   - num: 1
@@ -152,7 +152,7 @@ books:
   "url": "https://www.rikkijprince.com",
   "sameAs": [
     "https://www.amazon.com/author/rikkijprince",
-    "https://twitter.com/YOURPROFILE"
+    "https://www.linkedin.com/in/rikki-j-prince-09b8b314"
   ]
 }
 </script>
