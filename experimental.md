@@ -80,8 +80,8 @@ permalink: /experimental/
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/experimental/Un café llamado Zuflucht.webp" alt="Una cafetería llamada Zuflucht">
-  <h3>Un café llamado Zuflucht</h3>
+  <img src="/assets/images/experimental/Una cafetería llamada Zuflucht.webp" alt="Una cafetería llamada Zuflucht">
+  <h3>Una cafetería llamada Zuflucht</h3>
 </div>
 
 <!-- ROW 3 -->
@@ -109,7 +109,7 @@ permalink: /experimental/
 
 <div class="book-card">
   <img src="/assets/images/experimental/The Room Between Heartbeats.webp" alt="The Room Between Heartbeats">
-  <h3>Un parfum interdit</h3>
+  <h3>The Room Between Heartbeats</h3>
 </div>
 
 <div class="book-card">
@@ -165,7 +165,7 @@ permalink: /experimental/
 
 <div class="book-card">
   <img src="/assets/images/experimental/A Complete Witchcraft Training Manual.webp" alt="A Complete Witchcraft Training Manual">
-  <h3>TA Complete Witchcraft Training Manual</h3>
+  <h3>A Complete Witchcraft Training Manual</h3>
 </div>
 
 <!-- ROW 8 -->
