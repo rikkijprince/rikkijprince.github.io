@@ -87,7 +87,7 @@ title: Hybrid English 5.0
     <h2>Trusted by Professionals Worldwide</h2>
     <p>"I’ve tried dozens of English courses. This is the first program that made me confident speaking at work." — Marketing Director, Seoul, South Korea</p>
     <p>"The AI practice plus coaching gave me fluency in months that I didn’t get in years of traditional classes." — Product Manager, Munich, Germany</p>
-    <p>"Improved my fluency and confidence much faster than I expected." — Engineer, Valencia<, Spain/p>
+    <p>"The beta version Improved my fluency and confidence much faster than any other system I have tried." — Engineer, Valencia, Spain</p>
   </div>
 </section>
 
