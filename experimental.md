@@ -1,7 +1,7 @@
 ---
 layout: default
 description: "Experimental Works: A mixture of sci fi, philosophy and out-of-the-box observations"
-keywords: " experimental writing, time distortion, time travel, time running backwords, reverse time, philosophical essays"
+keywords: "experimental writing, time distortion, time travel, time running backwords, reverse time, philosophical essays"
 permalink: /experimental/
 ---
 books:
