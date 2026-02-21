@@ -52,7 +52,7 @@ permalink: /about/
 
 ## About me, Rikki J
 <br>	
-I grew up at a crossroads of cultures, languages, and unanswered questions. Born in England, to a Pakistani-American father and a British mother, hI spent part of my childhood in Pakistan, but spent most of my life between Britain, Spain and the Netherlands. 
+I grew up at a crossroads of cultures, languages, and unanswered questions. Born in England, to a Pakistani-American father and a British mother, I spent part of my childhood in Pakistan, but spent most of my life between Britain, Spain and the Netherlands. 
 <br>	
 Drawn early to science and its promise that the world could be decoded, I trained in physics and engineering. But equations alone could not satisfy my deeper curiosity. The mysteries of the cosmos at its grandest scale and the quantum nature at its smallest scale eventually were as attractive for me as the exploration of the invisible structures that shape human experience.
 <br>
@@ -60,7 +60,7 @@ Today, both my publications in the philosophy of science and my fictional works 
 <br>
 My latest venture is teaching languages through a hybrid system of AI agents, that collect data on my students' use of language, to help me guide their performance without substituting the human element.
 <br>
-I am grateful to all those who read my books. And if you use English as a second language, I would encourage you to try out mmy method: Hybrid English 5.0 at RJ Academy. Thank you.
+I am grateful to all those who read my books. And if you use English as a second language, I would encourage you to try out my method: Hybrid English 5.0 at RJ Academy. Thank you.
 <br>				
 #### Contact: [me@rikkijprince.com](mailto:me@rikkijprince.com)
 
