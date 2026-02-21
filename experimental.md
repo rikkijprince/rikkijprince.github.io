@@ -7,180 +7,140 @@ permalink: /experimental/
 books:
   - num: 1
     title: "Mystery in Reverse"
-    cover: "/assets/images/experimental
-	/Mystery-in-Reverse.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
-
+    cover: "/assets/images/experimental/Mystery-in-Reverse.webp"
+    description: "A thrilling, mind-bending puzzle: a crime scene unfolding in reverse."
+    isbn: "9798230859995"
+    publication_date: "2025-03-09"
+    url: "https://draft2digital.com/book/2781144"
+	
   - num: 2
     title: "Misterio al revés"
-    cover: "/assets/images/experimental
-	/Misterio-al-revés".webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    cover: "/assets/images/experimental/Misterio-al-revés.webp"
+    description: "Un rompecabezas emocionante y alucinante: una escena del crimen que se desarrolla a la inversa. "
+    isbn: "9798230287346"
+    publication_date: "2025-03-09"
+    url: "https://draft2digital.com/book/2781265"
 
   - num: 3
     title: "Murder Undone"
     cover: "/assets/images/experimental/Murder-Undone.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    description: "A noir thriller, blending existential mystery with a mind-bending inversion of causality."
+    isbn: "9798230205012"
+    publication_date: "2025/03/08"
+    url: "https://draft2digital.com/book/2779870"
 
   - num: 4
     title: "Un crimen por deshacer"
-    cover: "/assets/images/experimental/Un-crimen-por-deshacer".webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    cover: "/assets/images/experimental/Un-crimen-por-deshacer.webp"
+    description: "Un detective en un mundo donde el tiempo corre en reversa, investiga un asesinato que aún no ha sucedido."
+    isbn: "9798230871279"
+    publication_date: "2025-03-08"
+    url: "https://draft2digital.com/book/2779883"
 
   - num: 5
-    title: "Eternal Return"
-    cover: "/assets/images/experimental/Eternal Return.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
-
-  - num: 6
     title: "A Café Called Zuflucht"
     cover: "/assets/images/experimental/A-Café-Called-Zuflucht.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    description: "A lyrical, sensual, and devastating novel about what it means to seek forgiveness in a world that has already condemned you"
+    isbn: "9798232291099"
+    publication_date: "2025-11-08"
+    url: "https://draft2digital.com/book/3515836"
 
-  - num: 7
+  - num: 6
     title: "Ein Café Namens Zuflucht"
     cover: "/assets/images/experimental/Ein-Café-Namens-Zuflucht.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
-  - num: 8
+    description: "Ein literarischer Roman über Liebe und Besessenheit, Vergebung und Exil."
+    isbn: "9798232195212"
+    publication_date: "2025-11-07"
+    url: "https://draft2digital.com/book/3476461"
+	
+  - num: 7
     title: "Una cafetería llamada Zuflucht"
     cover: "/assets/images/experimental/Una-cafetería-llamada-Zuflucht.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    description: "Una historia sobre los límites entre el amor y la obsesión, la libertad y la expiación. "
+    isbn: "9798231986286"
+    publication_date: "2025-11-07"
+    url: "https://draft2digital.com/book/3478711"
 
-  - num: 9
+  - num: 8
     title: "Un café chiamato Zuflucht"
     cover: "/assets/images/experimental/Un-café-chiamato-Zuflucht.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    description: "Un romanzo sensuale e struggente sulla possibilità di trovare redenzione nell'imperfezione."
+    isbn: "9798232503956"
+    publication_date: "2025/11/08"
+    url: "https://draft2digital.com/book/3515347"
 
-  - num: 10
+  - num: 9
     title: "Un café nommé Zuflucht"
     cover: "/assets/images/experimental/Un-café-nommé-Zuflucht.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    description: "un roman sensuel et bouleversant sur les fautes que l'on ne parvient jamais à oublier, et sur la tendresse qui persiste malgré la ruine."
+    isbn: "9798232080815"
+    publication_date: "2025/11/07"
+    url: "https://draft2digital.com/book/3479889"
 
-  - num: 11
-    title: "Un parfum interdit"
-    cover: "/assets/images/experimental/Un-parfum-interdit.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
-
-  - num: 12
-    title: "The Room Between Heartbeats"
-    cover: "/assets/images/experimental/The-Room-Between-Heartbeats.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
-
-  - num: 13
-    title: "L'espace entre deux battements de coeur"
-    cover: "/assets/images/experimental/L'espace-entre-deux-battements-de-coeur.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
-	
-  - num: 14
-    title: "Entre ombre et flammes"
-    cover: "/assets/images/experimental/Entre-ombre-et-flammes.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
-
-  - num: 15
+  - num: 10
     title: "The Moonfire Pact"
     cover: "/assets/images/experimental/The-Moonfire-Pact.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    description: "A romantasy novella about a fire-and-shadow-bound heroine and the warrior tied to her fate who choose not to destroy a world-rending force, but to transform it—and in doing so, remake destiny itself."
+    isbn: "9798230146810"
+    publication_date: "2025/02/16"
+    url: "https://draft2digital.com/book/2737780"
 	
-  - num: 16
-    title: "A Complete Witchcraft Training Manual"
-    cover: "/assets/images/experimental/A-Complete-Witchcraft-Training-Manual.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+  - num: 11
+    title: "A Practical Guide to Witchcraft & Chaos Magick"
+    cover: "/assets/images/experimental/A-Practical-Guide-to-Witchcraft+Chaos-Magick.webp"
+    description: "A hands-on manual for mastering the ancient and evolving arts of witchcraft and the more modern art of chaos magic"
+    isbn: "9798319140104"
+    publication_date: "2025-04-12"
+    url: "https://www.amazon.es/dp/B0F4PD9L4B"
 	
-  - num: 17
-    title: "Chaos Magic"
-    cover: "/assets/images/experimental/Chaos-Magic.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+  - num: 12
+    title: "Chaos Magick: The Art and Science of Reality Manipulation"
+    cover: "/assets/images/experimental/Chaos-Magick.webp"
+    description: "A method for shaping perception and influencing reality - one of the most powerful and controversial modern occult systems, blending psychology, ritual practice, belief engineering, and symbolic manipulation"
+    isbn: ""
+    publication_date: "2026/02/21"
+    url: "https://books2read.com/u/4jkZo5"
 
-  - num: 18
+  - num: 13
     title: "The Never-Ending Question"
     cover: "/assets/images/experimental/The-Never-Ending-Question.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    description: "A thought-provoking exploration of meaning, connection, and human curiosity, exploring theories about existence and universal laws through a fictional account."
+    isbn: "9798233073106"
+    publication_date: "2025/02/05"
+    url: "https://books2read.com/u/brEorZ"
 	
-  - num: 19
-    title: "What is Existence?"
+  - num: 14
+    title: "What is Existence? Mind, Matter and Meaning"
     cover: "/assets/images/experimental/What-is-Existence.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    description: "Based on modern physics, psychology, philosophy, and cultural analysis existence, not as a mystery to be solved, but as a condition to be understood."
+    isbn: "9798231919338"
+    publication_date: "2026/02/21"
+    url: "https://books2read.com/u/mVEWKl"
 
-  - num: 20
+  - num: 15
     title: "Threshold Ethics"
     cover: "/assets/images/experimental/Threshold-Ethics.webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    description: "A pragmatic moral framework for extreme emergencies. A disciplined model of accountability and restraint for high-stakes modern governance."
+    isbn: "9798233377594"
+    publication_date: "2026/02/17"
+    url: "https://books2read.com/u/bPPwwj"
 	
-  - num: 21
+  - num: 16
     title: "Constraintism"
-    cover: "/assets/images/experimental/Constraintism".webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    cover: "/assets/images/experimental/Constraintism.webp"
+    description: "A reframing of truth, ethics, freedom, and scientific progress based on a single insight: representation itself imposes unavoidable limits."
+    isbn: "9798233073106"
+    publication_date: "2026/02/01"
+    url: "https://books2read.com/u/bWD1k0"
 	
-  - num: 21
+  - num: 17
     title: "Patterns That Matter"
-    cover: "/assets/images/experimental/Patterns-That-Matter".webp"
-    description: "XXX"
-    isbn: "XXX"
-    publication_date: "XXX"
-    url: "https://draft2digital.com/book/XXX"
+    cover: "/assets/images/experimental/Patterns-That-Matter.webp"
+    description: "A scientific exploration into the meaning of patterns resulting in a clear, optimistic vision of a world where our decisions truly matter."
+    isbn: "9798224237333"
+    publication_date: "2026/02/18"
+    url: "https://books2read.com/u/4Nz5yG"
+
 ---
 
 <!-- Google Search Console verification -->
@@ -214,16 +174,6 @@ books:
 }
 </script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Q8PEN408E6');
-</script>
-
 ## Experimental Fiction
 
 >*As an Amazon Associate I earn from qualifying purchases.*
@@ -248,26 +198,21 @@ books:
 
 <!-- ROW 2 -->
 <div class="book-card">
-  <img src="/assets/images/experimental/Un-crimen-por-deshacer" alt="Un crimen por deshacer">
-  <h3>Murder Undone</h3
+  <img src="/assets/images/experimental/Un-crimen-por-deshacer.webp" alt="Un crimen por deshacer">
+  <h3>Un crimen por deshacer</h3>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/experimental/Eternal-Return.webp" alt="Eternal Return">
-  <h3>Eternal Return</h3>
-</div>
-
-<div class="book-card">
-  <img src="/assets/images/experimental/A Café-Called-Zuflucht.webp" alt="A Café Called Zuflucht">
+  <img src="/assets/images/experimental/A-Café-Called-Zuflucht.webp" alt="A Café Called Zuflucht">
   <h3>A Café Called Zuflucht</h3>
 </div>
 
-<!-- ROW 3 -->
 <div class="book-card">
-  <img src="/assets/images/experimental/Ein-Cafe-Namens-Zuflucht.webp" alt="Ein Cafe Namens Zuflucht">
+  <img src="/assets/images/experimental/Ein-Café-Namens-Zuflucht.webp" alt="Ein Cafe Namens Zuflucht">
   <h3>Ein Cafe Namens Zuflucht</h3>
 </div>
 
+<!-- ROW 3 -->
 <div class="book-card">
   <img src="/assets/images/experimental/Una-cafetería-llamada-Zuflucht.webp" alt="Una cafetería llamada Zuflucht">
   <h3>Una cafetería llamada Zuflucht</h3>
@@ -278,73 +223,48 @@ books:
   <h3>Un café chiamato Zuflucht</h3>
 </div>
 
-<!-- ROW 4 -->
 <div class="book-card">
   <img src="/assets/images/experimental/Un-café-nommé-Zuflucht.webp" alt="Un café nommé Zuflucht">
   <h3>Un café nommé Zuflucht</h3>
 </div>
 
-<div class="book-card">
-  <img src="/assets/images/experimental/Un-parfum-interdit.webp" alt="Un parfum interdit">
-  <h3>Un parfum interdit</h3>
-</div>
-
-<div class="book-card">
-  <img src="/assets/images/experimental/The-Room-Between-Heartbeats.webp" alt="The Room Between Heartbeats">
-  <h3>The Room Between Heartbeats</h3>
-</div>
-
-<!-- ROW 5 -->
-<div class="book-card">
-  <img src="/assets/images/experimental/L'espace-entre-deux-battements-de-coeur.webp" alt="L'espace entre deux battements de coeur">
-  <h3>L'espace entre deux battements de coeur</h3>
-</div>
-
-<div class="book-card">
-  <img src="/assets/images/experimental/Entre Ombre et Flammes.webp" alt="Entre Ombre et Flammes">
-  <h3>Entre Ombre et Flammes</h3>
-</div>
-
+<!-- ROW 4 -->
 <div class="book-card">
   <img src="/assets/images/experimental/The-Moonfire-Pact.webp" alt="The Moonfire Pact">
   <h3>The Moonfire Pact</h3>
 </div>
 
-<!-- ROW 6 -->
 <div class="book-card">
-  <img src="/assets/images/experimental/A Complete Witchcraft-Training-Manual.webp" alt="A Complete Witchcraft Training Manual">
-  <h3>A Complete Witchcraft Training Manual</h3>
+  <img src="/assets/images/experimental/A-Practical-Guide-to Witchcraft+Chaos-Magick.webp" alt="A Complete Witchcraft Training Manual">
+  <h3>A-Practical-Guide-to-Witchcraft+Chaos-Magick</h3>
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/experimental/Chaos-Magic.webp" alt="Chaos Magic">
-  <h3>Chaos Magic</h3>
+  <img src="/assets/images/experimental/Chaos-Magick.webp" alt="Chaos Magic">
+  <h3>Chaos-Magick</h3>
 </div>
-	
-<!-- ROW 7 -->
+
+<!-- ROW 5 -->
 <div class="book-card">
-  <img src="/assets/images/experimental/The Never-Ending Question.webp" alt="The Never-Ending Question">
-  <h3>The Never-Ending Question</h3>
+  <img src="/assets/images/experimental/The-Never-Ending-Question.webp" alt="The Never-Ending Question">
+  <h3>The-Never-Ending Question</h3>
 </div>
 
 <div class="book-card">
   <img src="/assets/images/experimental/What-is-Existence.webp" alt="What is Existence?">
-  <h3>What is Existence?</h3>
+  <h3>What-is-Existence?</h3>
 </div>
-
-<!-- ROW 8 -->
 
 <div class="book-card">
   <img src="/assets/images/experimental/Threshold-Ethics.webp" alt="Threshold Ethics">
   <h3>Threshold Ethics</h3>
 </div>
 
+<!-- ROW 6 -->
 <div class="book-card">
   <img src="/assets/images/experimental/Constraintism.webp" alt="Constraintism">
   <h3>Constraintism</h3>
 </div>
-
-<!-- ROW 9 -->
 
 <div class="book-card">
   <img src="/assets/images/experimental/Patterns-That-Matter.webp" alt="Patterns That Matter">
