@@ -91,7 +91,7 @@ title: Hybrid English 5.0
   </div>
 </section>
 
-#<section id="signup" class="signup">
+<section id="signup" class="signup">
   <div class="container">
     <h2>Start Your English Fluency Journey Today</h2>
     <p>Sign up and experience a free 7-day trial. No textbooks, no generic classes. Just results.</p>
