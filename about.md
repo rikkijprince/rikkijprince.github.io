@@ -54,13 +54,13 @@ permalink: /about/
 <br>	
 Engineer, educator, novelist and AI ghostwriter. Born and bred in the UK with influences from the USA, India, Pakistan, France, Italy, Germany, the Netherlands and Spain, this mixture of people, cultures, aromas and ways of thinking became the lens through which I observed the world.
 <br>			
-Aspiring to understand the physical woorld around me, I took up physics, electronics and telecoms engineering, but, in the end, the physical world proved to be as mysterious and elusive as the human world, and I from engineering to become a patent examiner, translator, teacher, and writer and publisher — always searching for meaning behind the noise.
+Aspiring to understand the physical world around me, I took up physics, electronics and telecoms engineering, but, in the end, the physical world proved to be as mysterious and elusive as the human world, and I went on from engineering to become a patent examiner, translator, teacher, and writer and publisher — always searching for meaning in the patterns behind the noise.
 <br>
 My books explore what lies behind our words, our desires, our connections. I write because I want to understand how we came to be — and where we might be going next. 
 <br>
-My latest venture is teaching languages through a hybrid system of AI agents, where five AI agents cooperate to teach and collect feedback data, and human consultants do the interpreting of results.
+My latest venture is teaching languages through a hybrid system of AI agents, where five AI agents cooperate to teach and collect feedback data, without substituting the human element.
 <br>
-This is my world. Thank you for joining me.
+I am grateful to all those who readf my books. And if you use English as a second language, I would encourage you to try out mmy method: Hybrid English 5.0 at RJ Academy. Thank you.
 <br>				
 #### Contact: [me@rikkijprince.com](mailto:me@rikkijprince.com)
 
