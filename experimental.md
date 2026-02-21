@@ -86,14 +86,6 @@ books:
     url: "https://draft2digital.com/book/2737780"
 
   - num: 11
-    title: "A Practical Guide to Witchcraft & Chaos Magick"
-    cover: "/assets/images/experimental/A-Practical-Guide-to-Witchcraft+Chaos-Magick.webp"
-    description: "A hands-on manual for mastering the ancient and evolving arts of witchcraft and the more modern art of chaos magic"
-    isbn: "9798319140104"
-    publication_date: "2025-04-12"
-    url: "https://www.amazon.es/dp/B0F4PD9L4B"
-
-  - num: 12
     title: "Chaos Magick: The Art and Science of Reality Manipulation"
     cover: "/assets/images/experimental/Chaos-Magick.webp"
     description: "A method for shaping perception and influencing reality - one of the most powerful and controversial modern occult systems, blending psychology, ritual practice, belief engineering, and symbolic manipulation"
@@ -101,7 +93,7 @@ books:
     publication_date: "2026/02/21"
     url: "https://books2read.com/u/4jkZo5"
 
-  - num: 13
+  - num: 12
     title: "The Never-Ending Question"
     cover: "/assets/images/experimental/The-Never-Ending-Question.webp"
     description: "A thought-provoking exploration of meaning, connection, and human curiosity, exploring theories about existence and universal laws through a fictional account."
@@ -109,7 +101,7 @@ books:
     publication_date: "2025/02/05"
     url: "https://books2read.com/u/brEorZ"
 
-  - num: 14
+  - num: 13
     title: "What is Existence? Mind, Matter and Meaning"
     cover: "/assets/images/experimental/What-is-Existence.webp"
     description: "Based on modern physics, psychology, philosophy, and cultural analysis existence, not as a mystery to be solved, but as a condition to be understood."
@@ -117,7 +109,7 @@ books:
     publication_date: "2026/02/21"
     url: "https://books2read.com/u/mVEWKl"
 
-  - num: 15
+  - num: 14
     title: "Threshold Ethics"
     cover: "/assets/images/experimental/Threshold-Ethics.webp"
     description: "A pragmatic moral framework for extreme emergencies. A disciplined model of accountability and restraint for high-stakes modern governance."
@@ -125,7 +117,7 @@ books:
     publication_date: "2026/02/17"
     url: "https://books2read.com/u/bPPwwj"
 
-  - num: 16
+  - num: 15
     title: "Constraintism"
     cover: "/assets/images/experimental/Constraintism.webp"
     description: "A reframing of truth, ethics, freedom, and scientific progress based on a single insight: representation itself imposes unavoidable limits."
@@ -133,7 +125,7 @@ books:
     publication_date: "2026/02/01"
     url: "https://books2read.com/u/bWD1k0"
 
-  - num: 17
+  - num: 16
     title: "Patterns That Matter"
     cover: "/assets/images/experimental/Patterns-That-Matter.webp"
     description: "A scientific exploration into the meaning of patterns resulting in a clear, optimistic vision of a world where our decisions truly matter."
@@ -141,6 +133,13 @@ books:
     publication_date: "2026/02/18"
     url: "https://books2read.com/u/4Nz5yG"
 
+  - num: 17
+    title: "A Practical Guide to Witchcraft & Chaos Magick"
+    cover: "/assets/images/experimental/A-Practical-Guide-to-Witchcraft+Chaos-Magick.webp"
+    description: "A hands-on manual for mastering the ancient and evolving arts of witchcraft and the more modern art of chaos magic"
+    isbn: "9798319140104"
+    publication_date: "2025-04-12"
+    url: "https://www.amazon.es/dp/B0F4PD9L4B"
 ---
 
 <!-- Google Search Console verification -->
@@ -235,24 +234,19 @@ books:
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/experimental/A-Practical-Guide-to Witchcraft+Chaos-Magick.webp" alt="A Complete Witchcraft Training Manual">
-  <h3>A-Practical-Guide-to-Witchcraft+Chaos-Magick</h3>
-</div>
-
-<div class="book-card">
   <img src="/assets/images/experimental/Chaos-Magick.webp" alt="Chaos Magic">
-  <h3>Chaos-Magick</h3>
+  <h3>Chaos Magick: The Art and Science of Reality Manipulation</h3>
 </div>
 
-<!-- ROW 5 -->
 <div class="book-card">
   <img src="/assets/images/experimental/The-Never-Ending-Question.webp" alt="The Never-Ending Question">
   <h3>The-Never-Ending Question</h3>
 </div>
 
+<!-- ROW 5 -->
 <div class="book-card">
   <img src="/assets/images/experimental/What-is-Existence.webp" alt="What is Existence?">
-  <h3>What-is-Existence?</h3>
+  <h3>What is Existence?</h3>
 </div>
 
 <div class="book-card">
@@ -260,15 +254,20 @@ books:
   <h3>Threshold Ethics</h3>
 </div>
 
-<!-- ROW 6 -->
 <div class="book-card">
   <img src="/assets/images/experimental/Constraintism.webp" alt="Constraintism">
   <h3>Constraintism</h3>
 </div>
 
+<!-- ROW 6 -->
 <div class="book-card">
   <img src="/assets/images/experimental/Patterns-That-Matter.webp" alt="Patterns That Matter">
   <h3>Patterns That Matter</h3>
+</div>
+
+<div class="book-card">
+  <img src="/assets/images/experimental/A-Practical-Guide-to Witchcraft+Chaos-Magick.webp" alt="A Complete Witchcraft Training Manual">
+  <h3>A Practical Guide to Witchcraft & Chaos Magick</h3>
 </div>
 
 </div>
