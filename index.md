@@ -6,7 +6,7 @@ title: Hybrid English 5.0
 <header class="hero">
   <div class="container">
     <h1>HYBRID ENGLISH 5.0 - Finally, an English Fluency System That Actually Works for Professionals</h1>
-    <h2>[Site under construction - Expected launch date: 15 April 2026]</h2>
+    <h2>[Site under construction - Expected launch: June 2026]</h2>
     <img src="/assets/images/indexc1.jpg" alt="Professional speaking with confidence" class="hero-image">
     <p>Stop wasting time on classes that don’t make you fluent. Experience daily guided conversation practice and expert coaching that builds real communicative confidence.</p>
     <a href="#signup" class="cta-button">Start Your Transformation</a>
