@@ -3,7 +3,7 @@ layout: default
 description: "Experimental Works: A mixture of sci fi, philosophy and out-of-the-box observations"
 keywords: "experimental writing, time distortion, time travel, time running backwords, reverse time, philosophical essays"
 permalink: /experimental/
----
+
 books:
   - num: 1
     title: "Mystery in Reverse"
@@ -12,7 +12,7 @@ books:
     isbn: "9798230859995"
     publication_date: "2025-03-09"
     url: "https://draft2digital.com/book/2781144"
-	
+
   - num: 2
     title: "Misterio al revés"
     cover: "/assets/images/experimental/Misterio-al-revés.webp"
@@ -52,7 +52,7 @@ books:
     isbn: "9798232195212"
     publication_date: "2025-11-07"
     url: "https://draft2digital.com/book/3476461"
-	
+
   - num: 7
     title: "Una cafetería llamada Zuflucht"
     cover: "/assets/images/experimental/Una-cafetería-llamada-Zuflucht.webp"
@@ -84,7 +84,7 @@ books:
     isbn: "9798230146810"
     publication_date: "2025/02/16"
     url: "https://draft2digital.com/book/2737780"
-	
+
   - num: 11
     title: "A Practical Guide to Witchcraft & Chaos Magick"
     cover: "/assets/images/experimental/A-Practical-Guide-to-Witchcraft+Chaos-Magick.webp"
@@ -92,7 +92,7 @@ books:
     isbn: "9798319140104"
     publication_date: "2025-04-12"
     url: "https://www.amazon.es/dp/B0F4PD9L4B"
-	
+
   - num: 12
     title: "Chaos Magick: The Art and Science of Reality Manipulation"
     cover: "/assets/images/experimental/Chaos-Magick.webp"
@@ -108,7 +108,7 @@ books:
     isbn: "9798233073106"
     publication_date: "2025/02/05"
     url: "https://books2read.com/u/brEorZ"
-	
+
   - num: 14
     title: "What is Existence? Mind, Matter and Meaning"
     cover: "/assets/images/experimental/What-is-Existence.webp"
@@ -124,7 +124,7 @@ books:
     isbn: "9798233377594"
     publication_date: "2026/02/17"
     url: "https://books2read.com/u/bPPwwj"
-	
+
   - num: 16
     title: "Constraintism"
     cover: "/assets/images/experimental/Constraintism.webp"
@@ -132,7 +132,7 @@ books:
     isbn: "9798233073106"
     publication_date: "2026/02/01"
     url: "https://books2read.com/u/bWD1k0"
-	
+
   - num: 17
     title: "Patterns That Matter"
     cover: "/assets/images/experimental/Patterns-That-Matter.webp"
