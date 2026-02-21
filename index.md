@@ -92,12 +92,12 @@ title: Hybrid English 5.0
 </section>
 
 #<section id="signup" class="signup">
-#  <div class="container">
-#    <h2>Start Your English Fluency Journey Today</h2>
-#    <p>Sign up and experience a free 7-day trial. No textbooks, no generic classes. Just results.</p>
-#    <a href="https://example.com/signup" class="cta-button">Start Free Trial</a>
-#  </div>
-#</section>
+  <div class="container">
+    <h2>Start Your English Fluency Journey Today</h2>
+    <p>Sign up and experience a free 7-day trial. No textbooks, no generic classes. Just results.</p>
+    <a href="https://example.com/signup" class="cta-button">Start Free Trial</a>
+  </div>
+</section>
 
 <footer>
   <div class="container">
