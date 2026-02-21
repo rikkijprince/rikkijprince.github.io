@@ -52,15 +52,15 @@ permalink: /about/
 
 ## About me, Rikki J
 <br>	
-Engineer, educator, novelist and AI ghostwriter. Born and bred in the UK with influences from the USA, India, Pakistan, France, Italy, Germany, the Netherlands and Spain, this mixture of people, cultures, aromas and ways of thinking became the lens through which I observed the world.
-<br>			
-Aspiring to understand the physical world around me, I took up physics, electronics and telecoms engineering, but, in the end, the physical world proved to be as mysterious and elusive as the human world, and I went on from engineering to become a patent examiner, translator, teacher, and writer and publisher — always searching for meaning in the patterns behind the noise.
+I grew up at a crossroads of cultures, languages, and unanswered questions. Born in England, to a Pakistani-American father and a British mother, hI spent part of my childhood in Pakistan, but spent most of my life between Britain, Spain and the Netherlands. 
+<br>	
+Drawn early to science and its promise that the world could be decoded, I trained in physics and engineering. But equations alone could not satisfy my deeper curiosity. The mysteries of the cosmos at its grandest scale and the quantum nature at its smallest scale eventually were as attractive for me as the exploration of the invisible structures that shape human experience.
 <br>
-My books explore what lies behind our words, our desires, our connections. I write because I want to understand how we came to be — and where we might be going next. 
+Today, both my publications in the philosophy of science and my fictional works stand at the intersection of science and metaphysics, probing the forces that bind us to one another - and to realities that we scarecely understand.
 <br>
-My latest venture is teaching languages through a hybrid system of AI agents, where five AI agents cooperate to teach and collect feedback data, without substituting the human element.
+My latest venture is teaching languages through a hybrid system of AI agents, that collect data on my students' use of language, to help me guide their performance without substituting the human element.
 <br>
-I am grateful to all those who readf my books. And if you use English as a second language, I would encourage you to try out mmy method: Hybrid English 5.0 at RJ Academy. Thank you.
+I am grateful to all those who read my books. And if you use English as a second language, I would encourage you to try out mmy method: Hybrid English 5.0 at RJ Academy. Thank you.
 <br>				
 #### Contact: [me@rikkijprince.com](mailto:me@rikkijprince.com)
 
