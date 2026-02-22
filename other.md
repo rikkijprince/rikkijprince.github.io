@@ -1,6 +1,6 @@
 ---
 layout: default
-decription: "Short stories and novellas written in various European languages."
+description: "Short stories and novellas written in various European languages."
 keywords: "Rikki J Prince, french, francés, français, italian, italiano, german, deutsch, portuguese, portugués, valencian, valenciano, valencià"
 permalink: /other/
 ---
