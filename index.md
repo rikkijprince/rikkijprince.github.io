@@ -2,7 +2,7 @@
 layout: default
 title: "Rikki J Prince — Welcome Page"
 description: "English language learning, advanced technology, deep contemplation, and science-fiction adventures."
-permalink: /index/
+permalink: /hybrid-english/
 ---
 
 # Rikki J Prince
@@ -15,7 +15,7 @@ permalink: /index/
 
 ### RJ Communication Lab
 
-Advanced English training for professionals working in technology, engineering, and AI-driven fields.
+Advanced English training for professionals working in technology, engineering, Sales & Marketing and AI-driven fields.
 
 [Explore the Communication Lab](/communication-lab/)
 
@@ -25,7 +25,7 @@ Advanced English training for professionals working in technology, engineering, 
 
 A modular approach to mastering English through cognition, narrative, and real-world application.
 
-[Discover the method](/hybrid-english-5/)
+[Discover the method](/hybrid-english/)
 
 ---
 
