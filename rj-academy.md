@@ -1,124 +1,88 @@
 ---
 layout: default
 title: RJ Communication Lab
-permalink: /rj-academy/
-landing: true
 ---
 
-<!-- HERO SECTION -->
-<section class="hero">
-  <div class="hero-content">
-    <h1>RJ RJ Communication Lab</h1>
-    <p class="subtitle">Professional communication training for scientists, engineers, and technical professionals</p>
-    <p class="lead">Rikki J Prince (RJ) specializes in helping technology-oriented professionals communicate fluently in English.</p>
-    <p class="lead">Innstead of gramar-heavy lessons, RJ trains professionals using <b>real workplace communication</b>: emails, reports, meeetings, presentations, and technical explanations.</p>
-    <p class="lead">The goal is simple: <b>Get your message across to an international audience. Effectively.</b></p>
-    <p class="lead">  </p>
-    <a href="#program" class="cta-button">Explore the Program</a>
-  </div>
-  <div class="hero-image">
-    <img src="/assets/images/rj-academy/rj-academy-tutor.webp" alt="Technology professionals collaborating (placeholder)" />
-  </div>
-</section>
+# RJ Communication Lab
+### Professional Communication Training for Real Work Situations
 
-<!-- VALUE PROPOSITION -->
-<section class="value">
-  <h2>This is not an English course.</h2>
-  <p class="lead">It is a professional communication system designed to help technical professionals be understood, trusted, and promoted.</p>
-  <div class="value-grid">
-    <div class="card">
-      <h3>Clarity</h3>
-      <p>Explain complex ideas simply and precisely.</p>
-    </div>
-    <div class="card">
-      <h3>Credibility</h3>
-      <p>Sound competent in meetings, reports, and presentations.</p>
-    </div>
-    <div class="card">
-      <h3>Confidence</h3>
-      <p>Speak in international environments without hesitation.</p>
-    </div>
-    <div class="card">
-      <h3>Career Growth</h3>
-      <p>Improve promotion and leadership opportunities.</p>
-    </div>
-  </div>
-</section>
+You already speak English.
 
-<!-- ABOUT RJ -->
-<section class="about">
-  <div class="about-image">
-    <img src="/assets/images/rj-academy/Scientists+Engineers.webp" alt="Scientists and Engineers" />
-  </div>
-  <div class="about-text">
-    <h2>Meet RJ</h2>
-    <p><strong>Rikki J Prince (RJ)</strong> specializes in helping scientists, engineers and technicians communicate professionally in English.</p>
-    <p>Instead of grammar-heavy lessons, RJ trains professionals using real workplace communication: emails, reports, meetings, presentations, and technical explanations.</p>
-    <p>The goal is simple: not better English — better professional performance.</p>
-  </div>
-</section>
+But in real meetings…
 
-<!-- PROGRAM -->
-<section id="program" class="program">
-  <h2>The Program</h2>
-  <div class="program-grid">
-    <div class="program-card">
-      <h3>Core Skills</h3>
-      <p>Precision writing, meetings, presentations, and technical explanations.</p>
-    </div>
-    <div class="program-card">
-      <h3>Real-World Simulations</h3>
-      <p>Practice real professional scenarios: incident reports, Q&A sessions, and stakeholder communication.</p>
-    </div>
-    <div class="program-card">
-      <h3>Templates & Tools</h3>
-      <p>Ready-to-use email, report, and presentation frameworks.</p>
-    </div>
-    <div class="program-card">
-      <h3>Professional Community</h3>
-      <p>Continuous improvement inside a guided professional environment.</p>
-    </div>
-  </div>
-</section>
+- you hesitate before answering  
+- you simplify complex ideas  
+- faster speakers dominate  
+- your expertise sounds smaller than it is  
 
-<!-- WHO IT IS FOR -->
-<section class="audience">
-  <h2>Who This Is For</h2>
-  <ul>
-    <li>Engineers working in international teams</li>
-    <li>Researchers and PhD students publishing in English</li>
-    <li>Technicians reporting incidents and procedures</li>
-    <li>Technical leads and project managers running meetings</li>
-  </ul>
-</section>
+This is not a vocabulary problem.
 
-<!-- CTA -->
-<section class="cta">
-  <h2>Start Communicating Like a Professional</h2>
-  <p>Join the RJ Academy community and begin improving immediately.</p>
-  <a href="#" class="cta-button">Join the Community</a>
-</section>
+It’s a **performance problem**.
 
-<!-- PLACEHOLDER FOR FUTURE TESTIMONIALS -->
-<section class="testimonials">
-  <h2>Results</h2>
-  <p>(Testimonials and before/after examples will appear here)</p>
-  <img src="/assets/images/testimonial-placeholder.jpg" alt="Testimonial placeholder" />
-</section>
+---
 
-<style>
-.hero{display:flex;flex-wrap:wrap;align-items:center;gap:2rem;padding:3rem 1rem}
-.hero-content{flex:1;min-width:280px}
-.hero-image{flex:1;min-width:280px}
-.hero img{width:100%;border-radius:12px}
-.subtitle{font-size:1.2rem;margin:1rem 0}
-.cta-button{background:#2563eb;color:white;padding:.8rem 1.4rem;border-radius:8px;text-decoration:none;font-weight:600}
-.value,.about,.program,.audience,.cta,.testimonials{padding:3rem 1rem;max-width:1000px;margin:auto}
-.value-grid,.program-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.5rem;margin-top:1.5rem}
-.card,.program-card{background:#f4f6f8;padding:1.5rem;border-radius:12px}
-.about{display:flex;flex-wrap:wrap;gap:2rem;align-items:center}
-.about img{width:100%;max-width:350px;border-radius:12px}
-.audience ul{line-height:1.8}
-.cta{text-align:center}
-.testimonials img{width:100%;max-width:600px;margin-top:1rem;border-radius:12px}
-</style>
+## Train for the Situations That Actually Matter
+
+RJ Communication Lab offers structured one-to-one communication training for professionals who use English at work.
+
+We rehearse:
+
+- explaining technical decisions  
+- presenting proposals  
+- handling objections  
+- participating actively in meetings  
+- disagreeing professionally  
+- answering unexpected questions  
+
+This is not traditional English class.
+
+It is guided professional simulation.
+
+You train before the real conversation happens.
+
+<div class="hero-image">
+  <img src="/assets/images/Why-Scientist+Engineers-Trust-RJ.webp" alt="Why scientists and engineers trust RJ Communication Lab">
+</div>
+
+---
+
+## Who This Is For
+
+Professionals working internationally in:
+
+- engineering & technology  
+- research & science  
+- consulting  
+- sales  
+- marketing  
+
+If your job requires you to think, decide, and respond in English — this is for you.
+
+<div class="hero-image">
+  <img src="/assets/images/Why-Sales-Marketing-Trust-RJ.webp" alt="Why sales and marketing professionals trust RJ Communication Lab">
+</div>
+
+---
+
+## The Goal
+
+Not “better English.”
+
+Clearer thinking.  
+Faster responses.  
+Stronger professional presence.
+
+---
+
+## Start Here
+
+The Communication Lab page explains:
+
+- how sessions work  
+- what improves first  
+- who benefits most  
+- how to request a diagnostic conversation  
+
+👉 **[Explore the Communication Lab →](/communication-lab/)**
+
+Limited one-to-one places available.
