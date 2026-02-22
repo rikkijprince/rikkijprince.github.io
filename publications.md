@@ -9,8 +9,6 @@ permalink: /publications/
 
 Fiction, experimental writing, and reflective works exploring time, memory, ethics, and perception.
 
----
-
 ## Fiction
 
 Stories that use narrative as a laboratory:  
@@ -20,8 +18,6 @@ These works range from noir and science fiction to literary and speculative form
 
 [Explore fiction](/novels/)
 
----
-
 ## Experimental Writing
 
 Works that sit between philosophy, science, and imagination.
@@ -29,8 +25,6 @@ Works that sit between philosophy, science, and imagination.
 Here you’ll find books that question how we think, how we model reality, and how language shapes belief, ethics, and agency.
 
 [Explore experimental writing](/experimental/)
-
----
 
 ## Reflective & Non-Fiction
 
@@ -40,8 +34,6 @@ These books are written not to persuade, but to clarify.
 
 [Explore reflective works](/experimental/)
 
----
-
 ## How to approach these works
 
 You don’t need to read everything in order.
@@ -50,8 +42,6 @@ Some readers arrive through fiction and stay for the ideas.
 Others arrive through ideas and discover fiction as a different way of thinking.
 
 Both paths are valid.
-
----
 
 ## Looking for a starting point?
 
