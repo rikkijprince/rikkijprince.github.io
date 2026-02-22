@@ -266,7 +266,7 @@ books:
 </div>
 
 <div class="book-card">
-  <img src="/assets/images/experimental/A-Practical-Guide-to Witchcraft+Chaos-Magick.webp" alt="A Complete Witchcraft Training Manual">
+  <img src="/assets/images/experimental/A-Practical-Guide-to-Witchcraft+Chaos-Magick.webp" alt="A Complete Witchcraft Training Manual">
   <h3>A Practical Guide to Witchcraft & Chaos Magick</h3>
 </div>
 
