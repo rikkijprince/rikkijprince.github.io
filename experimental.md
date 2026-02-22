@@ -26,7 +26,7 @@ books:
     cover: "/assets/images/experimental/Murder-Undone.webp"
     description: "A noir thriller, blending existential mystery with a mind-bending inversion of causality."
     isbn: "9798230205012"
-    publication_date: "2025/03/08"
+    publication_date: "2025-03-08"
     url: "https://draft2digital.com/book/2779870"
 
   - num: 4
@@ -66,7 +66,7 @@ books:
     cover: "/assets/images/experimental/Un-café-chiamato-Zuflucht.webp"
     description: "Un romanzo sensuale e struggente sulla possibilità di trovare redenzione nell'imperfezione."
     isbn: "9798232503956"
-    publication_date: "2025/11/08"
+    publication_date: "2025-11-08"
     url: "https://draft2digital.com/book/3515347"
 
   - num: 9
@@ -74,7 +74,7 @@ books:
     cover: "/assets/images/experimental/Un-café-nommé-Zuflucht.webp"
     description: "un roman sensuel et bouleversant sur les fautes que l'on ne parvient jamais à oublier, et sur la tendresse qui persiste malgré la ruine."
     isbn: "9798232080815"
-    publication_date: "2025/11/07"
+    publication_date: "2025-11-07"
     url: "https://draft2digital.com/book/3479889"
 
   - num: 10
@@ -82,7 +82,7 @@ books:
     cover: "/assets/images/experimental/The-Moonfire-Pact.webp"
     description: "A romantasy novella about a fire-and-shadow-bound heroine and the warrior tied to her fate who choose not to destroy a world-rending force, but to transform it—and in doing so, remake destiny itself."
     isbn: "9798230146810"
-    publication_date: "2025/02/16"
+    publication_date: "2025-02-16"
     url: "https://draft2digital.com/book/2737780"
 
   - num: 11
@@ -90,7 +90,7 @@ books:
     cover: "/assets/images/experimental/Chaos-Magick.webp"
     description: "A method for shaping perception and influencing reality - one of the most powerful and controversial modern occult systems, blending psychology, ritual practice, belief engineering, and symbolic manipulation"
     isbn: ""
-    publication_date: "2026/02/21"
+    publication_date: "2026-02-21"
     url: "https://books2read.com/u/4jkZo5"
 
   - num: 12
@@ -98,7 +98,7 @@ books:
     cover: "/assets/images/experimental/The-Never-Ending-Question.webp"
     description: "A thought-provoking exploration of meaning, connection, and human curiosity, exploring theories about existence and universal laws through a fictional account."
     isbn: "9798233073106"
-    publication_date: "2025/02/05"
+    publication_date: "2025-02-05"
     url: "https://books2read.com/u/brEorZ"
 
   - num: 13
@@ -106,7 +106,7 @@ books:
     cover: "/assets/images/experimental/What-is-Existence.webp"
     description: "Based on modern physics, psychology, philosophy, and cultural analysis existence, not as a mystery to be solved, but as a condition to be understood."
     isbn: "9798231919338"
-    publication_date: "2026/02/21"
+    publication_date: "2026-02-21"
     url: "https://books2read.com/u/mVEWKl"
 
   - num: 14
@@ -114,7 +114,7 @@ books:
     cover: "/assets/images/experimental/Threshold-Ethics.webp"
     description: "A pragmatic moral framework for extreme emergencies. A disciplined model of accountability and restraint for high-stakes modern governance."
     isbn: "9798233377594"
-    publication_date: "2026/02/17"
+    publication_date: "2026-02-17"
     url: "https://books2read.com/u/bPPwwj"
 
   - num: 15
@@ -122,7 +122,7 @@ books:
     cover: "/assets/images/experimental/Constraintism.webp"
     description: "A reframing of truth, ethics, freedom, and scientific progress based on a single insight: representation itself imposes unavoidable limits."
     isbn: "9798233073106"
-    publication_date: "2026/02/01"
+    publication_date: "2026-02-01"
     url: "https://books2read.com/u/bWD1k0"
 
   - num: 16
@@ -130,7 +130,7 @@ books:
     cover: "/assets/images/experimental/Patterns-That-Matter.webp"
     description: "A scientific exploration into the meaning of patterns resulting in a clear, optimistic vision of a world where our decisions truly matter."
     isbn: "9798224237333"
-    publication_date: "2026/02/18"
+    publication_date: "2026-02-18"
     url: "https://books2read.com/u/4Nz5yG"
 
   - num: 17
