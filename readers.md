@@ -9,9 +9,6 @@ permalink: /readers/
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
 
-<!-- SEO Description -->
-<meta name="description" content="Rikki J Prince — author of science-driven fiction, philosophical adventures, and speculative sci-fi. Discover books, previews, and links to Amazon and other retailers." />
-
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
 <script>
@@ -19,7 +16,9 @@ permalink: /readers/
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-Q8PEN408E6');
+  gtag('config', 'G-Q8PEN408E6', {
+    anonymize_ip: true
+  });
 </script>
 
 <!-- Author Schema -->
