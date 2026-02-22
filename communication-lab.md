@@ -30,8 +30,6 @@ This is not a language problem.
 
 It is a **professional communication performance problem**.
 
----
-
 ## Why This Happens
 
 Most professionals learned English academically.
@@ -61,8 +59,6 @@ The result?
 
 People evaluate your competence based on your communication speed, not your actual knowledge.
 
----
-
 ## What This Is (And What It Is Not)
 
 RJ Communication Lab is not an English academy.
@@ -82,8 +78,6 @@ We rehearse:
 You are not studying English.
 
 You are **training professional behaviour in English**.
-
----
 
 ## How a Session Works
 
@@ -111,8 +105,6 @@ No grammar lectures.
 No exercises.  
 Only performance improvement.
 
----
-
 ## Who This Is For
 
 This is designed for professionals who already *use* English at work:
@@ -130,8 +122,6 @@ Typical participant profile:
 > Intermediate or upper-intermediate English.  
 > Communication ability below professional competence.
 
----
-
 ## What Improves First
 
 Students usually notice changes within 3–4 sessions:
@@ -148,8 +138,6 @@ After 2–3 months:
 - better presentation delivery
 - improved professional credibility
 
----
-
 ## Format
 
 One-to-one sessions  
@@ -158,8 +146,6 @@ Online
 
 Limited number of participants to maintain quality and individual feedback.
 
----
-
 ## Why I Offer This Personally
 
 I am currently building a hybrid AI-assisted communication training system.
@@ -167,8 +153,6 @@ I am currently building a hybrid AI-assisted communication training system.
 These one-to-one sessions allow professionals to benefit immediately while the full platform is being developed.
 
 Participants now effectively become the first users of the method and receive the most direct guidance.
-
----
 
 ## Booking
 
