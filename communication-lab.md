@@ -74,7 +74,7 @@ The result?
 
 People evaluate your competence based on your communication speed, not your actual knowledge.
 
-## What This Is (And What It Is Not)
+## What This is (and What it is Not)
 
 RJ Communication Lab is not an English academy.
 
@@ -184,7 +184,7 @@ If it is not appropriate, I will tell you honestly.
 
 To request a diagnostic session:
 
-**Email:** your@email.com  
-**LinkedIn:** (your profile link)
+**Email:** me@rikkijprince.com  
+**LinkedIn:** www.linkedin.com/in/rikki-j-prince-09b8b314
 
 I respond personally to every request.
