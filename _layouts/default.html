@@ -4,9 +4,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>{{ page.title | escape }}</title>
 
-  <meta name="description" content="{{ page.description | default: 'Hybrid English 5.0 — AI-powered English fluency system for professionals.' }}">
+  <meta name="description"
+        content="{{ page.description | default: 'Hybrid English 5.0 — AI-powered English fluency system for professionals.' }}">
 
   <!-- Main Stylesheet -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -25,31 +27,29 @@
   }
   </script>
 
-  {% include navbar.html %}
   {% include book-schema.html %}
-
 </head>
 
 <body>
 
-  {% include navbar.md %}
+  {% include navbar.html %}
 
   <div class="wrapper">
 
-    {% include navbar.html %}
-
     {% if page.landing %}
-    <main class="landing-content">
-      {{ content }}
-    </main>
-    {% else %}
-    <main class="page-content">
-      <div class="page__inner-wrap">
+      <main class="landing-content">
         {{ content }}
-      </div>
-    </main>
+      </main>
+    {% else %}
+      <main class="page-content">
+        <div class="page__inner-wrap">
+          {{ content }}
+        </div>
+      </main>
     {% endif %}
+
   </div>
+
   <!-- JavaScript -->
   <script src="{{ '/js/main.js' | relative_url }}"></script>
 
