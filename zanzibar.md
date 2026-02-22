@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Anwar Zanzibar"
-decription: "Works written in collaboration between Rikki J Prince and Anwar Zanzibar."
-keywords: "Rikki J Prince, Anwar Zanzibar, romantasy, magic, magick, chaos magic, witchcraft, occult, sexual positions, sex manual,"
+decription: "Unpublished works by Anwar Zanzibar."
+keywords: "Anwar Zanzibar, romantasy, magic, magick, chaos magic, witchcraft, occult, sexual positions, sex manual,"
 permalink: /zanzibar/
 ---
 
