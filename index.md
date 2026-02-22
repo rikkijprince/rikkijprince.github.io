@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Rikki J Prince — Hybrid English"
+title: "Rikki J Prince — Welcome Page"
 description: "English language learning, advanced technology, deep contemplation, and science-fiction adventures."
 permalink: /hybrid-english/
 ---
@@ -13,11 +13,11 @@ permalink: /hybrid-english/
 
 ## Choose your path
 
-### RJ Academy of English
+### RJ Communication Lab
 
 Advanced English training for professionals working in technology, engineering, and AI-driven fields.
 
-[Explore the Academy](/rj-academy/)
+[Explore the Communication Lab](/communication-lab/)
 
 ---
 
@@ -51,7 +51,6 @@ This site exists because those pursuits belong together.
 
 ## Not sure where to begin?
 
-Hybrid English 5.0 offers the clearest introduction to how the educational and creative work on this site connects.
+Our Communication Lab offers the clearest introduction to how the educational and creative work on this site connects.
 
-[Start there](/hybrid-english-5/)
-W
+[Start there](/communication-lab/)
