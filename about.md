@@ -53,10 +53,10 @@ permalink: /about/
 ## About me, Rikki J
 <br>
 <br>
-I grew up at a crossroads of cultures, languages, and unanswered questions. Born in England, to a Pakistani-American father and a British mother, I spent part of my childhood in Pakistan, but spent most of my life between Britain, Spain and the Netherlands. 
+I grew up at a crossroads of cultures, languages, and unanswered questions. Born in England, to a British mother and a Pakistani-American father, I spent part of my childhood in Pakistan, visited the USA, but spent most of my life between Britain, Spain and the Netherlands. 
 <br>
 <br>
-Drawn early to science and its promise that the world could be decoded, I trained in physics and engineering. But equations alone could not satisfy my deeper curiosity. The mysteries of the cosmos at its grandest scale and the quantum nature at its smallest scale eventually were as attractive for me as the exploration of the invisible structures that shape human experience.
+Drawn early to science and its promise that the world could be decoded, I trained in physics and engineering. I was more of a physicist than an engineer. The mysteries of the cosmos at its grandest scale and the quantum nature at its smallest scale interested me as much as the exploration of the invisible structures that shape human experience.
 <br>
 <br>
 Today, both my publications in the philosophy of science and my fictional works stand at the intersection of science and metaphysics, probing the forces that bind us to one another - and to realities that we scarecely understand.
