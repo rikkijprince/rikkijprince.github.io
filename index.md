@@ -2,7 +2,7 @@
 layout: default
 title: "Rikki J Prince — Welcome Page"
 description: "English language learning, advanced technology, deep contemplation, and science-fiction adventures."
-permalink: /hybrid-english/
+permalink: /index/
 ---
 
 # Rikki J Prince
