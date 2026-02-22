@@ -3,6 +3,21 @@ layout: default
 title: RJ Communication Lab
 ---
 
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6', {
+    anonymize_ip: true
+  });
+</script>
+
 # RJ Communication Lab
 ### Professional Communication Training for Real Work Situations
 
