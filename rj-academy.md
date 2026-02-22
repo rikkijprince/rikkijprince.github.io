@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RJ Academy of English for the Technology Sector
+title: RJ Communication Lab
 permalink: /rj-academy/
 landing: true
 ---
@@ -8,7 +8,7 @@ landing: true
 <!-- HERO SECTION -->
 <section class="hero">
   <div class="hero-content">
-    <h1>RJ Academy of English for the Technology Sector</h1>
+    <h1>RJ RJ Communication Lab</h1>
     <p class="subtitle">Professional communication training for scientists, engineers, and technical professionals</p>
     <p class="lead">Rikki J Prince (RJ) specializes in helping technology-oriented professionals communicate fluently in English.</p>
     <p class="lead">Innstead of gramar-heavy lessons, RJ trains professionals using <b>real workplace communication</b>: emails, reports, meeetings, presentations, and technical explanations.</p>
