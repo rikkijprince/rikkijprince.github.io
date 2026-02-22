@@ -5,6 +5,21 @@ description: "English language learning, advanced technology, reflective thinkin
 permalink: /
 ---
 
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q8PEN408E6', {
+    anonymize_ip: true
+  });
+</script>
+
 # Rikki J Prince
 
 *English is no longer just a language skill.  
