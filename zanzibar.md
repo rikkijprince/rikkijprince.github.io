@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Anwar Zanzibar"
-decription: "Unpublished works by Anwar Zanzibar."
-keywords: "Anwar Zanzibar, romantasy, magic, magick, chaos magic, witchcraft, occult, sexual positions, sex manual,"
+decription: "Works by Anwar Zanzibar not yet available on this website."
+keywords: "Anwar Zanzibar, romantasy, magic, magick, chaos magic, witchcraft, occult"
 permalink: /zanzibar/
 ---
 
@@ -107,15 +107,6 @@ It combines shadow work, ceremonial magic, and personal transformation.
 - [Kobo](https://www.kobo.com/ww/en/ebook/advanced-witchcraft-training-manual)  
 - [Everand](https://www.everand.com/book/839154768/Advanced-Witchcraft-Training-Manual-Witchcraft-and-Magic-3)  
 - [Indigo](https://www.indigo.ca/en-ca/advanced-witchcraft-training-manual-witchcraft-and-magic-3/d3823816-207a-3669-b39f-f9a3a3564aae.html)
-
-### 🜔 *Behind the Moans: The Science of Pleasure*
-<img src="/assets/images/zanzibar/Behind the Moans.webp" alt="Behind the Moans: The Science of Plaeasure" style="max-width:50%; height: auto; border-radius: 8px;" loading="lazy">
-A bold, multidisciplinary exploration of the biology, psychology, and metaphysics of pleasure.  
-A collaboration between **Rikki J. Prince** and **Anwar Zanzibar**.
-
-<div class="buy-button">
-  <a href="https://www.amazon.com/-/es/Rikki-J-Prince/dp/B0FB9QK8JZ/?tag=grhamazon02-21" target="_blank" rel="nofollow sponsored noopener noreferrer">Buy on Amazon</a>
-</div>
 
 ## Coming in 2026
 
