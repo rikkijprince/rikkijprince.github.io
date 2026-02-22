@@ -187,7 +187,7 @@ books:
 
 <div class="book-card">
   <img src="/assets/images/experimental/Misterio-al-revés.webp" alt="Misterio al revés">
-  <h3>Mystery in Reverse</h3>
+  <h3>Misterio al revés</h3>
 </div>
 
 <div class="book-card">
