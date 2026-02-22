@@ -1,28 +1,31 @@
 ---
 layout: default
-title: "Rikki J Prince — Welcome Page"
-description: "English language learning, advanced technology, deep contemplation, and science-fiction adventures."
-permalink: /hybrid-english/
+title: "Rikki J Prince — Welcome"
+description: "English language learning, advanced technology, reflective thinking, and science-fiction writing."
+permalink: /
 ---
 
 # Rikki J Prince
 
-*Where English language learning, advanced technology, deep contemplation, and science-fiction adventures converge.*
+*English is no longer just a language skill.  
+It is a cognitive tool for navigating a world being reshaped by technology.*
 
----
+People come here for different reasons.  
+Some need English for demanding professional work. Others are interested in ideas, writing, and how language shapes understanding.
 
-## Choose your path
+This site brings those paths together.
+
+
+## Explore the work
 
 ### RJ Communication Lab
-
-Advanced English training for professionals working in technology, engineering, Sales & Marketing and AI-driven fields.
+Advanced English training for professionals working in technology, engineering, sales & marketing, and AI-driven fields.
 
 [Explore the Communication Lab](/communication-lab/)
 
 ---
 
 ### Hybrid English 5.0
-
 A modular approach to mastering English through cognition, narrative, and real-world application.
 
 [Discover the method](/hybrid-english/)
@@ -30,14 +33,12 @@ A modular approach to mastering English through cognition, narrative, and real-w
 ---
 
 ### Publications
-
 Fiction, experimental writing, and reflective works exploring time, memory, and perception.
 
 [Browse publications](/publications/)
 
----
 
-## Why this place exists
+## Purpose
 
 Language is never just a tool.  
 It shapes how we think, how we learn, and how we imagine possible futures.
@@ -47,10 +48,9 @@ Others come to read, reflect, or explore ideas through fiction.
 
 This site exists because those pursuits belong together.
 
----
 
 ## Not sure where to begin?
 
-Our Communication Lab offers the clearest introduction to how the educational and creative work on this site connects.
+The Communication Lab offers the clearest introduction to how the educational and creative work on this site connects.
 
-[Start there](/communication-lab/)
+[Start here](/communication-lab/)
