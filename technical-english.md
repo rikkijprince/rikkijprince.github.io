@@ -23,7 +23,7 @@ permalink: /technical-english/
 # Technical English in 2026  
 **Rikki J Prince**
 
-![Technical English in 2026 cover](/assets/images/technical-english.webp)
+![Technical English in 2026 cover](/assets/images/technical-english/technical-english.webp)
 
 ## What this book is
 
