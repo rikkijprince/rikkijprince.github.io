@@ -4,8 +4,9 @@ title: About
 decription: "Background information about the author Rikki J Prince"
 keywords: "Who is Rikki J Prince, bio Rikki J Prince"
 permalink: /about/
+_includes/navbar.md
 ---
-
+{% include navbar.md %}
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
 
