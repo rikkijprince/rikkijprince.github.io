@@ -3,21 +3,6 @@ layout: default
 title: Hybrid English 5.0
 ---
 
-<!-- Google Search Console verification -->
-<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
-
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Q8PEN408E6', {
-    anonymize_ip: true
-  });
-</script>
-
 <header class="hero">
   <div class="container">
     <h1>HYBRID ENGLISH 5.0 - Finally, an English Fluency System That Actually Works for Professionals</h1>
@@ -113,9 +98,3 @@ title: Hybrid English 5.0
     <a href="https://example.com/signup" class="cta-button">Start Free Trial</a>
   </div>
 </section>
-
-<footer>
-  <div class="container">
-     <p>&copy; {{ site.time | date: "%Y" }} Hybrid English 5.0. All rights reserved.</p>
-  </div>
-</footer>
