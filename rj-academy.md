@@ -34,8 +34,6 @@ This is not a vocabulary problem.
 
 It’s a **performance problem**.
 
----
-
 ## Train for the Situations That Actually Matter
 
 RJ Communication Lab offers structured one-to-one communication training for professionals who use English at work.
@@ -59,8 +57,6 @@ You train before the real conversation happens.
   <img src="/assets/images/Why-Scientist+Engineers-Trust-RJ.webp" alt="Why scientists and engineers trust RJ Communication Lab">
 </div>
 
----
-
 ## Who This Is For
 
 Professionals working internationally in:
@@ -77,8 +73,6 @@ If your job requires you to think, decide, and respond in English — this is fo
   <img src="/assets/images/Why-Sales-Marketing-Trust-RJ.webp" alt="Why sales and marketing professionals trust RJ Communication Lab">
 </div>
 
----
-
 ## The Goal
 
 Not “better English.”
@@ -86,8 +80,6 @@ Not “better English.”
 Clearer thinking.  
 Faster responses.  
 Stronger professional presence.
-
----
 
 ## Start Here
 
