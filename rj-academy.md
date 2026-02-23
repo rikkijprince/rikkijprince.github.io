@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Introducing RJ Communication Lab
+permalink: /rj-academy/
 ---
 
 # Introducing RJ Communication Lab
