@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Hybrid English 5.0
-
----permalink: /hybrid-english/
+permalink: /hybrid-english/
+---
 
 <header class="hero">
   <div class="container">
