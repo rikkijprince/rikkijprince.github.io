@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RJ Communication Lab
+title: Introducing RJ Communication Lab
 ---
 
 <!-- Google Search Console verification -->
@@ -18,7 +18,7 @@ title: RJ Communication Lab
   });
 </script>
 
-# RJ Communication Lab
+# Introducing RJ Communication Lab
 ### Professional Communication Training for Real Work Situations
 
 You already speak English.
