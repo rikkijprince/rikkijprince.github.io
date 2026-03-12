@@ -5,76 +5,48 @@ permalink: /hybrid-english/
 ---
 
 <header class="hero">
-  <div class="container">
-    <h1>HYBRID ENGLISH 5.0 - Finally, an English Fluency System That Actually Works for Professionals</h1>
-    <h2>[Site under construction - Expected launch: June 2026]</h2>
-    <img src="/assets/images/indexc2.jpg" alt="Professional speaking with confidence" class="hero-image">
-    <p>Stop wasting time on classes that don’t make you fluent. Experience daily guided conversation practice and expert coaching that builds real communicative confidence.</p>
-    <a href="#signup" class="cta-button">Start Your Transformation</a>
-  </div>
+<div class="container">
+
+# Hybrid English 5.0
+### Finally, an English fluency system that works for professionals
+
+<img src="/assets/images/indexc2.jpg" class="hero-image">
+
+Stop wasting time on classes that don't make you fluent.
+
+Hybrid English 5.0 combines **daily AI conversation practice** with **human coaching** to build real professional communication confidence.
+
+<a href="/signup/" class="cta-button">Start Free Trial</a>
+
+</div>
 </header>
 
-<section class="it-works">
-  <div class="container">
-    <h2>It Works</h2>
-    <div class="steps">
-      <div class="step">
-        <h3></h3>
-        <p>If you've arrived here, you already know that Hybrid English 5.0 is the best solution for your English fluency or that of your staff.</p>
+---
 
-        <p>Hybrid English 5.0  is one of the first hybrid systems of this kind, and while it is in the beta stage,</p>
+## How It Works
 
-        <p>you can enjoy a 50% discount on its standard price in exchange for giving feedback on how it could be improved.</p>
+### Daily AI Conversation Practice
+15 minutes per day with an adaptive AI conversation partner.
 
-        <p>Sign up here and get started immediately.</p>
-      </div>
-    </div>
-  </div>
-</section>
+### Weekly Human Coaching
+One weekly session with a communication mentor to analyse your progress.
 
-<section class="ai-engine">
-  <div class="container">
-    <h2>Our AI-Powered Fluency Engine</h2>
-    <p>Behind the scenes, a team of specialized AI agents works together to accelerate your English fluency — with precision impossible in traditional classes.</p>
-    <div class="agents">
-      <div class="agent">
-        <h3>Conversation Partner AI</h3>
-        <p>You will have 15 minutes' practice speaking daily, at the time of your choice, with an adaptive AI agent that keeps the conversation flowing, models natural English, and builds confidence without overcorrecting.</p>
-        <p>If you miss a class you can always recover it another day.</p>
-      </div>
+### Personalized Fluency Training
+Your exercises evolve based on your speaking performance.
 
-        <h3>Human Interaction</h3>
-        <p>Then, once a week, you will have a human feedback session, once a week, with an expert English teacher, your mentor, who will guide you and give you feedback on all the data the AI has been collecting about your progress - because the human touch is fundamental and always will be.</p>
-      </div>
-    </div>
-  </div>
-</section>
+---
 
-<section class="why-it-works">
-  <div class="container">
-    <h2>Why This Method Works</h2>
-    <ul>
-      <p><strong>Daily, realistic practice:</strong> Short, focused sessions that fit your schedule, not a classroom timetable.</p>
-      <p><strong>Automatic error correction:</strong> AI detects patterns humans miss and generates micro-drills.</p>
-      <p><strong>Professional focus:</strong> You practice exactly what you need for meetings, presentations, and negotiations.</p>
-      <p><strong>Behavioral reinforcement:</strong> Retention is engineered through habit formation and motivational nudges.</p>
-    </ul>
-  </div>
-</section>
+## Why This Works
 
-<section class="social-proof">
-  <div class="container">
-    <h2>Trusted by Professionals Worldwide</h2>
-    <p>"I’ve tried dozens of English courses. This is the first program that made me confident speaking at work." — Marketing Director, Seoul, South Korea</p>
-    <p>"The AI practice plus coaching gave me a fluency in 30 days that I didn’t get in years of traditional classes." — Product Manager, Munich, Germany</p>
-    <p>"The beta version improved my fluency and confidence much faster than any other system I have tried." — Head of IT department, Valencia, Spain</p>
-  </div>
-</section>
+- Daily speaking practice
+- AI-driven error analysis
+- Personalized exercises
+- Human coaching feedback
 
-<section id="signup" class="signup">
-  <div class="container">
-    <h2>Start Your English Fluency Journey Today</h2>
-    <p>Download it now and try it out free for 7 days</p>
-    <a href="https://example.com/signup" class="cta-button">...</a>
-  </div>
-</section>
+---
+
+## Start Your Free Trial
+
+Try Hybrid English free for 7 days.
+
+<a href="/signup/" class="cta-button">Create Your Account</a>
