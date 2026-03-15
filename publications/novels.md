@@ -2,7 +2,7 @@
 layout: default
 description: "The Sarah Mackay saga by Rikki J Prince and other sci-fi novels"
 keywords: "Rikki J Prince, Sarah Mackay, science fiction, Beijing, Vaticán, quantum supremacy, Gaza, Sudan, Arctic, student days"
-permalink: /novels/
+permalink: /publications/novels.md/
 books:
   - num: 1
     title: "Sarah Mackay’s Student Days Vol. 1"
