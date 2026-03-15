@@ -3,7 +3,7 @@ layout: default
 title: "RJP Readers"
 decription: "Graded readers fro A1 to C2 for English language learners of all levels."
 keywords: "RJP Readers, graded readers, English readers, A1, A2, B1, B2, C1, C2, lectura, lecture, lesen"
-permalink: /readers/
+permalink: /publications/readers/
 ---
 
 <!-- Google Search Console verification -->
