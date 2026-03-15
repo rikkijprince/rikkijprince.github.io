@@ -48,6 +48,17 @@
   {% include book-schema.html %}
 </head>
 
+<script>
+
+const toggle = document.getElementById("navToggle");
+const menu = document.getElementById("navMenu");
+
+toggle.addEventListener("click", () => {
+  menu.classList.toggle("show");
+});
+
+</script>
+  
 <body>
 
   {% include navbar.html %}
