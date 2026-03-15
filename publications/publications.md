@@ -62,7 +62,7 @@ permalink: /
   <b>If you are a student...</b>
   <p>
     <a href="/assets/pdf/study_guide_en.pdf" download>
-    Download my free book: "How to Overcome Any Obstacle to Studying"
+    Download "How to Overcome Any Obstacle to Studying"
     </a>
     Also available in
     <a href="/assets/pdf/study_guide_sp.pdf" download>Spanish</a>
@@ -71,7 +71,7 @@ permalink: /
   </p>
   <b>If you are an EFL student...</b> (learning English as a foreign language)...
   <br>
-  My <a href="/readers/">graded readers for English learners</a> will improve your vocabulary and comprehension skills.
+  <a href="/readers/">Graded readers for English learners</a> will improve your vocabulary and comprehension skills.
   <br>
   <b>If you study or work in a scientific or technical field ...</b> this is essential reading for you:
   <br>
