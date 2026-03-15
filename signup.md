@@ -6,28 +6,29 @@ permalink: /signup/
 
 <h1>Create Your Account</h1>
 
-<form id="signupForm">
-<input type="text" name="name" placeholder="Full Name" required>
-<input type="email" name="email" placeholder="Email" required>
-<input type="password" name="password" placeholder="Password" required>
-
-<button type="submit">Create Account</button>
-</form>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
 
 <script>
-document.getElementById("signupForm").addEventListener("submit", function(e){
 
-e.preventDefault();
+const supabase = supabase.createClient(
+"https://ernxbalkjqrlngnumsuh.supabase.co",
+"postgresql://postgres:omFwlD36wdxZBicm@db.ernxbalkjqrlngnumsuh.supabase.co:5432/postgres"
+)
 
-var data = new FormData(this);
+async function signUp(){
 
-fetch("YOUR_GOOGLE_SCRIPT_URL",{
-method:"POST",
-body:data
+const email = document.getElementById("email").value
+const password = document.getElementById("password").value
+
+const { data, error } = await supabase.auth.signUp({
+email: email,
+password: password
 })
-.then(res => res.text())
-.then(data => {
-window.location.href="/payment/";
-})
-})
+
+if(!error){
+window.location="/payment/"
+}
+
+}
+
 </script>
