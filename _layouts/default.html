@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -10,8 +11,9 @@
   <meta name="description"
         content="{{ page.description | default: 'Hybrid English 5.0 — AI-powered English fluency system for professionals.' }}">
 
-  <!-- Main Stylesheet -->
+  <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
   <!-- Structured Data -->
   <script type="application/ld+json">
@@ -20,45 +22,33 @@
     "@type": "Person",
     "name": "Rikki J Prince",
     "url": "https://www.rikkijprince.com",
-    "jobTitle": "Founder", "Author"
+    "jobTitle": ["Founder", "Author"],
     "sameAs": [
       "https://www.amazon.com/author/rikkijprince"
     ]
   }
   </script>
 
-<!-- Google Search Console verification -->
-<meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
+  <!-- Google Search Console -->
+  <meta name="google-site-verification"
+        content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
 
-<!-- SEO Description -->
-<meta name="description" content="English learning system, publications." />
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q8PEN408E6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Q8PEN408E6', {
-    anonymize_ip: true
-  });
-</script>
+    gtag('config', 'G-Q8PEN408E6', {
+      anonymize_ip: true
+    });
+  </script>
 
   {% include book-schema.html %}
+
 </head>
 
-<script>
-
-const toggle = document.getElementById("navToggle");
-const menu = document.getElementById("navMenu");
-
-toggle.addEventListener("click", () => {
-  menu.classList.toggle("show");
-});
-
-</script>
-  
 <body>
 
   {% include navbar.html %}
@@ -78,9 +68,23 @@ toggle.addEventListener("click", () => {
     {% endif %}
 
   </div>
+
   {% include footer.html %}
-  <!-- JavaScript -->
+
+  <!-- Main JS -->
   <script src="{{ '/js/main.js' | relative_url }}"></script>
+
+  <!-- Mobile Navbar Toggle -->
+  <script>
+  const toggle = document.getElementById("navToggle");
+  const menu = document.getElementById("navMenu");
+
+  if (toggle) {
+    toggle.addEventListener("click", () => {
+      menu.classList.toggle("show");
+    });
+  }
+  </script>
 
 </body>
 </html>
