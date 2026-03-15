@@ -31,6 +31,7 @@ img {
 .hero-image {
   width: 100%;
   max-width: 800px;
+  display: block;
   margin: 2rem auto;
   border-radius: 12px;
 }
