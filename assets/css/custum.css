@@ -1,0 +1,65 @@
+/* NAVBAR */
+
+.navbar {
+  max-width: 1100px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-logo {
+  font-size: 1.4rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: white;
+}
+
+/* links */
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+/* CTA */
+
+.nav-cta {
+  background: #ff9900;
+  padding: 8px 16px;
+  border-radius: 6px;
+}
+
+/* dropdown */
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  background: #111;
+  border-radius: 8px;
+  display: none;
+  flex-direction: column;
+  padding: 10px 0;
+  min-width: 200px;
+}
+
+.dropdown-menu a {
+  padding: 10px 18px;
+  white-space: nowrap;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: flex;
+}
