@@ -2,7 +2,7 @@
 layout: default
 title: "Technical English in 2026"
 description: "A practical guide to professional English for modern industry, automation, and intelligent systems."
-permalink: /technical-english/
+permalink: /publications/technical_english/
 ---
 
 <!-- Google Search Console verification -->
