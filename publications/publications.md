@@ -54,14 +54,10 @@ permalink: /
   <img src="/assets/images/publications/webb.webp" alt="Web Image 2" style="max-width: 12%; height: 12%; border-radius: 8px;">
 </div>
 
-## RJ here,
-## Welcome to my Book pages!
 
 <ul style="margin-left: 1.2em;">
   <br>
-  <b>If you like science-based literature...</b>
-  Come for a drive around and explore my short stories, novels, experimental novellas, and collaboration works.
-  <br>
+  <b>RIKKI J. PRINCE'S PUBLICATIONS</b>
   <br>
   <b>If you are a student...</b>
   <p>
