@@ -8,6 +8,7 @@ permalink: /hybrid_english/
 <div class="container">
 
 # Hybrid English 5.0
+# (Under construction - launch June 2026)
 ### Finally, an English fluency system that works for professionals
 
 <img src="/assets/images/indexc2.jpg" class="hero-image">
