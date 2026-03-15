@@ -3,7 +3,7 @@ layout: default
 title: "Anwar Zanzibar"
 decription: "Works by Anwar Zanzibar not yet available on this website."
 keywords: "Anwar Zanzibar, romantasy, magic, magick, chaos magic, witchcraft, occult"
-permalink: /zanzibar/
+permalink: /publications/zanzibar/
 ---
 
 <!-- Google Search Console verification -->
