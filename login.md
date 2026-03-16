@@ -1,3 +1,9 @@
+---
+layout: default
+title: Login
+permalink: /login/
+---
+
 async function login(){
 
 const email = document.getElementById("email").value
