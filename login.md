@@ -17,5 +17,3 @@ password: password
 if(!error){
 window.location="/app/"
 }
-
-}
