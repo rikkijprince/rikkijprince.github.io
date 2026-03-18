@@ -8,16 +8,13 @@ permalink: /start/
 <div class="container">
 
 # Hybrid English 5.0
-# (Under construction - launch June 2026)
 ### Finally, an English fluency system that works for professionals
-
+## <a href="/signup/" class="cta-button">Start Free Trial</a> 
 <img src="/assets/images/indexc2.jpg" class="hero-image">
 
 Stop wasting time on classes that don't make you fluent.
 
 Hybrid English 5.0 combines **daily AI conversation practice** with **human coaching** to build real professional communication confidence.
-
-<a href="/signup/" class="cta-button">Start Free Trial</a>
 
 </div>
 </header>
@@ -46,7 +43,7 @@ Your exercises evolve based on your speaking performance.
 
 ---
 
-## Start Your Free Trial
+## <a href="/signup/" class="cta-button">Start Your Free Trial</a> 
 
 Try Hybrid English free for 7 days.
 
