@@ -8,43 +8,32 @@ permalink: /start/
 <div class="container">
 
 # Hybrid English 5.0
-### Finally, an English fluency system that works for professionals
-## <a href="/signup/" class="cta-button">Start Free Trial</a> 
+### Fluency for professionals who already use English at work
+You know English. But in real situations...
+- you hesitate
+- you simplify
+- faster speakers dominate
+
 <img src="/assets/images/indexc2.jpg" class="hero-image">
 
-Stop wasting time on classes that don't make you fluent.
-
-Hybrid English 5.0 combines **daily AI conversation practice** with **human coaching** to build real professional communication confidence.
-
+Hybrid English 5.0 combines **daily AI conversation practice** with **human coaching** to build real professional competence in communication skills.
+## <a href="/signup/" class="cta-button">Start Free Trial</a> 
 </div>
 </header>
 
 ---
 
-## How It Works
+## How the Hybrid English Solution Works
 
-### Daily AI Conversation Practice
-15 minutes per day with an adaptive AI conversation partner.
+1. Speak daily with AI
+2. Get analysed automatically
+3. Train weak points
+4. Improve weekly with mentor
 
-### Weekly Human Coaching
-One weekly session with a communication mentor to analyse your progress.
-
-### Personalized Fluency Training
-Your exercises evolve based on your speaking performance.
-
----
-
-## Why This Works
-
-- Daily speaking practice
-- AI-driven error analysis
-- Personalized exercises
-- Human coaching feedback
-
----
+This method is producing results in weeks, rather than months, in months rather than years.
 
 ## <a href="/signup/" class="cta-button">Start Your Free Trial</a> 
 
-Try Hybrid English free for 7 days.
+Try Hybrid English 5.0 free for 7 days.
 
 <a href="/signup/" class="cta-button">Create Your Account</a> 
