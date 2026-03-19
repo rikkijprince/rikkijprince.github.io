@@ -34,7 +34,7 @@ permalink: /start/
 
 ## How It Works
 
-1 - Speak daily with AI  
+1 - Speak daily with AI    
 2 - Get automatic analysis  
 3 - Train your weak points  
 4 - Improve weekly with a mentor  
