@@ -5,6 +5,9 @@
 .site-header {
   width: 100%;
   background: #111;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .navbar {
@@ -23,6 +26,19 @@
   font-weight: 600;
   text-decoration: none;
   color: white;
+}
+
+.logo-container {
+  padding: 12px 0 6px 0;
+  text-align: center;
+}
+
+.logo {
+  width: 140px;
+  max-width: 140px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Links */
