@@ -35,6 +35,39 @@ img {
   margin: 2rem auto;
   border-radius: 12px;
 }
+
+/* HEADER LAYOUT */
+.site-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* LOGO */
+.logo-container {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.logo {
+  max-width: 160px;
+  height: auto;
+}
+
+/* NAVBAR */
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+/* NAV LINKS */
+.nav-links {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
 /* =========================
    Book Grid System
 ========================= */
