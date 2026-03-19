@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: /hybrid-english/
+redirect_to: /start/
 ---
