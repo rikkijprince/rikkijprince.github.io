@@ -48,5 +48,3 @@ This system delivers results in **weeks, not months**.
 Try Hybrid English 5.0 free for 7 days.
 
 <a href="/signup/" class="cta-button">Create Your Account</a>
-
-<a href="/signup/" class="cta-button">Create Your Account</a> 
