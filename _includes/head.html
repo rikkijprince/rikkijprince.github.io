@@ -1,4 +1,37 @@
+<header class="site-header">
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  <!-- Logo (separate row) -->
+  <div class="logo-container">
+    <a href="/start/">
+      <img src="/assets/images/Hybrid_English_logo.webp" alt="Hybrid English logo" class="logo">
+    </a>
+  </div>
 
+  <!-- Navigation -->
+  <nav class="navbar">
+
+    <button class="nav-toggle" id="navToggle">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </button>
+
+    <div class="nav-links" id="navMenu">
+
+      <a href="/start/">Hybrid English</a>
+
+      <div class="dropdown">
+        <a href="/publications/">Publications ▾</a>
+        <div class="dropdown-menu">
+          <a href="/publications/technical-english/">Technical English</a>
+        </div>
+      </div>
+
+      <a href="/login/">Login</a>
+      <a href="/signup/" class="nav-cta">Signup</a>
+
+    </div>
+
+  </nav>
+
+</header>
