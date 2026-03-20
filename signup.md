@@ -1,13 +1,9 @@
 ---
 layout: default
 title: Sign Up
+decription: "Sign up to Hybrid English 5.0"
+keywords: "subscribe, signup, Hybrid English"
 permalink: /signup/
----
-layout: default
-title: Login
-decription: "Log in to Hybrid English 5.0"
-keywords: "login,, Hybrid English"
-permalink: /login/
 ---
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
