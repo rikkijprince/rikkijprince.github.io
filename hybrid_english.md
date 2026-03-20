@@ -60,7 +60,7 @@ Hybrid English 5.0 combines **daily AI conversation practice** with **human coac
 15 minutes per day with an adaptive AI conversation partner.
 
 ### Weekly Human Coaching
-One weekly session with a communication mentor to analyse your progress.
+One weekly session with a fluency coach to give you feedback on your progress and resolve your doubts.
 
 ### Personalized Fluency Training
 Your exercises evolve based on your speaking performance.
