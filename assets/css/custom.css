@@ -33,13 +33,14 @@
 }
 
 .logo-container {
-  padding: 0;          /* was adding vertical spacing for the "logo row" */
+  padding: 0;
   text-align: left;
 }
 
 .logo {
-  margin: 0;           /* remove auto-centering */
+  width: min(500px, 100%);
   height: auto;
+  margin: 0;
 }
 
 /* Links */
