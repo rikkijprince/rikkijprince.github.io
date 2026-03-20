@@ -10,10 +10,13 @@ permalink: /signup/
 
 <script>
 
-const supabase = supabase.createClient(
-"https://ernxbalkjqrlngnumsuh.supabase.co",
-"postgresql://postgres:omFwlD36wdxZBicm@db.ernxbalkjqrlngnumsuh.supabase.co:5432/postgres"
-)
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+  const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
+  const SUPABASE_ANON_KEY = "sb_publishable_3G9E1jSXWZzEaEtKeIU6Sg_sxOKiTTB";
+
+  const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+</script>
 
 async function signUp(){
 
