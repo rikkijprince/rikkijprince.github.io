@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Login
-decription: "Log into Hybrid English 5.0"
+description: "Log into Hybrid English 5.0"
 keywords: "login, Hybrid English"
 permalink: /login/
 ---
