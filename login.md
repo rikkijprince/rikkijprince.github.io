@@ -2,7 +2,7 @@
 layout: default
 title: Login
 decription: "Log into Hybrid English 5.0
-keywords: "login, lHybrid English"
+keywords: "login, Hybrid English"
 permalink: /login/
 ---
 <!-- Google Search Console verification -->
