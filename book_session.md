@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Book Live Session
-decription: "Book a 30-minute session with a fluency coach"
+description: "Book a 30-minute session with a fluency coach"
 keywords: "booking, live, session, tutor, teacher, mentor, coach"
 permalink: /book_session/
 ---
@@ -33,7 +33,6 @@ permalink: /book_session/
   gtag('config', 'G-Q8PEN408E6');
 </script>
 
-![Rikki J Prince](/assets/images/Family profile.webp){:style="max-width:200px;border-radius:50%;"}
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget"
