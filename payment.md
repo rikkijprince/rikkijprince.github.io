@@ -18,7 +18,7 @@ permalink: /payment/
   "url": "https://www.rikkijprince.com",
   "sameAs": [
     "https://www.amazon.com/author/rikkijprince",
-    "https://twitter.com/YOURPROFILE](https://linkedin.com/in/rikki-jaffar-prince-53a5a729)"
+    "https://linkedin.com/in/rikki-jaffar-prince-53a5a729"
   ]
 }
 </script>
@@ -69,9 +69,11 @@ permalink: /payment/
 
 <p>
   You have <strong>7 days</strong> to try Hybrid English 5.0 for free.
-  
+</p>
+<p>
   After your trial, you’ll be charged <strong>$12.99/month</strong> to continue enhancing your fluency.
-  
+ </p>
+<p> 
   You can <strong>cancel at anytime</strong>.
 </p>
 
@@ -80,7 +82,8 @@ permalink: /payment/
 <h2>Book a 1:1 Session</h2>
 <p>
   You can book your first 30-minute session with your personal fluency coach using the link below.
-  
+ </p>
+<p> 
   Later bookings will be charged at <strong>$25</strong> per session.
 </p>
 
@@ -88,7 +91,7 @@ permalink: /payment/
   <a class="cta-button" href="https://calendly.com/rjpbusiness/30min" target="_blank" rel="noopener">
     Book a session
     
-    (If this is your first session, $25 will be reimbused from your second session.)
+    (If this is your first session, $25 will be reimbursed on your second session.)
   </a>
 </p>
 
