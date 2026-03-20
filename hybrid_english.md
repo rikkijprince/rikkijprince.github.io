@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hybrid English 5.0
-decription: "Hybrid English 5.0 landing page"
+description: "Hybrid English 5.0 landing page"
 keywords: "subscribe, signup, Hybrid English, English fluency enhancer, fluency trainer"
 permalink: /hybrid_english/
 ---
@@ -33,7 +33,7 @@ permalink: /hybrid_english/
   gtag('config', 'G-Q8PEN408E6');
 </script>
 
-![Rikki J Prince](/assets/images/Family profile.webp){:style="max-width:200px;border-radius:50%;"}
+
 <header class="hero">
 <div class="container">
 
