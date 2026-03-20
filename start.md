@@ -32,14 +32,18 @@ permalink: /start/
 
 ---
 
-## How It Works
+<h2 id="how-it-works">How It Works</h2>
 
-1 - Speak daily with AI    
-2 - Get automatic analysis  
-3 - Train your weak points  
-4 - Improve weekly with a mentor  
+<div class="how-it-works">
+  <ol>
+    <li>Speak daily with AI</li>
+    <li>Get automatic analysis</li>
+    <li>Train your weak points</li>
+    <li>Improve weekly with a mentor</li>
+  </ol>
+</div>
 
-This system delivers results in **weeks, not months**.
+<p>This system delivers results in <strong>weeks, not months</strong>.</p>
 
 ---
 
