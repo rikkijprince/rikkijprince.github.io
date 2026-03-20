@@ -1,13 +1,15 @@
 <header class="site-header">
 
-  <!-- Navigation row -->
   <nav class="navbar">
-  <div class="logo-container">
-    <a href="/start/">
-      <img src="{{ '/assets/images/Hybrid_English_longo.webp' | relative_url }}" 
-           alt="Hybrid English logo" 
-           class="logo">
-    </a>
+
+    <div class="logo-container">
+      <a href="{{ '/start/' | relative_url }}">
+        <img src="{{ '/assets/images/Hybrid_English_longo.webp' | relative_url }}"
+             alt="Hybrid English logo"
+             class="logo">
+      </a>
+    </div>
+
     <button class="nav-toggle" id="navToggle">
       <span class="bar"></span>
       <span class="bar"></span>
@@ -15,10 +17,10 @@
     </button>
 
     <div class="nav-links" id="navMenu">
-      <a href="/start/">How It Works</a>
-      <a href="/technical-english/">Book</a>
-      <a href="/login/">Login</a>
-      <a href="/signup/" class="nav-cta">Start Free Trial</a>
+      <a href="{{ '/start/' | relative_url }}">How It Works</a>
+      <a href="{{ '/technical-english/' | relative_url }}">Book</a>
+      <a href="{{ '/login/' | relative_url }}">Login</a>
+      <a href="{{ '/signup/' | relative_url }}" class="nav-cta">Start Free Trial</a>
     </div>
 
   </nav>
