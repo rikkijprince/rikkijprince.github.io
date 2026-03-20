@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Payment
-decription: "SProcess payments to Hybrid English 5.0"
+description: "SProcess payments to Hybrid English 5.0"
 keywords: "process payments, Hybrid English"
 permalink: /payment/
 ---
@@ -33,7 +33,6 @@ permalink: /payment/
   gtag('config', 'G-Q8PEN408E6');
 </script>
 
-![Rikki J Prince](/assets/images/Family profile.webp){:style="max-width:200px;border-radius:50%;"}
 
 <h1>Start Your Free Trial</h1>
 
