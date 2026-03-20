@@ -4,7 +4,7 @@ title: Login
 decription: "Log into Hybrid English 5.0"
 keywords: "login, Hybrid English"
 permalink: /login/
-
+---
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="9DOZpcg5hHHOQJJdTX8Qtb0kxCDqbQHfnVktEjjZdO4" />
 
@@ -34,7 +34,7 @@ permalink: /login/
 </script>
 
 ![Rikki J Prince](/assets/images/Family profile.webp){:style="max-width:200px;border-radius:50%;"}
----
+
 async function login(){
 
 const email = document.getElementById("email").value
