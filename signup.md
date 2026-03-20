@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sign Up
-decription: "Sign up to Hybrid English 5.0"
+description: "Sign up to Hybrid English 5.0"
 keywords: "subscribe, signup, Hybrid English"
 permalink: /signup/
 ---
