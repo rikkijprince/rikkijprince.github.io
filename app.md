@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hybrid English 5.0 App
-decription: "English fluency App: Hybrid English 5.0, fluency trainer"
+description: "English fluency App: Hybrid English 5.0, fluency trainer"
 keywords: "Hybrid English, app"
 permalink: /app/
 ---
@@ -33,7 +33,6 @@ permalink: /app/
   gtag('config', 'G-Q8PEN408E6');
 </script>
 
-![Rikki J Prince](/assets/images/Family profile.webp){:style="max-width:200px;border-radius:50%;"}
 
 const { data: { user } } = await supabaseClient.auth.getUser()
 
