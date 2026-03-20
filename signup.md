@@ -33,7 +33,6 @@ permalink: /signup/
   gtag('config', 'G-Q8PEN408E6');
 </script>
 
-![Rikki J Prince](/assets/images/Family profile.webp){:style="max-width:200px;border-radius:50%;"}
 
 <h1>Create Your Account</h1>
 
