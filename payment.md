@@ -33,7 +33,38 @@ permalink: /payment/
   gtag('config', 'G-Q8PEN408E6');
 </script>
 
+<p id="authStatus"></p>
+<button id="logoutBtn" class="cta-button" style="display:none;">Log out</button>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+  const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
+  const SUPABASE_ANON_KEY = "YOUR_ANON_KEY";
+  const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+  async function refreshAuthUI() {
+    const { data } = await supabaseClient.auth.getUser();
+    const user = data?.user;
+
+    const status = document.getElementById("authStatus");
+    const btn = document.getElementById("logoutBtn");
+
+    if (user) {
+      status.textContent = `Logged in as ${user.email}`;
+      btn.style.display = "inline-block";
+    } else {
+      status.textContent = "Not logged in.";
+      btn.style.display = "none";
+    }
+  }
+
+  document.getElementById("logoutBtn").addEventListener("click", async () => {
+    await supabaseClient.auth.signOut();
+    window.location.href = "{{ '/login/' | relative_url }}";
+  });
+
+  refreshAuthUI();
+</script>
 <h1>Start Your Free Trial</h1>
 
 <p>
