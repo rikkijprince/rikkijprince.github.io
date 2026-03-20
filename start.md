@@ -67,7 +67,7 @@ permalink: /start/
     <li>Speak daily with AI</li>
     <li>Get automatic analysis</li>
     <li>Train your weak points</li>
-    <li>Improve weekly with your fluency coach</li>
+    <li>Improve weekly with a real live fluency coach</li>
   </ol>
 </div>
 
