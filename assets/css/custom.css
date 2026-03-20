@@ -33,16 +33,13 @@
 }
 
 .logo-container {
-  padding: 12px 0 6px 0;
-  text-align: center;
+  padding: 0;          /* was adding vertical spacing for the "logo row" */
+  text-align: left;
 }
 
 .logo {
-  width: 1000px;
-  max-width: 140px;
+  margin: 0;           /* remove auto-centering */
   height: auto;
-  display: block;
-  margin: 0 auto;
 }
 
 /* Links */
