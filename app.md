@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hybrid English 5.0 App
-decription: "English fluency App: Hybrid English 5.0"
+decription: "English fluency App: Hybrid English 5.0, fluency trainer"
 keywords: "Hybrid English, app"
 permalink: /app/
 ---
