@@ -38,7 +38,7 @@
 }
 
 .logo {
-  width: min(200px, 100%);
+  width: min(100px, 100%);
   height: auto;
   margin: 0;
 }
