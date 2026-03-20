@@ -18,7 +18,7 @@ permalink: /hybrid_english/
   "url": "https://www.rikkijprince.com",
   "sameAs": [
     "https://www.amazon.com/author/rikkijprince",
-    "https://twitter.com/YOURPROFILE"
+    "https://linkedin.com/in/rikki-jaffar-prince-53a5a729"
   ]
 }
 </script>
