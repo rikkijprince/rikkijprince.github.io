@@ -18,7 +18,7 @@ permalink: /signup/
   "url": "https://www.rikkijprince.com",
   "sameAs": [
     "https://www.amazon.com/author/rikkijprince",
-    "https://linkedin.com/in/rikki-jaffar-prince-53a5a729""
+    "https://linkedin.com/in/rikki-jaffar-prince-53a5a729"
   ]
 }
 </script>
