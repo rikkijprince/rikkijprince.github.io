@@ -34,9 +34,7 @@ permalink: /about/
 </script>
 
 
-![Rikki J Prince](/assets/images/Family profile.webp){:style="max-width:200px;border-radius:50%;"}
-
-## About me, Rikki J
+## About me, RJ
 <br>
 <br>
 I grew up at a crossroads of cultures, languages, and unanswered questions. Born in England, to a British mother and a Pakistani-American father, I spent part of my childhood in Pakistan, visited the USA, but spent most of my life between Britain, Spain and the Netherlands. 
