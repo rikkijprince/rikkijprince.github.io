@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Login
-decription: "Book a 30-minute session with a fluency coach"
-keywords: "booking, live, session, tutor, teacher, mentor, coach"
+decription: "Log into Hybrid English 5.0
+keywords: "login, lHybrid English"
 permalink: /login/
 ---
 <!-- Google Search Console verification -->
