@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Rikki J Prince English learning 5.0"
+title: "Hybrid English 5.0"
 email: me@rikkijprince.com
 layout: landing
 description: AI-powered English fluency for professionals
 baseurl: ""
-url: "https://rikkijprince.com.github.io"
+url: "https://rikkijprince.com"
 theme: minima
-# previous theme: jekyll-theme-primer   # ✅ Use GitHub-supported theme
 
 plugins:
   - jekyll-feed
@@ -33,14 +32,11 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - bookpages.md
+  - hybrid_english.md
   - about.md
-  - novels.md
-  - stories.md
-  - experimental.md
-  - zanzibar.md
-  - readers.md
-  - other.md
+  - login.md
+  - signup.md
+  - app.md
 
 # Example navigation links
 nav:
@@ -48,18 +44,12 @@ nav:
     url: /
   - title: "About"
     url: /about/
-  - title: "Novels"
-    url: /novels/
-  - title: "Short Stories"
-    url: /stories/
-  - title: "Experimental Works"
-    url: /experimental/
-  - title: "Anwar Zanzibar"
-    url: /zanzibar/
-  - title: "RJP Readers"
-    url: /readers/
-  - title: "Other Language Editions"
-    url: /other/
+  - title: "Sign up"
+    url: /signup/
+  - title: "Log in"
+    url: /login/
+  - title: "App"
+    url: /app/
 
 repository: rikkijprince/rikkijprince.github.io
 
