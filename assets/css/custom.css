@@ -1,7 +1,8 @@
-/* Never render JSON-LD scripts as visible text */
+/* Prevent JSON-LD structured data from showing on the page */
 script[type="application/ld+json"] {
   display: none !important;
 }
+
 
 /* =========================
    NAVBAR
