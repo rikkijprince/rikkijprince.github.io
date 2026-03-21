@@ -28,7 +28,13 @@ permalink: /signup/
   const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
   async function signUp(email, password) {
-    return await supabaseClient.auth.signUp({ email, password });
+    return await supabaseClient.auth.signUp({
+  email,
+  password,
+  options: {
+    emailRedirectTo: "https://rikkijprince.com/login/"
+    }
+  });
   }
 
   document.getElementById("signupForm").addEventListener("submit", async (e) => {
