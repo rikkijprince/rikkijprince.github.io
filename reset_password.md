@@ -1,4 +1,4 @@
-reset_password.md
+# reset_password.md
 ---
 layout: default
 title: Reset Password
