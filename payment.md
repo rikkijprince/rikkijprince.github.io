@@ -71,7 +71,7 @@ permalink: /payment/
   You have <strong>7 days</strong> to try Hybrid English 5.0 for free.
 </p>
 <p>
-  After your trial, you’ll be charged <strong>$12.99/month</strong> to continue enhancing your fluency.
+  After your trial, you’ll be charged <strong>€12.99/month</strong> to continue enhancing your fluency.
  </p>
 <p> 
   You can <strong>cancel at anytime</strong>.
@@ -91,7 +91,7 @@ permalink: /payment/
   <a class="cta-button" href="https://calendly.com/rjpbusiness/30min" target="_blank" rel="noopener">
     Book a session
     
-    (If this is your first session, $25 will be reimbursed on your second session.)
+    (If this is your first session, €25 will be reimbursed on your second session.)
   </a>
 </p>
 
