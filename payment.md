@@ -84,7 +84,7 @@ permalink: /payment/
   You can book your first 30-minute session with your personal fluency coach using the link below.
  </p>
 <p> 
-  The fee is <strong€25</strong> per session.
+  Your personal fluency coach sessions are <strong€25</strong> per session.
 </p>
 
 <p>
