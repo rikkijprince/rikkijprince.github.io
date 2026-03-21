@@ -51,4 +51,4 @@ permalink: /start/
 
 Try Hybrid English 5.0 free for 7 days.
 
-<a href="/signup/" class="cta-button">Create Your Account</a>
+<a href="{{ '/signup/' | relative_url }}" class="cta-button">Start Free Trial</a>
