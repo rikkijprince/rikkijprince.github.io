@@ -60,7 +60,7 @@ permalink: /payment/
 
   document.getElementById("logoutBtn").addEventListener("click", async () => {
     await supabaseClient.auth.signOut();
-    window.location.href = "{{ '/login/' | relative_url }}";
+    window.location.href = "{{'/login/' | relative_url}}";
   });
 
   refreshAuthUI();
@@ -84,17 +84,11 @@ permalink: /payment/
   You can book your first 30-minute session with your personal fluency coach using the link below.
  </p>
 <p> 
-  Your personal fluency coach sessions are <strong€25</strong> per session.
+  Your personal fluency coach sessions are <strong>€25</strong> per session.
 </p>
 
 <p>
-  <a class="cta-button" href="https://calendly.com/rjpbusiness/30min" target="_blank" rel="noopener">
-    Book your first session now.
+  <a class="cta-button" href={{'/book_session/ | relative_url}}">
+    Check availability & pay to book (€25).
   </a>
 </p>
-
-<h3>Schedule Inline</h3>
-<div class="calendly-inline-widget"
-     data-url="https://calendly.com/rjpbusiness/30min"
-     style="min-width:320px;height:800px;"></div>
-<script src="https://assets.calendly.com/assets/external/widget.js" async></script>
