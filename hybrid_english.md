@@ -24,8 +24,6 @@ Hybrid English 5.0 combines **daily AI conversation practice** with **human coac
 </div>
 </header>
 
----
-
 ## How It Works
 
 ### Daily AI Conversation Practice
@@ -37,16 +35,12 @@ One weekly session with a fluency coach to give you feedback on your progress an
 ### Personalized Fluency Training
 Your exercises evolve based on your speaking performance.
 
----
-
 ## Why This Works
 
 - Daily speaking practice
 - AI-driven error analysis
 - Personalized exercises
 - Human coaching feedback
-
----
 
 ## Start Your Free Trial
 
