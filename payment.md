@@ -1,3 +1,4 @@
+# /payment.md
 ---
 layout: default
 title: Payment
@@ -45,23 +46,36 @@ permalink: /payment/
 </p>
 <p>
   After your trial, you’ll be charged <strong>€12.95/month</strong> to continue enhancing your fluency.
- </p>
+</p>
 <p> 
   You can <strong>cancel at anytime</strong>.
 </p>
 
 <hr />
 
-<h2>Book a 1:1 Session</h2>
+<h2>Book a One-to-One Session</h2>
+
 <p>
-  You can book your first 30-minute session with your personal fluency coach using the link below.
- </p>
-<p> 
-  Your personal fluency coach sessions are <strong>€25</strong> per session.
+  You can book your first 30-minute one-to-one session by following these 3 steps:
 </p>
 
 <p>
-  <a class="cta-button" href={{'/book_session/ | relative_url}}">
-    Check availability & pay to book (€25).
+  1) 
+  <a class="cta-button" href="{{ '/book_session/' | relative_url }}">
+    Check availability
+  </a>
+</p>
+
+<p>
+  2) 
+  <a class="cta-button" href="{{ '/payment/' | relative_url }}">
+    Make payment (€25)
+  </a>
+</p>
+
+<p> 
+  3) 
+  <a class="cta-button" href="{{ '/book_session/' | relative_url }}">
+    Book your session
   </a>
 </p>
