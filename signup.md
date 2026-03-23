@@ -9,6 +9,15 @@ permalink: /signup/
 <h1>Create Your Account</h1>
 
 <form id="signupForm">
+  <label for="name">Name</label><br />
+  <input id="name" name="name" type="name" autocomplete="name" required /><br /><br />
+
+  <label for="country">Country</label><br />
+  <input id="country" name="country" type="country" autocomplete="country" required /><br /><br />
+
+  <label for="phone">Phone</label><br />
+  <input id="phone" name="phone" type="phone" autocomplete="phone" required /><br /><br />
+
   <label for="email">Email</label><br />
   <input id="email" name="email" type="email" autocomplete="email" required /><br /><br />
 
