@@ -39,7 +39,7 @@ permalink: /start/
     <li>Speak daily with AI</li>
     <li>Get automatic analysis</li>
     <li>Train your weak points</li>
-    <li>Get feedback in a weekly 1-to-1 live sessions</li>
+    <li>Weekly 1-to-1 live sessions</li>
   </ol>
 </div>
 
