@@ -29,6 +29,9 @@ permalink: /signup/
 
   async function signUp(email, password) {
     return await supabaseClient.auth.signUp({
+  name,
+  country,
+  phone,
   email,
   password,
   options: {
