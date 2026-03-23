@@ -39,7 +39,7 @@ permalink: /start/
     <li>Speak daily with AI</li>
     <li>Get automatic analysis</li>
     <li>Train your weak points</li>
-    <li>Improve weekly with a real live fluency coach</li>
+    <li>Get feedback in a weekly 1-to-1 live session</li>
   </ol>
 </div>
 
