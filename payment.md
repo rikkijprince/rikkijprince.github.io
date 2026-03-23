@@ -56,26 +56,33 @@ permalink: /payment/
 <h2>Book a One-to-One Session</h2>
 
 <p>
-  You can book your first 30-minute one-to-one session by following these 3 steps:
+  Get your first 30-minute session for <strong>€25</strong>.
 </p>
 
 <p>
-  1) 
+  <strong>Step 1:</strong> Check available times
+</p>
+
+<p>
   <a class="cta-button" href="{{ '/book_session/' | relative_url }}">
-    Check availability
+    View Available Slots
   </a>
 </p>
 
 <p>
-  2) 
+  <strong>Step 2:</strong> Secure your session
+</p>
+
+<p>
   <a class="cta-button" href="{{ '/payment/' | relative_url }}">
-    Make payment (€25)
+    Pay €25
   </a>
 </p>
 
-<p> 
-  3) 
-  <a class="cta-button" href="{{ '/book_session/' | relative_url }}">
-    Book your session
-  </a>
+<p>
+  <strong>Step 3:</strong> Confirm your booking
+</p>
+
+<p>
+  After payment, return here and book your time.
 </p>
