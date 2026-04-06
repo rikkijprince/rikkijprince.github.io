@@ -135,4 +135,13 @@ def stripe_webhook():
                 })
 
     return jsonify({"status": "success"})
+
+# Admin dashboard
+@app.route("/api/all_users", methods=["GET"])
+def get_all_users():
+    if request.headers.get("x-api-key") != API_KEY:
+        return jsonify({"error": "Unauthorized"}), 403
+
+    data = load_users()
+    return jsonify(data)
 ```
