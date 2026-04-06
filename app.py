@@ -7,7 +7,7 @@ import stripe
 
 app = Flask(__name__)
 
-# 🔐 CONFIG
+# CONFIG
 STRIPE_SECRET_KEY = "sk_live_..."
 STRIPE_WEBHOOK_SECRET = "whsec_..."
 
@@ -115,7 +115,7 @@ def stripe_webhook():
     except Exception as e:
         return str(e), 400
 
-    # ✅ PAYMENT SUCCESS
+    # PAYMENT SUCCESS
     if event["type"] == "checkout.session.completed":
         session = event["data"]["object"]
 
