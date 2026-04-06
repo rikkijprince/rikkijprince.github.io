@@ -1,0 +1,168 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Admin Dashboard</title>
+
+<style>
+body {
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.controls {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+select {
+    padding: 8px;
+    border-radius: 6px;
+    border: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #1e293b;
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid #334155;
+    text-align: left;
+}
+
+th {
+    background: #020617;
+}
+
+tr:hover {
+    background: #334155;
+}
+
+.badge {
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+
+.basic_free { background: gray; }
+.basic_paid { background: orange; }
+.full_paid { background: green; }
+.none { background: red; }
+
+</style>
+
+</head>
+<body>
+
+<h1>📊 Hybrid English Admin Dashboard</h1>
+
+<div class="controls">
+    Filter:
+    <select id="statusFilter" onchange="filterUsers()">
+        <option value="all">All</option>
+        <option value="basic_free">Basic Free</option>
+        <option value="basic_paid">Basic Paid</option>
+        <option value="full_paid">Full Paid</option>
+        <option value="none">Inactive</option>
+    </select>
+</div>
+
+<table id="usersTable">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Signup Date</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+<script>
+
+const API_URL = "https://rikkijprince.com/api/all_users";
+const API_KEY = "my_super_secret_key";
+
+let users = [];
+
+async function loadUsers() {
+    const response = await fetch(API_URL, {
+        headers: {
+            "x-api-key": API_KEY
+        }
+    });
+
+    const data = await response.json();
+    users = data.users;
+    renderUsers(users);
+}
+
+function renderUsers(data) {
+    const tbody = document.querySelector("#usersTable tbody");
+    tbody.innerHTML = "";
+
+    data.forEach(user => {
+        const row = `
+            <tr>
+                <td>${user.username}</td>
+                <td>${user.email}</td>
+                <td>${user.phone || ""}</td>
+                <td>${user.signup_date}</td>
+                <td><span class="badge ${user.status}">${user.status}</span></td>
+            </tr>
+        `;
+        tbody.innerHTML += row;
+    });
+}
+
+function filterUsers() {
+    const filter = document.getElementById("statusFilter").value;
+
+    if (filter === "all") {
+        renderUsers(users);
+    } else {
+        const filtered = users.filter(u => u.status === filter);
+        renderUsers(filtered);
+    }
+}
+
+loadUsers();
+
+</script>
+
+</body>
+</html>
+```
+
+from functools import wraps
+from flask import request, Response
+
+def require_auth(f):
+    @wraps(f)
+    def decorated(*args, **kwargs):
+        auth = request.authorization
+        if not auth or auth.username != "admin" or auth.password != "yourpassword":
+            return Response("Login required", 401,
+                            {'WWW-Authenticate': 'Basic realm="Login Required"'})
+        return f(*args, **kwargs)
+    return decorated
+
+
+@app.route("/admin")
+@require_auth
+def admin_page():
+    return open("admin.html").read()
+    
