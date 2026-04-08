@@ -1,4 +1,5 @@
 from flask import Flask, request, Response, render_template
+from functools import wraps
 
 # admin_server.py
 
@@ -24,6 +25,7 @@ def authenticate():
 
 
 def requires_auth(f):
+    @wraps(f)
     def decorated(*args, **kwargs):
         auth = request.authorization
         if not auth or not check_auth(auth.username, auth.password):
