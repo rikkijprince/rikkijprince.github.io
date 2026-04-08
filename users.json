@@ -5,8 +5,9 @@
       "username": "rikki",
       "email": "rikkilupe@gmail.com",
       "phone": "+346932882067",
-      "signup_date": "2026-04-06",
       "status": "family",
+      "signup_date": "2026-04-01",
+      "trial_end": null
       "upgrade_basic_price": null,
       "upgrade_full_price": null,
       "stripe_customer_id": null,
@@ -18,8 +19,9 @@
       "username": "lupe",
       "email": "rikkilupe@gmail.com",
       "phone": "+34619949826",
-      "signup_date": "2026-04-06",
       "status": "family",
+      "signup_date": "2026-04-02",
+      "trial_end": null
       "upgrade_basic_price": null,
       "upgrade_full_price": null,
       "stripe_customer_id": null,
@@ -31,8 +33,9 @@
       "username": "sf",
       "email": "rikkilupe@gmail.com",
       "phone": "+34123456789",
-      "signup_date": "2026-04-06",
       "status": "family",
+      "signup_date": "2026-04-03",
+      "trial_end": null
       "upgrade_basic_price": null,
       "upgrade_full_price": null,
       "stripe_customer_id": null,
