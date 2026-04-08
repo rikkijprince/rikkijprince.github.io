@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hybrid English Admin Dashboard</title>
+  <style>
+    body { font-family: Arial; padding: 20px; background: #111; color: #eee; }
+    h1 { color: #00ffcc; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { padding: 10px; border-bottom: 1px solid #333; }
+    select, button { padding: 5px; }
+    button { background: #00ffcc; border: none; cursor: pointer; }
+  </style>
+</head>
+
+<body>
+
+<h1>⚡ Hybrid English Admin Dashboard</h1>
+
+<input type="text" id="search" placeholder="Search user..." onkeyup="filterUsers()" />
+
+<table id="userTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Status</th>
+      <th>Plan</th>
+      <th>Stripe ID</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<script>
+
+async function loadUsers() {
+  const res = await fetch("http://localhost:5001/admin/users");
+  const users = await res.json();
+
+  const tbody = document.querySelector("#userTable tbody");
+  tbody.innerHTML = "";
+
+  users.forEach(user => {
+    const row = document.createElement("tr");
+
+    row.innerHTML = `
+      <td>${user.username}</td>
+      <td>${user.email}</td>
+      <td>
+        <select id="status-${user.username}">
+          ${["trial","active","paused","family","none"].map(s =>
+            `<option ${user.status===s?"selected":""}>${s}</option>`
+          ).join("")}
+        </select>
+      </td>
+      <td>${user.plan || ""}</td>
+      <td>${user.stripe_subscription_id || ""}</td>
+      <td><button onclick="updateUser('${user.username}')">Save</button></td>
+    `;
+
+    tbody.appendChild(row);
+  });
+}
+
+async function updateUser(username) {
+  const status = document.getElementById(`status-${username}`).value;
+
+  await fetch("http://localhost:5001/admin/update", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ username, status })
+  });
+
+  alert("Updated!");
+}
+
+function filterUsers() {
+  const input = document.getElementById("search").value.toLowerCase();
+  const rows = document.querySelectorAll("#userTable tbody tr");
+
+  rows.forEach(row => {
+    const name = row.children[0].innerText.toLowerCase();
+    row.style.display = name.includes(input) ? "" : "none";
+  });
+}
+
+loadUsers();
+
+</script>
+
+</body>
+</html>
