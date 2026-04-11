@@ -48,8 +48,4 @@ permalink: /start/
 
 ---
 
-## Start Now
-
-Try Hybrid English 5.0 free for 7 days.
-
-<a href="{{ '/more_info.html/' | relative_url }}" class="cta-button">More information</a>
+<a href="{{ '/more_info.md/' | relative_url }}" class="cta-button">More information</a>
