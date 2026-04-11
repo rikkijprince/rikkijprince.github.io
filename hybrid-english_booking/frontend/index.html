@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book a Fluency Coaching Session</title>
+</head>
+<body>
+    <h1>Book a Session</h1>
+
+    <form id="booking-form">
+        <input type="text" id="full_name" placeholder="Full Name" required><br><br>
+        <input type="email" id="email" placeholder="Email" required><br><br>
+        <input type="text" id="phone" placeholder="Phone"><br><br>
+
+        <label>Select a Time Slot:</label><br>
+        <select id="slot" required></select><br><br>
+
+        <button type="submit">Book and Pay</button>
+    </form>
+
+    <script>
+        const API_BASE = "http://localhost:8000"; // Change to your domain in production
+
+        // Load available slots
+        async function loadSlots() {
+            const response = await fetch(`${API_BASE}/slots`);
+            const slots = await response.json();
+
+            const select = document.getElementById("slot");
+            slots.forEach(slot => {
+                const option = document.createElement("option");
+                option.value = slot.datetime;
+                option.textContent = slot.display;
+                select.appendChild(option);
+            });
+        }
+
+        // Submit booking
+        document.getElementById("booking-form").addEventListener("submit", async (e) => {
+            e.preventDefault();
+
+            const data = {
+                full_name: document.getElementById("full_name").value,
+                email: document.getElementById("email").value,
+                phone: document.getElementById("phone").value,
+                slot: document.getElementById("slot").value
+            };
+
+            const response = await fetch(`${API_BASE}/create-web-booking`, {
+                method: "POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify(data)
+            });
+
+            const result = await response.json();
+            window.location.href = result.checkout_url;
+        });
+
+        loadSlots();
+    </script>
+</body>
+</html>
