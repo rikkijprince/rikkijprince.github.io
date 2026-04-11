@@ -8,21 +8,22 @@ permalink: /start/
   <div class="container">
 
     <h1>Hybrid English 5.0</h1>
-    <h2>Fluency for professionals who already use English at work</h2>
+    <h2>For professionals who need a grater fluency in their English</h2>
 
-    <p>You know English. But in real situations:</p>
+    <p>Because in real situations:</p>
 
     <ul>
-      <li>you hesitate</li>
-      <li>you simplify your ideas</li>
-      <li>faster speakers dominate the conversation</li>
+      <li>You hesitate too much</li>
+      <li>You find you have to simplify your ideas</li>
+      <li>Other speakers dominate the conversation</li>
     </ul>
 
     <img src="/assets/images/indexc2.jpg" alt="Professional communication" class="hero-image">
 
     <p>
       Hybrid English 5.0 combines <strong>daily AI conversation practice</strong> 
-      with <strong>human coaching</strong> to build real professional communication ability.
+      with <strong>a live tutor</strong> who will receive a detailed report from your speaking sessions
+      and give you that extra push that you need to stay motivated and keep advancing.
     </p>
 
     <a href="/signup/" class="cta-button">Start Free Trial</a>
@@ -51,4 +52,4 @@ permalink: /start/
 
 Try Hybrid English 5.0 free for 7 days.
 
-<a href="{{ '/signup/' | relative_url }}" class="cta-button">Start Free Trial</a>
+<a href="{{ '/more_info.html/' | relative_url }}" class="cta-button">More information</a>
