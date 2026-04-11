@@ -8,12 +8,13 @@ permalink: /start/
   <div class="container">
 
     <h1>Hybrid English 5.0</h1>
-    <h2>For professionals who need a grater fluency in their English</h2>
+    <h2>For professionals who need a greater fluency in their English</h2>
 
     <p>Because in real situations:</p>
 
     <ul>
-      <li>You hesitate too much</li>
+      <li>You hesitate too much when you have to communicate in English</li>
+      <li>You have doubts about your vocabulary</li>
       <li>You find you have to simplify your ideas</li>
       <li>Other speakers dominate the conversation</li>
     </ul>
