@@ -110,3 +110,5 @@ Instead of asking what lesson comes next, it asks:
 *What is currently limiting your ability to communicate, and how can we remove it efficiently?*
 
 If your objective is clear, measurable progress toward real fluency in the shortest realistic time, this approach offers a direct and effective path forward.
+
+<a href="/signup/" class="cta-button">Start Free Trial</a>
