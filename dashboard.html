@@ -21,7 +21,8 @@
 <table id="userTable">
   <thead>
     <tr>
-      <th>Name</th>
+      <th>Full_name</th>
+      <th>Userame</th>
       <th>Email</th>
       <th>Status</th>
       <th>Plan</th>
@@ -45,6 +46,7 @@ async function loadUsers() {
     const row = document.createElement("tr");
 
     row.innerHTML = `
+      <td>${user.full_name}</td>
       <td>${user.username}</td>
       <td>${user.email}</td>
       <td>
