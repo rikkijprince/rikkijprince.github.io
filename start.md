@@ -40,8 +40,8 @@ permalink: /start/
   <ol>
     <li>You speak with an expert AI trained as an English tutor for 15 minutes every day.</li>
     <li>Your AI tutor analyzes your language and gives you a daily report on your progress.</li>
-    <li>It gives you extra practice in the areas you make mistakes.</li>
-    <li>Once a week you have an online session of 40 minutes with the founder of Hybrid English 5.0</li>
+    <li>It simulates negotiations, sales pitches and job interviews, and gives you extra practice in the areas you need most practice.</li>
+    <li>Once a week you have an online session of 40 minutes with the founder of Hybrid English 5.0 or one of his trusted associates</li>
   </ol>
 </div>
 
