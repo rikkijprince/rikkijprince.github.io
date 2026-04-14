@@ -13,10 +13,10 @@ permalink: /start/
     <p>Because in real situations:</p>
 
     <ul>
-      <li>You hesitate too much when you have to communicate in English</li>
-      <li>You have doubts about your vocabulary</li>
-      <li>You find you have to simplify your ideas</li>
-      <li>Other speakers dominate the conversation</li>
+      <li>You hesitate too much when you have to communicate in English...</li>
+      <li>You have doubts about your vocabulary, your grammar or your intonation...</li>
+      <li>You want to communicate more nuanced ideas, not just basic ideas...</li>
+      <li>Other more confident speakers dominate the conversation...</li>
     </ul>
 
     <img src="/assets/images/indexc2.jpg" alt="Professional communication" class="hero-image">
@@ -38,14 +38,14 @@ permalink: /start/
 
 <div class="how-it-works">
   <ol>
-    <li>Speak daily with AI</li>
-    <li>Get automatic analysis</li>
-    <li>Train your weak points</li>
-    <li>Weekly 1-to-1 live sessions</li>
+    <li>You speak with an expert AI trained as an English tutor for 15 minutes every day.</li>
+    <li>Your AI tutor analyzes your language and gives you a daily report on your progress.</li>
+    <li>It gives you extra practice in the areas you make mistakes.</li>
+    <li>Once a week you have an online session of 40 minutes with the founder of Hybrid English 5.0</li>
   </ol>
 </div>
 
-<p>This system delivers results in <strong>weeks, not months</strong>.</p>
+<p>Get started for just 10€ per month! (Introductory limited-time offer.)</p>
 
 ---
 
