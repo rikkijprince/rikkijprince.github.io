@@ -49,4 +49,4 @@ permalink: /start/
 
 ---
 
-<a href="{{ '/more_info.md/' | relative_url }}" class="cta-button">More information</a>
+<a href="/more_info/" class="cta-button">More information</a>
