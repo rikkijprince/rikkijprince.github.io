@@ -9,17 +9,17 @@ permalink: /signup/
 <h1>Create Your Account</h1>
 
 <form id="signupForm">
-  <label for="name">Name</label><br />
-  <input id="name" name="name" type="name" autocomplete="name" required /><br /><br />
+  <label for="full_name">Full Name</label><br />
+  <input id="full_name" full_name="full_name" type="full_name" autocomplete="full_name" required /><br /><br />
 
-  <label for="country">Country</label><br />
-  <input id="country" name="country" type="country" autocomplete="country" required /><br /><br />
-
-  <label for="phone">Phone</label><br />
-  <input id="phone" name="phone" type="phone" autocomplete="phone" required /><br /><br />
+  <label for="username">Username</label><br />
+  <input id="username" name="username" type="username" autocomplete="username" required /><br /><br />
 
   <label for="email">Email</label><br />
   <input id="email" name="email" type="email" autocomplete="email" required /><br /><br />
+
+  <label for="phone">Phone (include country code)</label><br />
+  <input id="phone" name="phone" type="phone" autocomplete="phone" required /><br /><br />
 
   <label for="password">Password</label><br />
   <input id="password" name="password" type="password" autocomplete="new-password" required /><br /><br />
@@ -38,10 +38,10 @@ permalink: /signup/
 
   async function signUp(email, password) {
     return await supabaseClient.auth.signUp({
-  name,
-  country,
-  phone,
+  full-name,
+  username,
   email,
+  phone,
   password,
   options: {
     emailRedirectTo: "https://rikkijprince.com/login/"
