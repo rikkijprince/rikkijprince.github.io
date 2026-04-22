@@ -8,15 +8,14 @@ permalink: /start/
   <div class="container">
 
     <h1>Hybrid English 5.0</h1>
-    <h2>For professionals who need a greater fluency in their English</h2>
+    <h2>The new practical way to improve your English fluency</h2>
 
-    <p>Because in real situations:</p>
-
+    <p>Because, no matter the level,
     <ul>
-      <li>You hesitate too much when you have to communicate in English...</li>
-      <li>You have doubts about your vocabulary, your grammar or your intonation...</li>
-      <li>You want to communicate more nuanced ideas, not just basic ideas...</li>
-      <li>Other more confident speakers dominate the conversation...</li>
+      <li>You want to communicate more than just basic ideas...</li>
+      <li>You want to be confident speaking English in front of others...</li>
+      <li>You don't want to hesitate when you have to communicate in English...</li>
+      <li>You want to have a wide practical vocabulary, correct grammar and better intonation...</li>
     </ul>
 
     <img src="/assets/images/indexc2.jpg" alt="Professional communication" class="hero-image">
