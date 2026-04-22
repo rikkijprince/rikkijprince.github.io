@@ -1,4 +1,4 @@
-# frontend\booking\book_classes.md
+# book_classes.md
 
 ---
 layout: default
