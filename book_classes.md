@@ -65,7 +65,7 @@ title: Book a Fluency Coaching Session
 </div>
 
 <script>
-const API_BASE = "https://your-api-url.com"; // 🔁 CHANGE THIS
+const API_BASE = "https://rikkijprince.com"; // !!!!!!!!!!!!!!
 
 // 🔥 1. Warm up backend immediately
 fetch(`${API_BASE}/api/slots`).catch(() => {});
