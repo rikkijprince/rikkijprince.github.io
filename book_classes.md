@@ -48,7 +48,7 @@ title: Book a Fluency Coaching Session
 
   <div class="booking-title">Book a Fluency Coaching Session</div>
   <div class="booking-subtitle">
-    1:1 session focused on clarity of thought, expression, and confidence in English.
+    1:1 live tutorial session with native English speaker.
   </div>
 
   <p><strong>Session price:</strong> €<span id="price">—</span></p>
