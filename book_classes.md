@@ -1,5 +1,4 @@
 # book_classes.md
-
 ---
 layout: default
 title: Book a Fluency Coaching Session
@@ -65,7 +64,7 @@ title: Book a Fluency Coaching Session
 </div>
 
 <script>
-const API_BASE = "https://rikkijprince.com"; // !!!!!!!!!!!!!!
+const API_BASE = "https://hybrid-english-backend.onrender.com";
 
 // 🔥 1. Warm up backend immediately
 fetch(`${API_BASE}/api/slots`).catch(() => {});
