@@ -64,6 +64,15 @@ title: Book a Fluency Coaching Session
 </div>
 
 <script>
+// 🔐 Check if user is logged in
+  
+const userSession = localStorage.getItem("user_session");
+
+if (!userSession) {
+    alert("Please log in to book a session.");
+    window.location.href = "/login/";
+}
+  
 const API_BASE = "https://hybrid-english-backend.onrender.com";
 
 // 🔥 1. Warm up backend immediately
@@ -148,7 +157,10 @@ async function bookSlot(slot, btn) {
             headers: {"Content-Type": "application/json"},
             body: JSON.stringify({
                 slot: slot.datetime,
-                user: { name: "Guest User" }
+                const user = JSON.parse(userSession);
+                user: {
+                    name: user.email || "User"
+                }
             })
         });
 
