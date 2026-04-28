@@ -36,36 +36,33 @@ permalink: /signup/
 
   const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
-  async function signUp(email, password) {
-    return await supabaseClient.auth.signUp({
-  full-name,
-  username,
-  email,
-  phone,
-  password,
-  options: {
-    emailRedirectTo: "https://rikkijprince.com/login/"
+async function signUp(email, password) {
+  return await supabaseClient.auth.signUp({
+    email: email,
+    password: password,
+    options: {
+      emailRedirectTo: "https://rikkijprince.com/login/"
     }
   });
-  }
+}
 
-  document.getElementById("signupForm").addEventListener("submit", async (e) => {
-    e.preventDefault();
-
-    const msg = document.getElementById("message");
-    msg.textContent = "Creating account...";
-
-    const email = document.getElementById("email").value.trim();
-    const password = document.getElementById("password").value;
-
-    const { data, error } = await signUp(email, password);
-
-    if (error) {
-      msg.textContent = error.message;
-      return;
+async function signUp(email, password) {
+  return await supabaseClient.auth.signUp({
+    email: email,
+    password: password,
+    options: {
+      emailRedirectTo: "https://rikkijprince.com/login/"
     }
-
-    // Redirect after signup
-    window.location.href = "{{ '/payment/' | relative_url }}";
   });
+}
+if (data.user) {
+  await supabaseClient.from("profiles").insert([
+    {
+      id: data.user.id,
+      full_name: document.getElementById("full_name").value,
+      username: document.getElementById("username").value,
+      phone: document.getElementById("phone").value
+    }
+  ]);
+}
 </script>
