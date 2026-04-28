@@ -35,12 +35,12 @@ permalink: /start/
   <ol>
     <li>You speak with an expert AI trained as an English tutor for 15 minutes every day.</li>
     <li>Your AI tutor analyzes your language and gives you a daily report on your progress.</li>
-    <li>It simulates negotiations, sales pitches and job interviews, and gives you extra practice in the areas you need most practice.</li>
-    <li>Once a week you have an online session of 40 minutes with a native English speaker.</li>
+    <li>Negotiations, sales pitches and job interviews: it gives you the extra practice you need.</li>
+    <li>Once a week you will have an online session of 40 minutes with a native English speaker.</li>
   </ol>
 </div>
 
-<p>Get started now! You know this is what you need.</p>
+<p>Get started now!</p>
 
 ---
 
