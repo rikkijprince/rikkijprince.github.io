@@ -28,10 +28,6 @@ permalink: /start/
 
     <a href="/signup/" class="cta-button">Start Free Trial</a>
 
-  </div>
-</header>
-
----
 
 <h2 id="how-it-works">How It Works</h2>
 
