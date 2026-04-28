@@ -1,51 +1,62 @@
 ---
 layout: default
 title: Login
-description: "Log into Hybrid English 5.0"
-keywords: "login, Hybrid English"
 permalink: /login/
 ---
 
 <h1>Login</h1>
 
 <form id="loginForm">
-  <label for="email">Email</label><br />
-  <input id="email" name="email" type="email" autocomplete="email" required /><br /><br />
+  <label>Email</label><br />
+  <input id="email" type="email" required /><br /><br />
 
-  <label for="password">Password</label><br />
-  <input id="password" name="password" type="password" autocomplete="current-password" required /><br /><br />
+  <label>Password</label><br />
+  <input id="password" type="password" required /><br /><br />
 
-  <button type="submit" class="cta-button">Log in</button>
+  <button type="submit">Log in</button>
 </form>
 
-<p id="message" style="margin-top:12px;"></p>
+<p id="message"></p>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script>
-  const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
-  const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVybnhiYWxranFybG5nbnVtc3VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM2MDg0NjIsImV4cCI6MjA4OTE4NDQ2Mn0.qDnHmgHRfYv_mcLj-JTmI6IT31zo2W2g8RFD3BRb4DU";
+const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
+const SUPABASE_ANON_KEY = "YOUR_ANON_KEY";
 
-  const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
-  async function login(email, password) {
-    return await supabaseClient.auth.signInWithPassword({ email, password });
+document.getElementById("loginForm").addEventListener("submit", async (e) => {
+  e.preventDefault();
+
+  const msg = document.getElementById("message");
+  msg.textContent = "Logging in...";
+
+  const email = document.getElementById("email").value.trim();
+  const password = document.getElementById("password").value;
+
+  const { data, error } = await supabase.auth.signInWithPassword({
+    email,
+    password
+  });
+
+  if (error) {
+    msg.textContent = "❌ " + error.message;
+    return;
   }
 
-  document.getElementById("loginForm").addEventListener("submit", async (e) => {
-    e.preventDefault();
+  // ✅ Save session for booking page
+  localStorage.setItem("user_session", JSON.stringify({
+    email: data.user.email,
+    id: data.user.id
+  }));
 
-    const msg = document.getElementById("message");
-    msg.textContent = "Logging in...";
+  msg.textContent = "✅ Login successful. Redirecting...";
 
-    const email = document.getElementById("email").value.trim();
-    const password = document.getElementById("password").value;
-
-    const { data, error } = await login(email, password);
-
-    if (error) {
-      msg.textContent = error.message;
-      return;
-    }
+  setTimeout(() => {
+    window.location.href = "/book_classes/";
+  }, 800);
+});
+</script>
 
     // You said you want payment after login/signup:
     window.location.href = "{{ '/payment/' | relative_url }}";
