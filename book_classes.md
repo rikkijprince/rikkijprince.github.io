@@ -2,6 +2,7 @@
 ---
 layout: default
 title: Book a Fluency Coaching Session
+permalink: /book_classes/
 ---
 
 <style>
