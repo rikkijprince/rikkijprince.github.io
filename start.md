@@ -42,6 +42,4 @@ permalink: /start/
 
 <p>Get started now!</p>
 
----
-
 <a href="/more_info/" class="cta-button">More information</a>
