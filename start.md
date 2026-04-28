@@ -10,7 +10,7 @@ permalink: /start/
     <h1>Hybrid English 5.0</h1>
     <h2>The new practical way to improve your English fluency</h2>
 
-    <p>Because, no matter the level,
+    <p>Because, no matter what your level,
     <ul>
       <li>You want to communicate more than just basic ideas...</li>
       <li>You want to be confident speaking English in front of others...</li>
