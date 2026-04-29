@@ -4,6 +4,15 @@ title: Book a Fluency Coaching Session
 permalink: /book_classes/
 ---
 
+const API_BASE = "https://hybrid-english-backend.onrender.com";
+
+const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...";
+
+const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+let currentUser = null;
+
 <style>
 .booking-container {
   max-width: 720px;
@@ -50,7 +59,11 @@ permalink: /book_classes/
     1:1 live tutorial session with native English speaker.
   </div>
 
-  <p><strong>Session price:</strong> €<span id="price">—</span></p>
+  <p>
+    <strong>Session:</strong>
+    €<span id="price">—</span>
+    · <span id="length">—</span> minutes
+  </p>
 
   <!-- Instant UI (no blank state) -->
   <div id="slots">
@@ -64,6 +77,9 @@ permalink: /book_classes/
 </div>
 
 <script>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
 // 🔐 Check if user is logged in
   
 const userSession = localStorage.getItem("user_session");
@@ -136,9 +152,13 @@ async function loadPrice() {
     try {
         const res = await fetch(`${API_BASE}/api/price`);
         const data = await res.json();
-        document.getElementById("price").innerText = data.fee;
+
+        document.getElementById("price").innerText = data.price_eur;
+        document.getElementById("length").innerText = data.session_length;
+
     } catch {
         document.getElementById("price").innerText = "?";
+        document.getElementById("length").innerText = "?";
     }
 }
 
@@ -159,7 +179,7 @@ async function bookSlot(slot, btn) {
                 slot: slot.datetime,
                 const user = JSON.parse(userSession);
                 user: {
-                    name: user.email || "User"
+                  name: currentUser.email
                 }
             })
         });
@@ -180,9 +200,32 @@ async function bookSlot(slot, btn) {
         btn.disabled = false;
         btn.innerText = slot.label;
     }
+async function requireAuth() {
+    const { data } = await supabase.auth.getUser();
+    currentUser = data?.user;
+
+    if (!currentUser) {
+        document.getElementById("slots").innerHTML = `
+          <div>
+            First you need to log in (or sign up, if you haven't done so).<br><br>
+            <a href="/login/" class="cta-button">Go to Login</a>
+          </div>
+        `;
+        return false;
+    }
+
+    return true;
+}
 }
 
 // Init
-loadPrice();
-loadSlots();
+async function init() {
+    const isLoggedIn = await requireAuth();
+    if (!isLoggedIn) return;
+
+    loadPrice();
+    loadSlots();
+}
+
+init();
 </script>
