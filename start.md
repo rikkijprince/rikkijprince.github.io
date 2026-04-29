@@ -32,12 +32,16 @@ permalink: /start/
 <h2 id="how-it-works">How It Works</h2>
 
 <div class="how-it-works">
-  <ol>
-    <li>You speak with an expert AI trained as an English tutor for 15 minutes every day.</li>
-    <li>Your AI tutor analyzes your language and gives you a daily report on your progress.</li>
-    <li>Negotiations, sales pitches and job interviews: it gives you the extra practice you need.</li>
-    <li>Once a week you will have an online session of 40 minutes with a native English speaker.</li>
-  </ol>
+    <p>
+    You speak with an expert AI trained as an English tutor for 15 minutes every day.
+    @
+    Your AI tutor analyzes your language and gives you a daily report on your progress.
+    @
+    Negotiations, sales pitches and job interviews: it gives you the extra practice you need.
+    @
+    Once a week you will have an online session of 40 minutes with a native English speaker.
+    </p>
+
 </div>
 
 <p>Get started now!</p>
