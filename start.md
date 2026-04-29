@@ -10,15 +10,15 @@ permalink: /start/
     <h1>Hybrid English 5.0</h1>
     <h2>The new practical way to improve your English fluency</h2>
 
-    <p>Because, no matter what your level,
+    <p>Because, no matter what your level,</p>
 
-      You want to communicate more than just basic ideas...
+      <p>You want to communicate more than just basic ideas...
       
-      You want to be confident speaking English in front of others...
+      <p>You want to be confident speaking English in front of others...
       
-      You don't want to hesitate when you have to communicate in English...
+      <p>You don't want to hesitate when you have to communicate in English...
       
-      You want to have a wider vocabulary, correct grammar and better intonation...
+      <p>You want to have a wider vocabulary, correct grammar and better intonation...
       
 
 
@@ -37,19 +37,19 @@ permalink: /start/
 
 <div class="how-it-works">
     <p>
-    You speak with an expert AI trained as an English tutor for 15 minutes every day.
+    You speak with an expert AI trained as an English tutor for 15 minutes every day.</p>
       
-    @
+    <p>@</p>
     
-    Your AI tutor analyzes your language and gives you a daily report on your progress.
+    <p>Your AI tutor analyzes your language and gives you a daily report on your progress.</p>
     
-    @
+    <p>@</p>
     
-    Negotiations, sales pitches and job interviews: it gives you the extra practice you need.
+    <p>Negotiations, sales pitches and job interviews: it gives you the extra practice you need.</p>
     
-    @
+    <p>@</p>
     
-    Once a week you will have an online session of 40 minutes with a native English speaker.
+    <p>Once a week you will have an online session of 40 minutes with a native English speaker.
     
     </p>
 
