@@ -2,7 +2,7 @@
 ---
 layout: default
 title: Payment
-description: "SProcess payments to Hybrid English 5.0"
+description: "Process payments to Hybrid English 5.0"
 keywords: "process payments, Hybrid English"
 permalink: /payment/
 ---
@@ -56,7 +56,7 @@ permalink: /payment/
 <h2>Book a One-to-One Session</h2>
 
 <p>
-  Get your first 30-minute session for <strong>€25</strong>.
+  Book your first 1-to-1 session for <strong>€25</strong>.
 </p>
 
 <p>
