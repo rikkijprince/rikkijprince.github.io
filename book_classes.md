@@ -24,10 +24,10 @@ permalink: /book_classes/
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 
 <script>
-const API_BASE = "https://hybrid-english-backend.onrender.com";
+const API_BASE = "https://hybrid-english-backend-1.onrender.com";
 
 const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
-const SUPABASE_ANON_KEY = "YOUR_ANON_KEY_HERE";
+const SUPABASE_ANON_KEY = "sb_publishable_3G9E1jSXWZzEaEtKeIU6Sg_sxOKiTTB";
 
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
