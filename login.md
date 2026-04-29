@@ -58,7 +58,3 @@ document.getElementById("loginForm").addEventListener("submit", async (e) => {
 });
 </script>
 
-    // You said you want payment after login/signup:
-    window.location.href = "{{ '/payment/' | relative_url }}";
-  });
-</script>
