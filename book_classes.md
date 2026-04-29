@@ -1,4 +1,3 @@
-# book_classes.md
 ---
 layout: default
 title: Book a Fluency Coaching Session
