@@ -15,7 +15,7 @@ permalink: /start/
       <li>You want to communicate more than just basic ideas...</li>
       <li>You want to be confident speaking English in front of others...</li>
       <li>You don't want to hesitate when you have to communicate in English...</li>
-      <li>You want to have a wide practical vocabulary, correct grammar and better intonation...</li>
+      <li>You want to have a wider vocabulary, correct grammar and better intonation...</li>
     </ul>
 
     <img src="/assets/images/indexc2.jpg" alt="Professional communication" class="hero-image">
