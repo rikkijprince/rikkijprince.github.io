@@ -1,113 +1,147 @@
-# backend/api.py
+---
+layout: default
+title: Book a Fluency Coaching Session
+permalink: /book_classes/
+---
 
-from fastapi import FastAPI, Header, HTTPException
-from pydantic import BaseModel
-from datetime import datetime
-import requests
+<div class="booking-container">
 
-from backend.modules.booking.calendar_service import (
-    get_available_slots,
-    format_slots,
-    is_slot_still_available,
-    create_tentative_event
-)
+  <h1>Book a Fluency Coaching Session</h1>
 
-from backend.modules.booking.pricing_service import get_pricing
-from backend.modules.booking.payment_service import create_checkout_session
+  <p>
+    <strong>Session:</strong>
+    €<span id="price">—</span> · <span id="length">—</span> minutes
+  </p>
 
-app = FastAPI()
+  <div id="slots">
+    <button>Loading slots...</button>
+  </div>
 
+  <p id="error" style="color:red;"></p>
 
-# ============================
-# CONFIG
-# ============================
+</div>
 
-SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co"
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 
+<script>
+const API_BASE = "https://hybrid-english-backend.onrender.com";
 
-# ============================
-# MODELS
-# ============================
+const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
+const SUPABASE_ANON_KEY = "YOUR_ANON_KEY_HERE";
 
-class BookingRequest(BaseModel):
-    slot: str
+const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
+let currentUser = null;
 
-# ============================
-# AUTH VALIDATION
-# ============================
+// 🔐 Check login
+async function requireAuth() {
+    const { data } = await supabase.auth.getUser();
+    currentUser = data?.user;
 
-def verify_user(authorization: str):
-    """
-    Verifies Supabase JWT by calling Supabase Auth API.
-    """
+    if (!currentUser) {
+        document.getElementById("slots").innerHTML = `
+            <p>First you need to log in (or sign up, if you haven't done so).</p>
+            <a href="/login/">Go to Login</a>
+        `;
+        return false;
+    }
 
-    if not authorization:
-        raise HTTPException(status_code=401, detail="Missing auth token")
+    return true;
+}
 
-    try:
-        token = authorization.split(" ")[1]  # Bearer <token>
-    except:
-        raise HTTPException(status_code=401, detail="Invalid auth header")
+// 💰 Load price
+async function loadPrice() {
+    try {
+        const res = await fetch(`${API_BASE}/api/price`);
+        const data = await res.json();
 
-    res = requests.get(
-        f"{SUPABASE_URL}/auth/v1/user",
-        headers={
-            "Authorization": f"Bearer {token}"
+        document.getElementById("price").innerText = data.price_eur;
+        document.getElementById("length").innerText = data.session_length;
+    } catch {
+        document.getElementById("price").innerText = "?";
+        document.getElementById("length").innerText = "?";
+    }
+}
+
+// 📅 Render slots
+function renderSlots(slots) {
+    const container = document.getElementById("slots");
+    container.innerHTML = "";
+
+    slots.forEach(slot => {
+        const btn = document.createElement("button");
+        btn.innerText = slot.label;
+
+        btn.onclick = () => bookSlot(slot, btn);
+
+        container.appendChild(btn);
+    });
+}
+
+// 📡 Load slots
+async function loadSlots() {
+    try {
+        const res = await fetch(`${API_BASE}/api/slots`);
+        const slots = await res.json();
+
+        renderSlots(slots);
+    } catch {
+        document.getElementById("slots").innerHTML = "Error loading slots.";
+    }
+}
+
+// 💳 Book slot (SECURE VERSION)
+async function bookSlot(slot, btn) {
+    const errorBox = document.getElementById("error");
+    errorBox.innerText = "";
+
+    btn.disabled = true;
+    btn.innerText = "Processing...";
+
+    try {
+        const { data: sessionData } = await supabase.auth.getSession();
+        const token = sessionData.session.access_token;
+
+        const res = await fetch(`${API_BASE}/api/book`, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                "Authorization": `Bearer ${token}`
+            },
+            body: JSON.stringify({
+                slot: slot.datetime
+            })
+        });
+
+        const data = await res.json();
+
+        if (data.error) {
+            errorBox.innerText = data.error;
+            btn.disabled = false;
+            btn.innerText = slot.label;
+            return;
         }
-    )
 
-    if res.status_code != 200:
-        raise HTTPException(status_code=401, detail="Invalid or expired token")
+        window.location.href = data.checkout_url;
 
-    return res.json()
+    } catch {
+        errorBox.innerText = "Something went wrong.";
+        btn.disabled = false;
+        btn.innerText = slot.label;
+    }
+}
 
+// 🚀 Init
+async function init() {
+    const ok = await requireAuth();
+    if (!ok) return;
 
-# ============================
-# ROUTES
-# ============================
+    loadPrice();
+    loadSlots();
+}
 
-@app.get("/api/slots")
-def api_slots():
-    raw = get_available_slots()
-    return format_slots(raw)
-
-
-@app.get("/api/price")
-def api_price():
-    return get_pricing()
-
-
-@app.post("/api/book")
-def api_book(req: BookingRequest, authorization: str = Header(None)):
-
-    # 🔐 Verify user
-    user = verify_user(authorization)
-
-    selected_slot = datetime.fromisoformat(req.slot)
-
-    if not is_slot_still_available(selected_slot):
-        return {"error": "Slot just taken. Please choose another."}
-
-    # Use REAL authenticated user
-    user_name = user.get("email", "User")
-
-    event_id = create_tentative_event(
-        {"name": user_name},
-        selected_slot
-    )
-
-    pricing = get_pricing()
-
-    checkout_url, session_id = create_checkout_session(
-        amount=pricing["price_eur"],
-        metadata={
-            "event_id": event_id,
-            "user": user_name
-        }
-    )
-
-    return {
+init();
+</script>
         "checkout_url": checkout_url,
         "event_id": event_id
     }
