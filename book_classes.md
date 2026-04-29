@@ -1,231 +1,113 @@
----
-layout: default
-title: Book a Fluency Coaching Session
-permalink: /book_classes/
----
+# backend/api.py
 
-const API_BASE = "https://hybrid-english-backend.onrender.com";
+from fastapi import FastAPI, Header, HTTPException
+from pydantic import BaseModel
+from datetime import datetime
+import requests
 
-const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...";
+from backend.modules.booking.calendar_service import (
+    get_available_slots,
+    format_slots,
+    is_slot_still_available,
+    create_tentative_event
+)
 
-const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+from backend.modules.booking.pricing_service import get_pricing
+from backend.modules.booking.payment_service import create_checkout_session
 
-let currentUser = null;
+app = FastAPI()
 
-<style>
-.booking-container {
-  max-width: 720px;
-  margin: 60px auto;
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-}
 
-.booking-title {
-  font-size: 2rem;
-  margin-bottom: 10px;
-}
+# ============================
+# CONFIG
+# ============================
 
-.booking-subtitle {
-  color: #666;
-  margin-bottom: 30px;
-}
+SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co"
 
-.slot {
-  display: block;
-  width: 100%;
-  padding: 14px;
-  margin-bottom: 10px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  background: white;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
 
-.slot:hover {
-  background: #f5f5f5;
-}
+# ============================
+# MODELS
+# ============================
 
-.error {
-  color: red;
-  margin-top: 10px;
-}
-</style>
+class BookingRequest(BaseModel):
+    slot: str
 
-<div class="booking-container">
 
-  <div class="booking-title">Book a Fluency Coaching Session</div>
-  <div class="booking-subtitle">
-    1:1 live tutorial session with native English speaker.
-  </div>
+# ============================
+# AUTH VALIDATION
+# ============================
 
-  <p>
-    <strong>Session:</strong>
-    €<span id="price">—</span>
-    · <span id="length">—</span> minutes
-  </p>
+def verify_user(authorization: str):
+    """
+    Verifies Supabase JWT by calling Supabase Auth API.
+    """
 
-  <!-- Instant UI (no blank state) -->
-  <div id="slots">
-    <button class="slot">Checking availability...</button>
-    <button class="slot">Checking availability...</button>
-    <button class="slot">Checking availability...</button>
-  </div>
+    if not authorization:
+        raise HTTPException(status_code=401, detail="Missing auth token")
 
-  <div id="error" class="error"></div>
+    try:
+        token = authorization.split(" ")[1]  # Bearer <token>
+    except:
+        raise HTTPException(status_code=401, detail="Invalid auth header")
 
-</div>
-
-<script>
-
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-
-// 🔐 Check if user is logged in
-  
-const userSession = localStorage.getItem("user_session");
-
-if (!userSession) {
-    alert("Please log in to book a session.");
-    window.location.href = "/login/";
-}
-  
-const API_BASE = "https://hybrid-english-backend.onrender.com";
-
-// 🔥 1. Warm up backend immediately
-fetch(`${API_BASE}/api/slots`).catch(() => {});
-
-// 🔥 2. Load cached slots instantly (if available)
-function renderSlots(slots) {
-    const container = document.getElementById("slots");
-    container.innerHTML = "";
-
-    slots.forEach(slot => {
-        const btn = document.createElement("button");
-        btn.className = "slot";
-        btn.innerText = slot.label;
-
-        btn.onclick = () => bookSlot(slot, btn);
-
-        container.appendChild(btn);
-    });
-}
-
-const cached = localStorage.getItem("slots_cache");
-if (cached) {
-    try {
-        renderSlots(JSON.parse(cached));
-    } catch {}
-}
-
-// 🔥 3. Load fresh slots with timeout protection
-async function loadSlots() {
-    const container = document.getElementById("slots");
-
-    const timeout = new Promise((_, reject) =>
-        setTimeout(() => reject("timeout"), 4000)
-    );
-
-    try {
-        const res = await Promise.race([
-            fetch(`${API_BASE}/api/slots`),
-            timeout
-        ]);
-
-        const slots = await res.json();
-
-        localStorage.setItem("slots_cache", JSON.stringify(slots));
-
-        renderSlots(slots);
-
-    } catch {
-        container.innerHTML = `
-          <div>
-            Still waking things up…<br><br>
-            <button onclick="loadSlots()">Try again</button>
-          </div>
-        `;
-    }
-}
-
-// 🔥 4. Load price
-async function loadPrice() {
-    try {
-        const res = await fetch(`${API_BASE}/api/price`);
-        const data = await res.json();
-
-        document.getElementById("price").innerText = data.price_eur;
-        document.getElementById("length").innerText = data.session_length;
-
-    } catch {
-        document.getElementById("price").innerText = "?";
-        document.getElementById("length").innerText = "?";
-    }
-}
-
-// 🔥 5. Booking flow
-async function bookSlot(slot, btn) {
-    const errorBox = document.getElementById("error");
-    errorBox.innerText = "";
-
-    // Prevent double clicks
-    btn.disabled = true;
-    btn.innerText = "Processing...";
-
-    try {
-        const res = await fetch(`${API_BASE}/api/book`, {
-            method: "POST",
-            headers: {"Content-Type": "application/json"},
-            body: JSON.stringify({
-                slot: slot.datetime,
-                const user = JSON.parse(userSession);
-                user: {
-                  name: currentUser.email
-                }
-            })
-        });
-
-        const data = await res.json();
-
-        if (data.error) {
-            errorBox.innerText = data.error;
-            btn.disabled = false;
-            btn.innerText = slot.label;
-            return;
+    res = requests.get(
+        f"{SUPABASE_URL}/auth/v1/user",
+        headers={
+            "Authorization": f"Bearer {token}"
         }
+    )
 
-        window.location.href = data.checkout_url;
+    if res.status_code != 200:
+        raise HTTPException(status_code=401, detail="Invalid or expired token")
 
-    } catch {
-        errorBox.innerText = "Something went wrong.";
-        btn.disabled = false;
-        btn.innerText = slot.label;
+    return res.json()
+
+
+# ============================
+# ROUTES
+# ============================
+
+@app.get("/api/slots")
+def api_slots():
+    raw = get_available_slots()
+    return format_slots(raw)
+
+
+@app.get("/api/price")
+def api_price():
+    return get_pricing()
+
+
+@app.post("/api/book")
+def api_book(req: BookingRequest, authorization: str = Header(None)):
+
+    # 🔐 Verify user
+    user = verify_user(authorization)
+
+    selected_slot = datetime.fromisoformat(req.slot)
+
+    if not is_slot_still_available(selected_slot):
+        return {"error": "Slot just taken. Please choose another."}
+
+    # Use REAL authenticated user
+    user_name = user.get("email", "User")
+
+    event_id = create_tentative_event(
+        {"name": user_name},
+        selected_slot
+    )
+
+    pricing = get_pricing()
+
+    checkout_url, session_id = create_checkout_session(
+        amount=pricing["price_eur"],
+        metadata={
+            "event_id": event_id,
+            "user": user_name
+        }
+    )
+
+    return {
+        "checkout_url": checkout_url,
+        "event_id": event_id
     }
-async function requireAuth() {
-    const { data } = await supabase.auth.getUser();
-    currentUser = data?.user;
-
-    if (!currentUser) {
-        document.getElementById("slots").innerHTML = `
-          <div>
-            First you need to log in (or sign up, if you haven't done so).<br><br>
-            <a href="/login/" class="cta-button">Go to Login</a>
-          </div>
-        `;
-        return false;
-    }
-
-    return true;
-}
-}
-
-// Init
-async function init() {
-    const isLoggedIn = await requireAuth();
-    if (!isLoggedIn) return;
-
-    loadPrice();
-    loadSlots();
-}
-
-init();
-</script>
