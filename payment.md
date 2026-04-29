@@ -1,88 +1,55 @@
-# /payment.md
 ---
 layout: default
-title: Payment
-description: "Process payments to Hybrid English 5.0"
-keywords: "process payments, Hybrid English"
+title: Your Account
 permalink: /payment/
 ---
+
+<h1>Your Account</h1>
 
 <p id="authStatus"></p>
 <button id="logoutBtn" class="cta-button" style="display:none;">Log out</button>
 
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script>
-  const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
-  const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVybnhiYWxranFybG5nbnVtc3VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM2MDg0NjIsImV4cCI6MjA4OTE4NDQ2Mn0.qDnHmgHRfYv_mcLj-JTmI6IT31zo2W2g8RFD3BRb4DU";
-  const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
-
-  async function refreshAuthUI() {
-    const { data } = await supabaseClient.auth.getUser();
-    const user = data?.user;
-
-    const status = document.getElementById("authStatus");
-    const btn = document.getElementById("logoutBtn");
-
-    if (user) {
-      status.textContent = `Logged in as ${user.email}`;
-      btn.style.display = "inline-block";
-    } else {
-      status.textContent = "Not logged in.";
-      btn.style.display = "none";
-    }
-  }
-
-  document.getElementById("logoutBtn").addEventListener("click", async () => {
-    await supabaseClient.auth.signOut();
-    window.location.href = "{{'/login/' | relative_url}}";
-  });
-
-  refreshAuthUI();
-</script>
-<h1>Start Your Free Trial</h1>
-
-<p>
-  You have <strong>7 days</strong> to try Hybrid English 5.0 for free.
-</p>
-<p>
-  After your trial, you’ll be charged <strong>€12.95/month</strong> to continue enhancing your fluency.
-</p>
-<p> 
-  You can <strong>cancel at anytime</strong>.
-</p>
-
 <hr />
 
-<h2>Book a One-to-One Session</h2>
+<h2>Next Step</h2>
 
 <p>
-  Book your first 1-to-1 session for <strong>€25</strong>.
+  You're ready to book your first 1-to-1 session.
 </p>
 
-<p>
-  <strong>Step 1:</strong> Check available times
-</p>
+<a class="cta-button" href="{{ '/book_classes/' | relative_url }}">
+  Book a Session
+</a>
 
-<p>
-  <a class="cta-button" href="{{ '/book_session/' | relative_url }}">
-    View Available Slots
-  </a>
-</p>
+<p id="message" style="margin-top:20px;"></p>
 
-<p>
-  <strong>Step 2:</strong> Secure your session
-</p>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...";
 
-<p>
-  <a class="cta-button" href="{{ '/payment/' | relative_url }}">
-    Pay €25
-  </a>
-</p>
+const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
-<p>
-  <strong>Step 3:</strong> Confirm your booking
-</p>
+async function init() {
+  const { data } = await supabase.auth.getUser();
+  const user = data?.user;
 
-<p>
-  After payment, return here and book your time.
-</p>
+  const status = document.getElementById("authStatus");
+  const logoutBtn = document.getElementById("logoutBtn");
+
+  if (!user) {
+    window.location.href = "{{ '/login/' | relative_url }}";
+    return;
+  }
+
+  status.textContent = `Logged in as ${user.email}`;
+  logoutBtn.style.display = "inline-block";
+}
+
+document.getElementById("logoutBtn").addEventListener("click", async () => {
+  await supabase.auth.signOut();
+  window.location.href = "{{ '/login/' | relative_url }}";
+});
+
+init();
+</script>
