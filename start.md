@@ -12,10 +12,14 @@ permalink: /start/
 
     <p>Because, no matter what your level,
 
-      You want to communicate more than just basic ideas...\n
-      You want to be confident speaking English in front of others...\n
-      You don't want to hesitate when you have to communicate in English...\n
-      You want to have a wider vocabulary, correct grammar and better intonation...\n
+      You want to communicate more than just basic ideas...
+      
+      You want to be confident speaking English in front of others...
+      
+      You don't want to hesitate when you have to communicate in English...
+      
+      You want to have a wider vocabulary, correct grammar and better intonation...
+      
 
 
     <img src="/assets/images/indexc2.jpg" alt="Professional communication" class="hero-image">
@@ -33,13 +37,20 @@ permalink: /start/
 
 <div class="how-it-works">
     <p>
-    You speak with an expert AI trained as an English tutor for 15 minutes every day.\n
-    @\n
-    Your AI tutor analyzes your language and gives you a daily report on your progress.\n
-    @\n
-    Negotiations, sales pitches and job interviews: it gives you the extra practice you need.\n
-    @\n
-    Once a week you will have an online session of 40 minutes with a native English speaker.\n
+    You speak with an expert AI trained as an English tutor for 15 minutes every day.
+      
+    @
+    
+    Your AI tutor analyzes your language and gives you a daily report on your progress.
+    
+    @
+    
+    Negotiations, sales pitches and job interviews: it gives you the extra practice you need.
+    
+    @
+    
+    Once a week you will have an online session of 40 minutes with a native English speaker.
+    
     </p>
 
 </div>
