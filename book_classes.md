@@ -142,6 +142,3 @@ async function init() {
 
 init();
 </script>
-        "checkout_url": checkout_url,
-        "event_id": event_id
-    }
