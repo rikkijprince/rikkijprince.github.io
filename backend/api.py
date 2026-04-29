@@ -11,7 +11,7 @@ from backend.modules.booking.calendar_service import (
     create_tentative_event
 )
 
-from backend.modules.booking.pricing_service import read_fee_file, get_session_price
+from backend.modules.booking.pricing_service import get_pricing, get_session_price
 from backend.modules.booking.payment_service import create_checkout_session
 
 app = FastAPI()
