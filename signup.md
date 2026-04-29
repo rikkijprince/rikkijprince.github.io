@@ -73,5 +73,3 @@ document.getElementById("signupForm").addEventListener("submit", async (e) => {
   msg.textContent = "✅ Account created. Check your email to confirm.";
 });
 </script>
-}
-</script>
