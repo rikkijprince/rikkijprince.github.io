@@ -11,8 +11,18 @@ def read_fee_file():
         return json.load(f)
 
 
-def read_fee_file():
-    return get_session_price()["price_eur"]
+def get_pricing():
+    data = read_fee_file()
 
-def read_fee_file():
-    return get_session_length()["session_length"]
+    return {
+        "price_eur": data.get("price_eur", 0),
+        "session_length": data.get("session_length", 0)
+    }
+
+
+def get_session_price():
+    return read_fee_file().get("price_eur", 0)
+
+
+def get_session_length():
+    return read_fee_file().get("session_length", 0)
