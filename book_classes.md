@@ -4,93 +4,136 @@ title: Book a Fluency Coaching Session
 permalink: /book_classes/
 ---
 
+<style>
+.booking-container {
+  max-width: 720px;
+  margin: 60px auto;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.booking-title {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.booking-subtitle {
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.slot {
+  display: block;
+  width: 100%;
+  padding: 14px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
+</style>
+
 <div class="booking-container">
 
-  <h1>Book a Fluency Coaching Session</h1>
+  <div class="booking-title">Book a Fluency Coaching Session</div>
+  <div class="booking-subtitle">
+    1:1 live tutorial session with native English speaker.
+  </div>
 
   <p>
     <strong>Session:</strong>
-    €<span id="price">—</span> · <span id="length">—</span> minutes
+    €<span id="price">—</span>
+    · <span id="length">—</span> minutes
   </p>
 
   <div id="slots">
-    <button>Loading slots...</button>
+    <button class="slot">Loading slots...</button>
   </div>
 
-  <p id="error" style="color:red;"></p>
+  <div id="error" class="error"></div>
 
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-
 <script>
 const API_BASE = "https://hybrid-english-backend-1.onrender.com";
 
 const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_3G9E1jSXWZzEaEtKeIU6Sg_sxOKiTTB";
+const SUPABASE_ANON_KEY = "YOUR_ANON_KEY";
 
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 let currentUser = null;
 
-// 🔐 Check login
+// 🔐 AUTH CHECK
 async function requireAuth() {
-    const { data } = await supabase.auth.getUser();
-    currentUser = data?.user;
+    const { data, error } = await supabase.auth.getUser();
 
-    if (!currentUser) {
+    if (error || !data?.user) {
         document.getElementById("slots").innerHTML = `
-            <p>First you need to log in (or sign up, if you haven't done so).</p>
-            <a href="/login/">Go to Login</a>
+          <div>
+            First you need to log in (or sign up, if you haven't done so).<br><br>
+            <a href="/login/" class="cta-button">Go to Login</a>
+          </div>
         `;
         return false;
     }
 
+    currentUser = data.user;
     return true;
 }
 
-// 💰 Load price
+// 🔥 LOAD PRICE
 async function loadPrice() {
     try {
         const res = await fetch(`${API_BASE}/api/price`);
         const data = await res.json();
 
-        document.getElementById("price").innerText = data.price_eur;
-        document.getElementById("length").innerText = data.session_length;
+        document.getElementById("price").innerText = data.price_eur ?? "?";
+        document.getElementById("length").innerText = data.session_length ?? "?";
+
     } catch {
         document.getElementById("price").innerText = "?";
         document.getElementById("length").innerText = "?";
     }
 }
 
-// 📅 Render slots
-function renderSlots(slots) {
-    const container = document.getElementById("slots");
-    container.innerHTML = "";
-
-    slots.forEach(slot => {
-        const btn = document.createElement("button");
-        btn.innerText = slot.label;
-
-        btn.onclick = () => bookSlot(slot, btn);
-
-        container.appendChild(btn);
-    });
-}
-
-// 📡 Load slots
+// 🔥 LOAD SLOTS
 async function loadSlots() {
+    const container = document.getElementById("slots");
+
     try {
         const res = await fetch(`${API_BASE}/api/slots`);
         const slots = await res.json();
 
-        renderSlots(slots);
+        container.innerHTML = "";
+
+        slots.forEach(slot => {
+            const btn = document.createElement("button");
+            btn.className = "slot";
+            btn.innerText = slot.label;
+
+            btn.onclick = () => bookSlot(slot, btn);
+
+            container.appendChild(btn);
+        });
+
     } catch {
-        document.getElementById("slots").innerHTML = "Error loading slots.";
+        container.innerHTML = `
+          <div>
+            Could not load slots.<br><br>
+            <button onclick="loadSlots()">Retry</button>
+          </div>
+        `;
     }
 }
 
-// 💳 Book slot (SECURE VERSION)
+// 💳 BOOK SLOT
 async function bookSlot(slot, btn) {
     const errorBox = document.getElementById("error");
     errorBox.innerText = "";
@@ -131,7 +174,7 @@ async function bookSlot(slot, btn) {
     }
 }
 
-// 🚀 Init
+// 🚀 INIT
 async function init() {
     const ok = await requireAuth();
     if (!ok) return;
