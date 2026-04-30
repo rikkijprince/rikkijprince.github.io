@@ -69,7 +69,7 @@ const SUPABASE_ANON_KEY = "YOUR_ANON_KEY";
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 let currentUser = null;
-
+  
 // 🔐 AUTH CHECK
 async function requireAuth() {
     const { data, error } = await supabase.auth.getUser();
