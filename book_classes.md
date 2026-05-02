@@ -189,10 +189,10 @@ async function bookSlot(slot, btn) {
 
 // 🚀 INIT
 async function init() {
+    await loadPrice();
     const ok = await requireAuth();
     if (!ok) return;
 
-    await loadPrice();
     await loadSlots();
 }
 
