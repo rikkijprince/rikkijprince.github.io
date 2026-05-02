@@ -64,12 +64,12 @@ permalink: /book_classes/
 const API_BASE = "https://hybrid-english-backend-1.onrender.com";
 
 const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVybnhiYWxranFybG5nbnVtc3VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM2MDg0NjIsImV4cCI6MjA4OTE4NDQ2Mn0.qDnHmgHRfYv_mcLj-JTmI6IT31zo2W2g8RFD3BRb4DU";
+const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY_HERE"; // keep as-is or move to env if needed
 
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 let currentUser = null;
-  
+
 // 🔐 AUTH CHECK
 async function requireAuth() {
     const { data, error } = await supabase.auth.getUser();
@@ -97,7 +97,8 @@ async function loadPrice() {
         document.getElementById("price").innerText = data.price_eur ?? "?";
         document.getElementById("length").innerText = data.session_length ?? "?";
 
-    } catch {
+    } catch (err) {
+        console.error("Price load error:", err);
         document.getElementById("price").innerText = "?";
         document.getElementById("length").innerText = "?";
     }
@@ -113,6 +114,11 @@ async function loadSlots() {
 
         container.innerHTML = "";
 
+        if (!Array.isArray(slots) || slots.length === 0) {
+            container.innerHTML = "<div>No slots available right now.</div>";
+            return;
+        }
+
         slots.forEach(slot => {
             const btn = document.createElement("button");
             btn.className = "slot";
@@ -123,7 +129,8 @@ async function loadSlots() {
             container.appendChild(btn);
         });
 
-    } catch {
+    } catch (err) {
+        console.error("Slots load error:", err);
         container.innerHTML = `
           <div>
             Could not load slots.<br><br>
@@ -143,6 +150,11 @@ async function bookSlot(slot, btn) {
 
     try {
         const { data: sessionData } = await supabase.auth.getSession();
+
+        if (!sessionData?.session?.access_token) {
+            throw new Error("No session token");
+        }
+
         const token = sessionData.session.access_token;
 
         const res = await fetch(`${API_BASE}/api/book`, {
@@ -167,7 +179,8 @@ async function bookSlot(slot, btn) {
 
         window.location.href = data.checkout_url;
 
-    } catch {
+    } catch (err) {
+        console.error("Booking error:", err);
         errorBox.innerText = "Something went wrong.";
         btn.disabled = false;
         btn.innerText = slot.label;
@@ -179,8 +192,8 @@ async function init() {
     const ok = await requireAuth();
     if (!ok) return;
 
-    loadPrice();
-    loadSlots();
+    await loadPrice();
+    await loadSlots();
 }
 
 init();
