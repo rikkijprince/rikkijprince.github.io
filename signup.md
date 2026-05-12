@@ -62,12 +62,21 @@ document.getElementById("signupForm").addEventListener("submit", async (e) => {
 
   // Save profile (optional but recommended)
   if (data.user) {
-    await supabase.from("profiles").insert([{
-      id: data.user.id,
-      full_name,
-      username,
-      phone
-    }]);
+    const { error: profileError } = await supabase
+      .from("profiles")
+      .insert([{
+        id: data.user.id,
+        full_name,
+        username,
+        phone
+      }]);
+
+    if (profileError) {
+      console.error(profileError);
+      msg.textContent =
+        "Account created, but profile save failed.";
+      return;
+    }
   }
 
   msg.textContent = "✅ Account created. Check your email to confirm.";
