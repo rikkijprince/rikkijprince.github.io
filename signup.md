@@ -36,29 +36,82 @@ permalink: /signup/
 
 <script>
 
+const msg = document.getElementById("message");
+
+function show(text, color="black") {
+
+  msg.style.color = color;
+  msg.innerHTML += "<br>" + text;
+
+  console.log(text);
+}
+
+show("Page loaded.");
+
+
+// -------------------------------------------------
+// CHECK SUPABASE LIBRARY
+// -------------------------------------------------
+
+if (!window.supabase) {
+
+  show("❌ Supabase library failed to load.", "red");
+
+} else {
+
+  show("✅ Supabase library loaded.", "green");
+}
+
+
+// -------------------------------------------------
+// CONFIG
+// -------------------------------------------------
+
 const SUPABASE_URL =
   "https://ernxbalkjqrlngnumsuh.supabase.co";
 
 const SUPABASE_ANON_KEY =
-  "YOUR_REAL_SUPABASE_ANON_KEY";
+  "PASTE_REAL_KEY_HERE";
 
-const supabase =
-  window.supabase.createClient(
-    SUPABASE_URL,
-    SUPABASE_ANON_KEY
+
+// -------------------------------------------------
+// CREATE CLIENT
+// -------------------------------------------------
+
+let supabase;
+
+try {
+
+  supabase =
+    window.supabase.createClient(
+      SUPABASE_URL,
+      SUPABASE_ANON_KEY
+    );
+
+  show("✅ Supabase client created.", "green");
+
+}
+
+catch(err) {
+
+  show(
+    "❌ Client creation failed: " + err.message,
+    "red"
   );
+}
+
+
+// -------------------------------------------------
+// BUTTON
+// -------------------------------------------------
 
 const button =
   document.getElementById("signupButton");
 
-const msg =
-  document.getElementById("message");
-
 
 button.addEventListener("click", async () => {
 
-  msg.style.color = "black";
-  msg.textContent = "Creating account...";
+  show("Button clicked.");
 
   try {
 
@@ -68,121 +121,85 @@ button.addEventListener("click", async () => {
     const password =
       document.getElementById("password").value;
 
-    const full_name =
-      document.getElementById("full_name").value.trim();
+    show("Attempting signup...");
 
-    const username =
-      document.getElementById("username").value.trim();
-
-    const phone =
-      document.getElementById("phone").value.trim();
-
-    console.log("Attempting signup...");
-
-    // -------------------------------------------------
-    // AUTH SIGNUP
-    // -------------------------------------------------
-
-    const response =
+    const result =
       await supabase.auth.signUp({
 
         email,
-        password,
-
-        options: {
-          emailRedirectTo:
-            "https://www.rikkijprince.com/login/"
-        }
+        password
 
       });
 
-    console.log(response);
+    show("Signup request completed.");
 
-    const data = response.data;
-    const error = response.error;
+    console.log(result);
 
-    // -------------------------------------------------
-    // HANDLE AUTH ERROR
-    // -------------------------------------------------
+    if (result.error) {
 
-    if (error) {
-
-      console.error(error);
-
-      msg.style.color = "red";
-
-      msg.textContent =
-        "❌ Signup failed: " + error.message;
-
-      setTimeout(() => {
-        window.location.href = "/";
-      }, 5000);
+      show(
+        "❌ Signup error: " +
+        result.error.message,
+        "red"
+      );
 
       return;
     }
 
+    show("✅ Signup succeeded.", "green");
+
+
     // -------------------------------------------------
-    // INSERT PROFILE
+    // PROFILE INSERT
     // -------------------------------------------------
 
-    if (data.user) {
+    const insertResult =
+      await supabase
+        .from("profiles")
+        .insert([{
 
-      const profileResponse =
-        await supabase
-          .from("profiles")
-          .insert([{
-            id: data.user.id,
-            full_name,
-            username,
-            phone
-          }]);
+          id: result.data.user.id,
 
-      console.log(profileResponse);
+          full_name:
+            document.getElementById("full_name").value,
 
-      if (profileResponse.error) {
+          username:
+            document.getElementById("username").value,
 
-        console.error(profileResponse.error);
+          phone:
+            document.getElementById("phone").value
 
-        msg.style.color = "red";
+        }]);
 
-        msg.textContent =
-          "❌ Profile save failed.";
 
-        setTimeout(() => {
-          window.location.href = "/";
-        }, 5000);
+    console.log(insertResult);
 
-        return;
-      }
+    if (insertResult.error) {
+
+      show(
+        "❌ Profile insert failed: " +
+        insertResult.error.message,
+        "red"
+      );
+
+      return;
     }
 
-    // -------------------------------------------------
-    // SUCCESS
-    // -------------------------------------------------
-
-    msg.style.color = "green";
-
-    msg.textContent =
-      "✅ Signup successful. Please check your email.";
-
-    setTimeout(() => {
-      window.location.href = "/";
-    }, 5000);
+    show(
+      "✅ Profile inserted successfully.",
+      "green"
+    );
 
   }
 
-  catch (err) {
+  catch(err) {
 
-    console.error("Unexpected error:", err);
+    console.error(err);
 
-    msg.style.color = "red";
-
-    msg.textContent =
-      "❌ Unexpected error. Check browser console.";
-
-    setTimeout(() => {
-      window.location.href = "/";
-    }, 5000);
+    show(
+      "❌ Unexpected error: " + err.message,
+      "red"
+    );
   }
 
 });
