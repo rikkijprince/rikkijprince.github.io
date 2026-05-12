@@ -122,6 +122,7 @@ button.addEventListener("click", async () => {
       document.getElementById("password").value;
 
     show("Attempting signup...");
+    show("Email = " + email);
 
     const result =
       await supabase.auth.signUp({
