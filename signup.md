@@ -28,57 +28,145 @@ permalink: /signup/
 <p id="message"></p>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
 <script>
+  
 const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
 const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVybnhiYWxranFybG5nbnVtc3VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM2MDg0NjIsImV4cCI6MjA4OTE4NDQ2Mn0.qDnHmgHRfYv_mcLj-JTmI6IT31zo2W2g8RFD3BRb4DU";
 
-const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+const supabase =
+  window.supabase.createClient(
+    SUPABASE_URL,
+    SUPABASE_ANON_KEY
+  );
 
-document.getElementById("signupForm").addEventListener("submit", async (e) => {
+const form = document.getElementById("signupForm");
+const msg = document.getElementById("message");
+
+form.addEventListener("submit", async (e) => {
+
   e.preventDefault();
 
-  const msg = document.getElementById("message");
+  msg.style.color = "black";
   msg.textContent = "Creating account...";
 
-  const email = document.getElementById("email").value.trim();
-  const password = document.getElementById("password").value;
+  const email =
+    document.getElementById("email").value.trim();
 
-  const full_name = document.getElementById("full_name").value;
-  const username = document.getElementById("username").value;
-  const phone = document.getElementById("phone").value;
+  const password =
+    document.getElementById("password").value;
 
-  const { data, error } = await supabase.auth.signUp({
-    email,
-    password,
-    options: {
-      emailRedirectTo: "https://www.rikkijprince.com/login/"
-    }
-  });
+  const full_name =
+    document.getElementById("full_name").value.trim();
 
-  if (error) {
-    msg.textContent = "❌ " + error.message;
-    return;
-  }
+  const username =
+    document.getElementById("username").value.trim();
 
-  // Save profile (optional but recommended)
-  if (data.user) {
-    const { error: profileError } = await supabase
-      .from("profiles")
-      .insert([{
-        id: data.user.id,
-        full_name,
-        username,
-        phone
-      }]);
+  const phone =
+    document.getElementById("phone").value.trim();
 
-    if (profileError) {
-      console.error(profileError);
+  try {
+
+    console.log("Starting signup...");
+
+    // -------------------------------------------------
+    // SIGNUP
+    // -------------------------------------------------
+
+    const { data, error } =
+      await supabase.auth.signUp({
+
+        email,
+        password,
+
+        options: {
+          emailRedirectTo:
+            "https://www.rikkijprince.com/login/"
+        }
+
+      });
+
+    console.log("Signup response:", data);
+
+    if (error) {
+
+      console.error("Signup error:", error);
+
+      msg.style.color = "red";
       msg.textContent =
-        "Account created, but profile save failed.";
+        "❌ Signup failed: " + error.message;
+
+      setTimeout(() => {
+        window.location.href = "/";
+      }, 5000);
+
       return;
     }
+
+    // -------------------------------------------------
+    // PROFILE INSERT
+    // -------------------------------------------------
+
+    if (data.user) {
+
+      const { error: profileError } =
+        await supabase
+          .from("profiles")
+          .insert([{
+            id: data.user.id,
+            full_name,
+            username,
+            phone
+          }]);
+
+      if (profileError) {
+
+        console.error(
+          "Profile insert error:",
+          profileError
+        );
+
+        msg.style.color = "red";
+        msg.textContent =
+          "❌ Account created, but profile save failed.";
+
+        setTimeout(() => {
+          window.location.href = "/";
+        }, 5000);
+
+        return;
+      }
+    }
+
+    // -------------------------------------------------
+    // SUCCESS
+    // -------------------------------------------------
+
+    msg.style.color = "green";
+    msg.textContent =
+      "✅ Account created successfully. Please check your email.";
+
+    console.log("Signup completed successfully.");
+
+    setTimeout(() => {
+      window.location.href = "/";
+    }, 5000);
+
   }
 
-  msg.textContent = "✅ Account created. Check your email to confirm.";
+  catch (err) {
+
+    console.error("Unexpected error:", err);
+
+    msg.style.color = "red";
+    msg.textContent =
+      "❌ Unexpected error. Please try again.";
+
+    setTimeout(() => {
+      window.location.href = "/";
+    }, 5000);
+  }
+
 });
+
 </script>
