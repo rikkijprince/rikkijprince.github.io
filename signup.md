@@ -188,4 +188,3 @@ button.addEventListener("click", async () => {
 });
 
 </script>
-</script>
