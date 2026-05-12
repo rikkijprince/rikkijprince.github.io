@@ -6,7 +6,8 @@ permalink: /signup/
 
 <h1>Create Your Account</h1>
 
-<form id="signupForm">
+<form id="signupForm" onsubmit="return false;">
+
   <label>Full Name</label><br />
   <input id="full_name" required /><br /><br />
 
@@ -22,17 +23,24 @@ permalink: /signup/
   <label>Password</label><br />
   <input id="password" type="password" required /><br /><br />
 
-  <button type="submit">Create account</button>
+  <button id="signupButton" type="button">
+    Create account
+  </button>
+
 </form>
 
 <p id="message"></p>
 
+
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 
 <script>
-  
-const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVybnhiYWxranFybG5nbnVtc3VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM2MDg0NjIsImV4cCI6MjA4OTE4NDQ2Mn0.qDnHmgHRfYv_mcLj-JTmI6IT31zo2W2g8RFD3BRb4DU";
+
+const SUPABASE_URL =
+  "https://ernxbalkjqrlngnumsuh.supabase.co";
+
+const SUPABASE_ANON_KEY =
+  "YOUR_REAL_SUPABASE_ANON_KEY";
 
 const supabase =
   window.supabase.createClient(
@@ -40,40 +48,42 @@ const supabase =
     SUPABASE_ANON_KEY
   );
 
-const form = document.getElementById("signupForm");
-const msg = document.getElementById("message");
+const button =
+  document.getElementById("signupButton");
 
-form.addEventListener("submit", async (e) => {
+const msg =
+  document.getElementById("message");
 
-  e.preventDefault();
+
+button.addEventListener("click", async () => {
 
   msg.style.color = "black";
   msg.textContent = "Creating account...";
 
-  const email =
-    document.getElementById("email").value.trim();
-
-  const password =
-    document.getElementById("password").value;
-
-  const full_name =
-    document.getElementById("full_name").value.trim();
-
-  const username =
-    document.getElementById("username").value.trim();
-
-  const phone =
-    document.getElementById("phone").value.trim();
-
   try {
 
-    console.log("Starting signup...");
+    const email =
+      document.getElementById("email").value.trim();
+
+    const password =
+      document.getElementById("password").value;
+
+    const full_name =
+      document.getElementById("full_name").value.trim();
+
+    const username =
+      document.getElementById("username").value.trim();
+
+    const phone =
+      document.getElementById("phone").value.trim();
+
+    console.log("Attempting signup...");
 
     // -------------------------------------------------
-    // SIGNUP
+    // AUTH SIGNUP
     // -------------------------------------------------
 
-    const { data, error } =
+    const response =
       await supabase.auth.signUp({
 
         email,
@@ -86,13 +96,21 @@ form.addEventListener("submit", async (e) => {
 
       });
 
-    console.log("Signup response:", data);
+    console.log(response);
+
+    const data = response.data;
+    const error = response.error;
+
+    // -------------------------------------------------
+    // HANDLE AUTH ERROR
+    // -------------------------------------------------
 
     if (error) {
 
-      console.error("Signup error:", error);
+      console.error(error);
 
       msg.style.color = "red";
+
       msg.textContent =
         "❌ Signup failed: " + error.message;
 
@@ -104,12 +122,12 @@ form.addEventListener("submit", async (e) => {
     }
 
     // -------------------------------------------------
-    // PROFILE INSERT
+    // INSERT PROFILE
     // -------------------------------------------------
 
     if (data.user) {
 
-      const { error: profileError } =
+      const profileResponse =
         await supabase
           .from("profiles")
           .insert([{
@@ -119,16 +137,16 @@ form.addEventListener("submit", async (e) => {
             phone
           }]);
 
-      if (profileError) {
+      console.log(profileResponse);
 
-        console.error(
-          "Profile insert error:",
-          profileError
-        );
+      if (profileResponse.error) {
+
+        console.error(profileResponse.error);
 
         msg.style.color = "red";
+
         msg.textContent =
-          "❌ Account created, but profile save failed.";
+          "❌ Profile save failed.";
 
         setTimeout(() => {
           window.location.href = "/";
@@ -143,10 +161,9 @@ form.addEventListener("submit", async (e) => {
     // -------------------------------------------------
 
     msg.style.color = "green";
-    msg.textContent =
-      "✅ Account created successfully. Please check your email.";
 
-    console.log("Signup completed successfully.");
+    msg.textContent =
+      "✅ Signup successful. Please check your email.";
 
     setTimeout(() => {
       window.location.href = "/";
@@ -159,8 +176,9 @@ form.addEventListener("submit", async (e) => {
     console.error("Unexpected error:", err);
 
     msg.style.color = "red";
+
     msg.textContent =
-      "❌ Unexpected error. Please try again.";
+      "❌ Unexpected error. Check browser console.";
 
     setTimeout(() => {
       window.location.href = "/";
@@ -169,4 +187,5 @@ form.addEventListener("submit", async (e) => {
 
 });
 
+</script>
 </script>
