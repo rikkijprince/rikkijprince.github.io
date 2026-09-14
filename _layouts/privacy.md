@@ -6,7 +6,7 @@ permalink: /privacy/
 
 ## Privacy Policy
 
-This website is operated by **Rikki J Prince**.
+This website is operated by **Rikki Jaffar Prince**.
 
 Your privacy is important. This page explains what data is collected and how it is used.
 

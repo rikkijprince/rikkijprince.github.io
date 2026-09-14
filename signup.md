@@ -1,71 +1,208 @@
 ---
 layout: default
 title: Sign Up
-description: "Sign up to Hybrid English 5.0"
-keywords: "subscribe, signup, Hybrid English"
 permalink: /signup/
 ---
 
 <h1>Create Your Account</h1>
 
-<form id="signupForm">
-  <label for="name">Name</label><br />
-  <input id="name" name="name" type="name" autocomplete="name" required /><br /><br />
+<form id="signupForm" onsubmit="return false;">
 
-  <label for="country">Country</label><br />
-  <input id="country" name="country" type="country" autocomplete="country" required /><br /><br />
+  <label>Full Name</label><br />
+  <input id="full_name" required /><br /><br />
 
-  <label for="phone">Phone</label><br />
-  <input id="phone" name="phone" type="phone" autocomplete="phone" required /><br /><br />
+  <label>Username</label><br />
+  <input id="username" required /><br /><br />
 
-  <label for="email">Email</label><br />
-  <input id="email" name="email" type="email" autocomplete="email" required /><br /><br />
+  <label>Email</label><br />
+  <input id="email" type="email" required /><br /><br />
 
-  <label for="password">Password</label><br />
-  <input id="password" name="password" type="password" autocomplete="new-password" required /><br /><br />
+  <label>Phone</label><br />
+  <input id="phone" required /><br /><br />
 
-  <button type="submit" class="cta-button">Create account</button>
+  <label>Password</label><br />
+  <input id="password" type="password" required /><br /><br />
+
+  <button id="signupButton" type="button">
+    Create account
+  </button>
+
 </form>
 
-<p id="message" style="margin-top:12px;"></p>
+<p id="message"></p>
+
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
 <script>
-  const SUPABASE_URL = "https://ernxbalkjqrlngnumsuh.supabase.co";
-  const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVybnhiYWxranFybG5nbnVtc3VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM2MDg0NjIsImV4cCI6MjA4OTE4NDQ2Mn0.qDnHmgHRfYv_mcLj-JTmI6IT31zo2W2g8RFD3BRb4DU";
 
-  const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+const msg = document.getElementById("message");
 
-  async function signUp(email, password) {
-    return await supabaseClient.auth.signUp({
-  name,
-  country,
-  phone,
-  email,
-  password,
-  options: {
-    emailRedirectTo: "https://rikkijprince.com/login/"
-    }
-  });
-  }
+function show(text, color="black") {
 
-  document.getElementById("signupForm").addEventListener("submit", async (e) => {
-    e.preventDefault();
+  msg.style.color = color;
+  msg.innerHTML += "<br>" + text;
 
-    const msg = document.getElementById("message");
-    msg.textContent = "Creating account...";
+  console.log(text);
+}
 
-    const email = document.getElementById("email").value.trim();
-    const password = document.getElementById("password").value;
+show("Page loaded.");
 
-    const { data, error } = await signUp(email, password);
 
-    if (error) {
-      msg.textContent = error.message;
+// -------------------------------------------------
+// CHECK SUPABASE LIBRARY
+// -------------------------------------------------
+
+if (!window.supabase) {
+
+  show("❌ Supabase library failed to load.", "red");
+
+} else {
+
+  show("✅ Supabase library loaded.", "green");
+}
+
+
+// -------------------------------------------------
+// CONFIG
+// -------------------------------------------------
+
+const SUPABASE_URL =
+  "https://ernxbalkjqrlngnumsuh.supabase.co";
+
+const SUPABASE_ANON_KEY =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVybnhiYWxranFybG5nbnVtc3VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM2MDg0NjIsImV4cCI6MjA4OTE4NDQ2Mn0.qDnHmgHRfYv_mcLj-JTmI6IT31zo2W2g8RFD3BRb4DU";
+
+
+// -------------------------------------------------
+// CREATE CLIENT
+// -------------------------------------------------
+
+let supabase;
+
+try {
+
+  supabase =
+    window.supabase.createClient(
+      SUPABASE_URL,
+      SUPABASE_ANON_KEY
+    );
+
+  show("✅ Supabase client created.", "green");
+
+}
+
+catch(err) {
+
+  show(
+    "❌ Client creation failed: " + err.message,
+    "red"
+  );
+}
+
+
+// -------------------------------------------------
+// BUTTON
+// -------------------------------------------------
+
+const button =
+  document.getElementById("signupButton");
+
+
+button.addEventListener("click", async () => {
+
+  show("Button clicked.");
+
+  try {
+
+    const email =
+      document.getElementById("email").value.trim();
+
+    const password =
+      document.getElementById("password").value;
+
+    show("Attempting signup...");
+    show("Email = " + email);
+
+    const result =
+      await supabase.auth.signUp({
+
+        email,
+        password
+
+      });
+
+    show("Signup request completed.");
+
+    console.log(result);
+
+    if (result.error) {
+
+      show(
+        "❌ Signup error: " +
+        result.error.message,
+        "red"
+      );
+
       return;
     }
 
-    // Redirect after signup
-    window.location.href = "{{ '/payment/' | relative_url }}";
-  });
+    show("✅ Signup succeeded.", "green");
+
+
+    // -------------------------------------------------
+    // PROFILE INSERT
+    // -------------------------------------------------
+
+    const insertResult =
+      await supabase
+        .from("profiles")
+        .insert([{
+
+          id: result.data.user.id,
+
+          full_name:
+            document.getElementById("full_name").value,
+
+          username:
+            document.getElementById("username").value,
+
+          phone:
+            document.getElementById("phone").value
+
+        }]);
+
+
+    console.log(insertResult);
+
+    if (insertResult.error) {
+
+      show(
+        "❌ Profile insert failed: " +
+        insertResult.error.message,
+        "red"
+      );
+
+      return;
+    }
+
+    show(
+      "✅ Profile inserted successfully.",
+      "green"
+    );
+
+  }
+
+  catch(err) {
+
+    console.error(err);
+
+    show(
+      "❌ Unexpected error: " + err.message,
+      "red"
+    );
+  }
+
+});
+
 </script>

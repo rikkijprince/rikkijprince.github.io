@@ -44,7 +44,7 @@ script[type="application/ld+json"] {
 }
 
 .logo {
-  width: min(400px, 100%);
+  width: min(200px, 50%);
   height: auto;
   margin: 0;
 }

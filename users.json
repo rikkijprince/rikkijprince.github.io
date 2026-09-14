@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "fullname": "Rikki Jaffar Prince"
+      "full_name": "Rikki Jaffar Prince",
       "username": "rikki",
       "email": "rikkilupe@gmail.com",
       "phone": "+346932882067",
@@ -15,7 +15,7 @@
       "trial_end": null
     },
     {
-      "fullname": "Guadalupe Herrero Rodríguez"
+      "full_name": "Guadalupe Herrero Rodríguez",
       "username": "lupe",
       "email": "rikkilupe@gmail.com",
       "phone": "+34619949826",
@@ -29,7 +29,7 @@
       "trial_end": null
     },
     {
-      "fullname": "Samuel Fox Prince Herrero"
+      "full_name": "Samuel Fox Prince Herrero",
       "username": "sf",
       "email": "rikkilupe@gmail.com",
       "phone": "+34123456789",
