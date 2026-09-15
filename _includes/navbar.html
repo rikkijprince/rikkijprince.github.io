@@ -1,35 +1,14 @@
-<header class="site-header">
-
-  <nav class="navbar">
-
-    <div class="logo-container">
-      <a href="{{ '/start/' | relative_url }}">
-        <img src="{{ '/assets/images/Hybrid_English_logo.webp' | relative_url }}"
-             alt="Hybrid English logo"
-             class="logo">
-      </a>
-    </div>
-
-    <button class="nav-toggle" id="navToggle">
-      <span class="bar"></span>
-      <span class="bar"></span>
-      <span class="bar"></span>
+<nav class="navbar">
+  <div class="nav-container">
+    <a class="nav-logo" href="{{ '/' | relative_url }}">Rikki J Prince</a>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span class="bar"></span><span class="bar"></span><span class="bar"></span>
     </button>
-
-    <div class="nav-links" id="navMenu">
-      <a href="{{ '/start/' | relative_url }}">Home</a>      
-      <a href="{{ '/more_info/' | relative_url }}">Details</a>
-      <a href="{{ '/login/' | relative_url }}">Login</a>
-      <a href="{{ '/signup/' | relative_url }}">Signup</a>
-      <a href="{{ '/signup/' | relative_url }}" class="nav-cta">Start Free Trial</a>
-      <a href="{{ '/book_classes/' | relative_url }}" class="nav-cta">Book Live Tutor</a>
-      <a href="{{ '/assets/pdf/automatic-mind.pdf' | relative_url }}"
-   class="nav-cta"
-   download>
-   Download free book: Automatic Mind
-</a>
-    </div>
-
-  </nav>
-
-</header>
+    <ul class="nav-links">
+      <li><a href="{{ '/' | relative_url }}">Hybrid English 5.0</a></li>
+      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+      <li><a href="{{ '/why-i-abandoned-ai/' | relative_url }}">Why I Abandoned the AI-Only Approach</a></li>
+      <li><a href="{{ '/more_info/' | relative_url }}">More information</a></li>
+    </ul>
+  </div>
+</nav>
