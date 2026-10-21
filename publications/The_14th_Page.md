@@ -8,8 +8,8 @@ permalink: /publications/The_14th_Page/
 # The 14th Page
 **Rikki J. Prince**
 
-<!-- TODO before publication: add the approved English cover asset. Suggested path: /assets/images/publications/The_14th_Page.webp -->
-<!-- TODO before publication: add the confirmed retailer or sample-reading URL. -->
+<!-- TODO before publication: add the approved English cover asset. Suggested path: /assets/images/publications/The 14th Page ebook cover.jpg -->
+<!-- TODO before publication: add the confirmed retailer or sample-reading URL. https://www.amazon.es/dp/B0HJJY5J3F?tag=rjpamazon-21-->
 
 *An ancient code. A hidden world. A truth that could change everything.*
 
