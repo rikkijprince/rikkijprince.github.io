@@ -8,8 +8,8 @@ permalink: /publications/Bicameral_en/
 # Bicameral
 **Rikki J. Prince**
 
-<!-- TODO before publication: add the approved English cover asset. Suggested path: /assets/images/publications/Bicameral_en.webp -->
-<!-- TODO before publication: confirm the English retailer and sample-reading URLs. -->
+<!-- TODO before publication: add the approved English cover asset. Suggested path: /assets/Bicameral_SP digital cover.png -->
+<!-- TODO before publication: confirm the English retailer and sample-reading URLs.https://www.amazon.com/dp/B0HHFB1291?tag=rjpamazon-21 -->
 
 *Two minds. One voice. A truth buried before language.*
 
