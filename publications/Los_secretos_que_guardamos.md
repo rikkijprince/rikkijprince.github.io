@@ -9,8 +9,8 @@ permalink: /publications/Los_secretos_que_guardamos/
 # Los secretos que guardamos
 **Rikki J. Prince**
 
-<!-- TODO antes de publicar: añadir la portada española aprobada. Ruta sugerida: /assets/images/publications/Los_secretos_que_guardamos.webp -->
-<!-- TODO antes de publicar: añadir el enlace confirmado a la tienda y, si existe, a una muestra de lectura. -->
+<!-- TODO antes de publicar: añadir la portada española aprobada. Ruta sugerida: /assets/images/publications/Los secretos que guardamos ebook cover.png -->
+<!-- TODO antes de publicar: añadir el enlace confirmado a la tienda y, si existe, a una muestra de lectura. amazon.es/dp/B0HK13K4YD/?tag=rjpamazon-21-->
 
 ## Hay secretos que protegen. Otros convierten a quienes los conocen en objetivos.
 
