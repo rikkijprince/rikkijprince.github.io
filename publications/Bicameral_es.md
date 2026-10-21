@@ -9,8 +9,8 @@ permalink: /publications/Bicameral_es/
 # Bicameral
 **Rikki J. Prince**
 
-<!-- TODO antes de publicar: añadir la portada española aprobada. Ruta sugerida: /assets/images/publications/Bicameral_es.webp -->
-<!-- TODO antes de publicar: añadir el enlace español confirmado a la tienda y, si existe, a una muestra de lectura. -->
+<!-- TODO antes de publicar: añadir la portada española aprobada. Ruta sugerida: /assets/images/publications/Bicameral_SP digital cover.png -->
+<!-- TODO antes de publicar: añadir el enlace español confirmado a la tienda y, si existe, a una muestra de lectura. https://www.amazon.es/Bicameral-lenguaje-conciencia-orígenes-Spanish-ebook/dp/B0HHFBBKJL?tag=rjpamazon-21" -->
 
 ## ¿Cuánto sabes realmente de la voz que llamas «yo»?
 
