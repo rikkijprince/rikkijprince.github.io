@@ -8,7 +8,7 @@ permalink: /publications/The_Edge_of_Reality/
 # The Edge of Reality
 **Rikki J. Prince**
 
-<!-- TODO before publication: add the approved English cover asset. Suggested path: /assets/images/publications/The_Edge_of_Reality.webp -->
+<!-- TODO before publication: add the approved English cover asset. Suggested path: /assets/images/publications/The Edge of Reality digital cover.png -->
 <!-- TODO before publication: add the confirmed retailer or sample-reading URL. -->
 
 *Two epic voyages bordering the impossible.*
