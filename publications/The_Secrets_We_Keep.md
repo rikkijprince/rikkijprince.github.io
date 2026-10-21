@@ -8,8 +8,8 @@ permalink: /publications/The_Secrets_We_Keep/
 # The Secrets We Keep
 **Rikki J. Prince**
 
-<!-- TODO before publication: add the approved English cover asset. Suggested path: /assets/images/publications/The_Secrets_We_Keep.webp -->
-<!-- TODO before publication: add the confirmed retailer or sample-reading URL. -->
+<!-- TODO before publication: add the approved English cover asset. Suggested path: /assets/images/publications/The Secrets We Keep ebook cover.jpg -->
+<!-- TODO before publication: add the confirmed retailer or sample-reading URL. amazon.com/dp/B0HK185QJZ-->
 
 *Some houses keep their secrets. This one keeps you.*
 
