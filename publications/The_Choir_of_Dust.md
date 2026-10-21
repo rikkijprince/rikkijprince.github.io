@@ -8,7 +8,7 @@ permalink: /publications/The_Choir_of_Dust/
 # The Choir of Dust
 **Rikki J. Prince**
 
-<!-- TODO before publication: add the approved English cover asset. Suggested path: /assets/images/publications/The_Choir_of_Dust.webp -->
+<!-- TODO before publication: add the approved English cover asset. Suggested path: /assets/images/publications/The Choir of Dust digital cover.png -->
 <!-- TODO before publication: add the confirmed retailer or sample-reading URL. -->
 
 *Some emotions were never meant to be silenced.*
